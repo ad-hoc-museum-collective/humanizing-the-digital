@@ -8,4 +8,6 @@ toc: false
 image: pattern-spiral-overlay.png
 ---
 
-In the 1930s, during America's worst financial crises, the administration of President Franklin D. Roosevelt employed photographers to document the plight of everyday folk in the Great Depression in order to push forward with their New Deal programs. Documentary photographers Dorothea Lange and Walker Evans were prolific frontrunners of these efforts and their extraordinary photographs continue to endure today. Their artistic and documentary mastery and historical importance provide key insight into a monumental turning point in American history.
+MCN’s 2018 conference, *Humanizing the Digital*, explored how museums can use technology to foster human connection and dialogue, advance accessibility and inclusion, and champion inquiry and knowledge. After witnessing the presentations and rich conversations that arose from them, a group of practitioners came together to explore how best to capture and disseminate the learnings that occurred at the conference. The outcome was a decision to solicit and publish a book inspired by the conference and its ideas. 
+
+*Humanizing the Digital: Unproceedings from the MCN 2018 Conference* contains 17 conference-inspired responses to the state of museum technology in 2018, including essays, reflections, case studies, conversations, and an experimental in-book zine. The topics explore areas as diverse as calm technology, Artificial Intelligence, Augmented Reality, visitor-centered communication, interpretation and programming, empathy, inclusion and slow change.

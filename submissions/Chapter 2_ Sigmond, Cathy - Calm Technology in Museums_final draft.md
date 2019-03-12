@@ -1,0 +1,175 @@
+---
+title: '[]{#_gjdgxs .anchor}Calm Technology in Museums'
+---
+
+**Cathy Sigmond**
+
+# Introduction
+
+What is Calm Technology? How do the principles of Calm Technology apply to museums?
+
+In her keynote address at the Museum Computer Network (MCN) 2018 conference in Denver, Colorado, user experience designer and cyborg anthropologist Amber Case discussed Calm Technology,[^1] which she described as a design philosophy that aims to respect our “humanness” by reducing complexity to promote focus and calm.[^2] She outlined the underlying principles of Calm Technology, which she claims work together to “conserve and respect human attention.”[^3] While Case’s keynote address did not focus on museums specifically, her ideas resonated with me as a museum evaluator. My work in evaluation centers on helping museum professionals better understand how the products they create – whether a program, an exhibition, piece of technology, or anything else – are “working” for visitors. Conserving and respecting people’s attention is both fundamental and crucial to designing something that “works.”
+
+In this essay, I draw on Case’s keynote address and explore how we might apply the principles of Calm Technology to our work in museums, and in what ways, if any, the principles of Calm Technology can help us design museum experiences so they best serve visitors.
+
+# Calm Technology in Brief 
+
+The phrase “Calm Technology” was first coined in the 1990s by researchers studying human-computer interaction at Xerox’s Palo Alto Research Center (Xerox PARC). Three of these researchers, Mark Weiser, John Seely Brown, and Rich Gold, believed that technology was becoming increasingly complex and thus placing competing demands on our attention. Their chief concern was that a future saturated with devices and connected networks would have a negative impact on human behavior and our general well-being.[^4] In her MCN keynote, Case argued that this idea was far ahead of its time—the researchers at Xerox PARC were able to foresee many of the threats that poorly-designed technology would pose to our well-being, long before smartphones and the internet were ubiquitous.[^5] Weiser, Brown, and Gold envisioned a future where technology disappeared into the background, allowing us to go about our lives assisted by – but not distracted by – technology. Weiser sums it up well in this quotation:
+
+*“The most profound technologies are those that disappear. They weave themselves into the fabric of everyday life and are indistinguishable from it.”*[^6]
+
+One way to think about Calm Technology is simply as “non-intrusive” design.[^7] The overarching goal is to design interactions – whether with a product or service, physical or digital – that are elegant and humane. Case argues that designing technology to be “calm” both respects our limited time and helps ease our cognitive load. That is, if good design allows someone to get to their goal with the *fewest steps*, designing something to be calm allows someone to get there with the *lowest mental cost*.”[^8] This is an important consideration because while the capabilities of machines have (and will continue to) rapidly improve, the limits of human cognition remain the same. Technology, therefore, should work *with* people and not *against* them.
+
+# Applying the Principles of Calm Technology to Museums 
+
+Case developed eight principles for designing Calm Technology that expand on the Xerox PARC researchers’ original ideas. These principles are important for anyone designing new technologies in today’s hyper-connected and smart device-filled world to keep in mind, but I also see them as incredibly useful for thinking through designing museum experiences, and more specifically, exhibitions. In the sections that follow, I discuss each of the eight principles of Calm Technology in the context of museums. My intention is to reiterate Case’s ideas so as not to forget her intellectual labor, but also to expand on them and consider how they apply to the practical realities of designing for museums.
+
+However, before going any further—one important caveat about the word “technology.” In this essay (and in Case’s and the Xerox PARC researchers’ work), technology does not necessarily mean something “digital;” it simply means anything we design and build to help us accomplish a goal. Defined this way, technology encompasses everything from a tea kettle to a smoke alarm to an app.[^9] Whether or not you agree with this broad definition, it is useful for helping us to recall an important point – that ultimately, we design things to be an extension of ourselves. In this way, technology is fundamentally human, no matter what form it takes.[^10] This is an especially salient point when thinking about museums –institutions rooted in human stories and creativity – where the overarching goal of our work is always to make a positive impact on audiences.
+
+## Principle I: Technology should require the smallest possible amount of attention.
+
+This idea is best summarized as follows: avoid information overload! In other words, technology should allow us to quickly surmise a crucial piece of information at a glance, without demanding our full attention. Case gives the example of the light on an oven that indicates whether it is preheated; you can quickly see if the oven is preheated based on whether or not the light is illuminated. This is also indicated by sound; an oven beeps when preheated, allowing the user to walk away while it heats up rather than wait and watch for the light to turn on.
+
+The core component of this principle is its focus on our attention as a limited commodity. Attention, Case claims, is still not a widespread consideration when designing technologies. Arguably, the same is often true in museums. For instance, think about how many exhibitions still include copious amounts of text or long films, despite decades of timing and tracking studies that indicate the average length of time visitors spend in an *entire exhibition* is under 10 minutes.[^11] While providing opportunities for deeper engagement is important, we should ensure that core information – the key takeaway – is always available to visitors at a glance. This applies whether the designed experience is a paper map of the museum, a single exhibit label, an interactive, an app, or an entire exhibition.
+
+## Principle II: Technology should inform and create calm. 
+
+This is the idea that technology can create a sense of calm by letting you know that a system is functioning correctly and that all is well, without demanding your full attention or creating friction. For instance, a tea kettle can be ignored most of the time, until it sings. It does not draw attention to itself until necessary. Another good example is anti-virus software, which continuously runs in the background on your computer and alerts you only when it has found something suspicious. The calm comes from knowing that you will be alerted at the appropriate time if something needs to be addressed.[^12]
+
+This idea overlaps with Principle I, but it emphasizes the *affective* response a designed experience should ideally instill in users. Applied to museums, this is another a reminder not to overwhelm visitors with information or instructions and to instead find ways for them to retain the sense of calm they (hopefully) walked in with. Doing so sets the stage for visitors to experience wonder and delight (two things you are unlikely to experience when overwhelmed).  And, it leaves room for visitors to focus on enjoying time spent with family and friends instead of complex problem-solving.
+
+## Principle III: Technology should make use of the periphery. 
+
+A Calm Technology “moves easily from the periphery of our attention, to the center, and back;” and, the information in the periphery is informative without demanding our full focus.[^13] The classic examples, according to Case, come from the experience of driving. When driving, our primary task is to pay attention to the road; however, using touch, sound, and peripheral vision can alert drivers of new information and allow them to complete secondary, supporting tasks while staying focused on the road. For instance, pushing on a handle to turn on your turn signal does not require you take your eyes off of the road, nor does turning on your high-beam headlights.
+
+What I love about this principle is the inherent challenge to create experiences that minimize unnecessary distractions which reduce our ability to successfully accomplish a goal. In museums, consider the “goal” to be, for example, learning a key idea the exhibition intends to communicate, experiencing a particular emotion it intends to instill, or participating in an experience with others. When our attention is interrupted for something that is not crucial to supporting the goal, it ultimately makes it less likely that goal will be achieved. This principle begs the question of how we might better support visitors in achieving core intended outcomes by designing peripheral (secondary and tertiary) experiences more intentionally. For instance, how might ‘attract screens’ on interactives or films passively instill an intended emotion or inform visitors of a key message at a glance, in the event a visitor quickly walks by and never ends up stopping to use those exhibits in-depth?
+
+## Principle IV: Technology should amplify the best of technology and the best of humanity. 
+
+Put simply, this is the idea that machines should not act like humans and humans should not act like machines. Being human means seeking food and fun; being creative and caring about others; seeking social connections; and desiring meaning and belonging.[^14] Humans are also uniquely capable of understanding context and abstraction, but machines cannot do this unless we teach them to; even then, there is a limit to their capabilities. The best technologies celebrate and *amplify* these qualities that make us human. This, Case argues, is what makes the Google search engine such great technology. Its core function is to connect us to all of the knowledge that other humans have created over time, fulfilling our natural desire for connection and belonging.
+
+There are a few lessons for museums inherent in this principle. One is to be forgiving of the humanness of visitors when they have trouble using your designs. That is, respect people by providing support (both instructional and emotional) when human error inevitably occurs. This might even mean testing your designs to learn unexpected ways people use your creations and then redesigning *for* those tendencies rather than against them. It also means understanding that visitors will make connections between their personal experiences and the information/stories you provide that you never anticipated, and designing for and encouraging this behavior. In other words, we must design museum experiences that provide a variety of entry points for visitors to make connections. And, consider Case’s example of the Google search engine as a technology that successfully amplifies the best of technology and the best of humanity. What parallels exist with museums’ collections? What types of experiences might we create with our collections if we think about tools like our collections databases as avenues for human connection and socialization, rather than encyclopedic repositories?
+
+## Principle V: Technology can communicate, but it doesn’t need to speak. 
+
+Here Case challenges us to think critically about whether words are really essential to effective and accessible communication. Does technology need to rely on voice, or can it use a different communication method? She gives the example of Roomba™, the popular hands-free robot vacuum.  Roomba is universally understood because it communicates through sound and tone rather than through voice. When Roomba completes a task, it chirps; when it gets stuck, it emits a somber tone. Everyone understands this no matter their age or what language they speak.[^15]
+
+It is worth considering how museums might rely less on words in exhibitions to promote clarity and accessibility. The obvious tension here is that, as storytelling institutions, museums need to rely to some degree on words and voice to communicate stories. The question then becomes this: once we have pared down the words/voice to communicate only what is essential (recall Principles I and II), how do we leverage other communication methods to enhance the information communicated through words? Wayfinding is one obvious example of how museums often (though not always) successfully apply this idea; physical cues such as the placement of partitions, the size of openings, the intensity of lighting all suggest how visitors should move through a space. Are there other instances where nonverbal cues such as positive or negative tones, symbols, lights, or haptic features could successfully replace text or voice in an exhibition?
+
+## Principle VI: Technology should work even when it fails.
+
+How, you might wonder, does something still work if it has failed? The answer is by building “edge cases” – scenarios that are unlikely to occur but that could occur – into the design. Case gives the example of an escalator, which reverts to a set of stairs if it stops moving, still allowing transportation from one floor of a building to another. Case argues that designers often ignore edge cases and instead design things that fail completely if one part of the design does not work as intended. This does not have to be a drastic, complete failure; only a small thing has to go wrong to make you lose focus or direction when trying to complete a task or achieve a goal. The key to avoiding derailment from the task at hand is to design systems that have a “fallback mode” that offers less functionality but still offers access to the basics.[^16]
+
+This mindset of flexibility and contingency planning is important for museums to adopt when designing for exhibitions. Put another way, how might we design exhibit experiences to account for things breaking? Or for small (yet impactful) distractions? If one feature of an exhibit breaks or is for some reason temporarily inaccessible, there needs to still be a way for visitors to interact with it and walk away with the big idea. Another way to think about potential “failure” in a museum setting is to consider that visitors are almost never alone when visiting an exhibition. More often than not, there are many potential distractions surrounding visitors (e.g., their phones, other visitors) that may keep them from achieving the museum’s intended outcomes. The key to ensuring that visitors still achieve these outcomes is building in redundancy so that visitors can still walk away with the exhibition’s big idea, even if they missed part of an exhibit because they were temporarily distracted.
+
+## Principle VII: The right amount of technology is the minimum needed to solve the problem.
+
+This is essentially a call for simplicity. In other words, do not provide a user with more information or features than they need to accomplish a goal, or you risk confusing them and diluting their ability to accomplish the task you designed a tool or service to help them accomplish in the first place. It all comes down to alignment. Case poses the following question: “For each new feature, ask yourself, *is this something necessary to the product?* Not fun, *but necessary*. If it doesn’t solve a core problem, don’t build it.” [^17] \[emphasis hers\]
+
+Of course, designing something simple is never a simple process. It usually requires months of planning, testing, and retesting to arrive at the simplest solution to accomplish your goals. Applied to museums, this is a call to both resist the urge to share every interesting fact or story (which would be overwhelming) and also to rigorously and continuously test your designs with actual visitors. If we don’t keep this idea in mind when we design for exhibitions, we risk diluting the big ideas we hope to convey and the feelings we hope to instill in visitors. It helps to reframe Case’s question using museum language: For each possible new piece of information or design feature, ask yourself, is this something *necessary to convey the key message?* Not fun, *but necessary*. If it doesn’t reinforce the key message, don’t say it.
+
+## Principle VIII: Technology should respect social norms.
+
+The final principle asks us to take social context into consideration when designing something new. Technology (or a service) is readily accepted when it is perceived as “restoring” people back to a situation that’s considered “normal.” This, Case argues, is why eyeglasses and crutches are not fear-inducing pieces of technology. They give people capabilities that put them back in line with the expected state of seeing clearly and moving around.[^18] It’s when a technology is perceived to enhance or elevate our capabilities beyond what we are already used to that it risks becomes anxiety-inducing. Thus, it is important to *gradually* expand people’s understandings of what is normal or acceptable by slowly – very slowly – introducing new features and concepts, one at a time, and allowing people to slowly adjust to the idea as it becomes the norm.[^19]
+
+Thinking again about museums, this is yet another call not to overwhelm visitors with a too many new experiences at once. If someone is not used to using a particular technology (e.g., augmented reality, virtual reality) at home, then they are unlikely to readily do so in the museum without any anxiety. To be clear, adhering to this principle does *not* mean avoiding taking risks or trying new things. It simply means slowly introducing those new things to visitors in a thought-out and coordinated way, rather than trying all the new things at once hoping to wow people. People need time to adjust to new circumstances.
+
+## 
+
+# Conclusion
+
+Chances are that many of these ideas feel familiar, even if you’ve never heard of Calm Technology before reading this essay. That is because, although it arose from the field of human-computer interaction, it has a lot in common with other ways of thinking that we already draw inspiration from or use directly in the museum field. Consider human-centered design, user experience design, and intentional practice. All of these areas of practice focus on creating products and services that “work for people.” Human-centered design is a framework that considers the human perspective throughout the design process, and can be applied to any discipline.[^20] User experience design similarly considers all aspects of an end-user’s interaction with a company, its services, and its products.[^21] And in a broader vein that is more specific to museums, intentional practice asks museums to articulate the kind of impact they hope to achieve among audiences and align their actions accordingly.[^22] All three of these frameworks place audiences at the center of our work.
+
+Calm Technology offers a slightly different, but equally useful lens through which to view our work in museums. The principles of Calm Technology are simple, but it is often the simplest ideas that can have the greatest impact. Taken individually, each principle offers a useful constraint that can help weed out the aspects of a design that are not helping you or your visitors achieve a goal. All together, they are a set of values that all museum professionals should consider to inform a holistic approach to decision-making when working to create powerful and meaningful experiences – “technological” or otherwise – for visitors.[^23]
+
+# Bibliography
+
+Case, Amber. “Calm Technology Papers.” *Calm Tech* <https://calmtech.com/papers.html> (accessed
+
+February 10, 2019).
+
+*Case, Amber. Calm Technology: Principles and Patterns for Non-Intrusive Design*. Sebastopol: O’Reilly
+
+Media, Inc., 2016.
+
+Case, Amber. “About.” *Case Organic.* <https://caseorganic.com/about/> (accessed February 10, 2019).
+
+Elisia, Francesca. “What’s the Difference Between Human-Centered Design and User Experience
+
+Design?.” *Medium.* August 20, 2017. <https://bit.ly/2CJK5P9> (accessed February 10, 2019).
+
+Korn, Randi. *Intentional Practice for Museums.* Lanham: Rowman & Littlefield, 2018.
+
+Norman, Don and Jakob Nielson. “The Definition of User Experience (UX).” *Nielson Norman Group*.
+
+https://www.nngroup.com/articles/definition-user-experience/ (accessed February 7, 2019).
+
+Serrell, Beverly. “Field Trips Are Valuable Learning Experiences.” *Informal Science.* July 8, 2016.
+
+http://www.informalscience.org/news-views/paying-more-attention-paying-attention (accessed
+
+February 09, 2019).
+
+Serrell, Beverly. *Paying Attention: Visitors and Museum Exhibitions*. Washington, D.C.: American
+
+Association of Museums, 1998.
+
+Weiser, Mark and John Seely Brown. “Designing Calm Technology.” listed in *Calm Technology Papers *
+
+https://calmtech.com/papers/computer-for-the-21st-century.html (accessed February 10, 2019).
+
+Weiser, Mark and John Seely Brown. “The Coming Age of Calm Technology.” listed in *Calm Technology *
+
+*Papers*. https://calmtech.com/papers/coming-age-calm-technology.html (accessed February 10,
+
+2019).
+
+Weiser, Mark. “The Computer for the 21^st^ Century,” listed in *Calm Technology Papers*.
+
+https://calmtech.com/papers/computer-for-the-21st-century.html (accessed February 10, 2019).
+
+[^1]: The phrase “Calm Technology” is capitalized here and throughout this essay to be consistent with Case’s writings both online and in her book. Amber Case, *Calm Technology: Principles and Patterns for Non-Intrusive Design* (Sebastopol: O’Reilly Media, Inc., 2016), 15.
+
+[^2]: Amber Case, “About,” *Case Organic,* [[https://caseorganic.com/about]{.underline}](https://caseorganic.com/about/) (accessed February 10, 2019)
+
+[^3]: Case, *Calm Technology,* 15.
+
+[^4]: Weiser and Brown published a series of research papers outlining the need for Calm Technology in the mid-1990s. They include the following and can all be accessed on Amber Case’s website, [[https://calmtech.com/papers.html]{.underline}](https://calmtech.com/papers.html) : Mark Weiser, “The Computer for the 21^st^ Century,” (September 1991); Mark Weiser and John Seely Brown, “Designing Calm Technology,” (December 1995); and Mark Weiser and John Seely Brown, “The Coming Age of Calm Technology,” (October 1996).
+
+[^5]: To draw attention to their work, Case wrote the book *Calm Technology,* where she reiterates Weiser, Brown, and Gold’s ideas and expands on them to account for the passage of time since their conception.
+
+[^6]: Weiser, “The Computer for the 21^st^ Century,” quoted in Case, *Calm Technology,* 15.
+
+[^7]: Case, *Calm Technology,* viii (preface).
+
+[^8]: Case, *Calm Technology,* 16.
+
+[^9]: Those who attended Case’s keynote address at MCN 2018 might recall that she cited a tea kettle as an example of Calm Technology.
+
+[^10]: Case, *Calm Technology,* x (preface).
+
+[^11]:  For a broad comparison of summative evaluation studies in museums, see: Beverly Serrell, *Paying Attention: Visitors and Museum Exhibitions* (Washington, D.C.: American Alliance Of Museums, 1998). This book that was first published in 1998 and that was supported by a National Science Foundation (NSF) grant called “A Meta-analysis of Visitor Time/Use in Museum Exhibitions. For an update from Serrell since the book was first published and a list of many other resources on timing and tracking studies, see: Beverly Serrell, “Field Trips Are Valuable Learning Experiences,” *Informal Scienc*e, July 8, 2016 http://www.informalscience.org/news-views/paying-more-attention-paying-attention (accessed February 09, 2019). For a list of specific summative evaluation studies that including the timing and tracking methodology, see *Informal Science,* [[http://informalscience.org/search-results?search\_api\_views\_fulltext=timing%20and%20tracking&f\[1\]=search\_api\_combined\_2:41]{.underline}](http://informalscience.org/search-results?search_api_views_fulltext=timing%20and%20tracking&f%5b1%5d=search_api_combined_2:41) (accessed February 10, 2019).
+
+[^12]: Case, *Calm Technology,* 20.
+
+[^13]: Amber Case, “Principles of Calm Technology,” *Calm Tech*, [[https://calmtech.com/index.html]{.underline}](https://calmtech.com/index.html) (accessed February 10^,^ 2019).
+
+[^14]: Case, *Calm Technology*, 29.
+
+[^15]: “Principles of Calm Technology.”
+
+[^16]: Case, *Calm Technology*, 40.
+
+[^17]: Case, *Calm Technology,* 43.
+
+[^18]: Case, *Calm Technology*, 46.
+
+[^19]: Case, *Calm Technology,* 48.
+
+[^20]: Francesca Elisia, “What’s the Difference Between Human-Centered Design and User Experience Design?”, *Medium* [[https://blog.prototypr.io/whats-the-difference-between-human-centred-design-and-user-experience-design-2f48e5c9be25]{.underline}](https://blog.prototypr.io/whats-the-difference-between-human-centred-design-and-user-experience-design-2f48e5c9be25) (accessed February 7, 2019).
+
+[^21]: Don Norman and Jakob Nielsen, “The Definition of User Experience (UX),” *Nielson Norman Group,* [[https://www.nngroup.com/articles/definition-user-experience/]{.underline}](https://www.nngroup.com/articles/definition-user-experience/) (accessed February 7, 2019).
+
+[^22]: Randi Korn, “*Intentional Practice for Museums,”* (Lanham: Rowman & Littlefield, 2018), xix (preface).
+
+[^23]: Case, *Calm Technology,* 51.

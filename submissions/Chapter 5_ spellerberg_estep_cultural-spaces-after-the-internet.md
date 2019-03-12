@@ -1,0 +1,163 @@
+---
+title: '[]{#_frvkcsc85wc .anchor}**Cultural Spaces After the Internet**'
+---
+
+**Meagan Estep and Marty Spellerberg**
+
+In November 2018, thirty people came together in Denver for a roundtable discussion called “Proud to Be Flesh: Cultural Spaces After the Internet” as part of the MCN conference. Both authors participated in the conversation and build on the issues raised in this essay.
+
+“Proud to be flesh.” This was the tagline of *Mute*, a magazine founded in 1994–when the World Wide Web was newborn–to discuss the interrelationship of art and new technologies.[^1] This phrase captures the frisson that our physical experience is now distinct from another possible way of being. That the flesh matters, *still*.
+
+In the flesh, a museum visitor can slow down and find the space to have a transformative experience. Magic can happen when visitors spend time observing, contemplating, and really drinking in an object in a museum. Scholar David Carr calls this “becoming”[^2] — in other words, we can use objects as powerful teachers of something new. They transport us, add depth and dimension to our lives, and stir our emotions.
+
+It’s not new to say that there is no “best” way to engage with objects in a museum.[^3] Nor can we say the best way to observe or connect with a museum online. Things have changed since 1994, especially in the online experience of museums, which can no longer be considered entirely separate from the on-site. As much of the world moves online, what’s next for engaging, enriching, in-real-life experiences of art and culture?[^4]
+
+Curators might say that you still need an in-real-life experience, along with some type of scholarly information, to access an aesthetic experience. Educators might tell you that you need a participatory tour (or two) and a lot of open-ended questions. An artist or creator might ask you to quietly contemplate their object, be it online or on-site.
+
+With both digital and physical experiences blended in a museum setting, can we even distinguish one from the other? Are they even separate?
+
+According to *Art In America*, “It’s no longer a question of whether art institutions should have a virtual presence. Rather, the onus is being placed on designers to facilitate meaningful interactions with art that might occur in the gallery, via Web-based applications or in new hybrid spaces that merge the real and the virtual.”[^5]
+
+What is different about these spaces from the ones that came before?
+
+Let’s look to the example of a digital-native. *Artsy* bills itself as a “place to learn about and collect art online.” Rather than a having an online office within a larger offline organization, they’ve flipped the ratios. Their “special projects” initiative applies online resources toward offline activations. For example, the decision to work with artist Misha Kahn on an offline project, a Tiki Bar during Frieze New York[^6], followed from the success of an online profile. "We knew that he had resonated with our online audience and would likely excite our offline audience as well," they explained.[^7]
+
+Or consider artists such as Kara Walker, whose work is so prolific on Instagram, a social-media platform, that some people skipped seeing a piece because they felt that they had already sufficiently experienced it. As Sarah Hromack, then director of digital media at the Whitney, reported:
+
+> I witnessed a conversation wherein a handful of New York-based arts professionals admitted to having willfully refrained from seeing Kara Walker’s recent installation, *A Subtlety, or the Marvelous Sugar Baby*—a magnificent larger-than-life sphinx made of refined white sugar—in Brooklyn’s Domino Sugar factory, because they felt that they had already sufficiently experienced the piece through images seen in others’ Instagram feeds.[^8]
+
+The social media presence of this piece spawned a discussion of issues of race[^9] and sexuality[^10] in the public’s engagement with art. Keeping her focus trained on the apparent either/or of online/offline visitation, Hromack continued,
+
+> To think that now, in 2014, we would allow ourselves to be dissuaded from a physical experience by the effects of a digital interface is sad ... Seeing an image pop up over and over again in various social media feeds might make me feel a sense of familiarity with the work, but it cannot approximate my sensorial experience—and I say this as a person that has experienced augmented and virtual reality in military-grade computer labs![^11]
+
+What may have been an obvious, settled fact in 2014 became less-so four years later, when the New York *Times* was compelled to ask: “Does the availability of virtual reality tours, videos and photographs of museum collections worldwide make physical museums themselves obsolete?”[^12]
+
+Of what a visitor may find within museum walls, they write:
+
+> In the presence of the “Mona Lisa,” digital photography, more than looking at the actual artwork, has become the primary experience. ... The way the “Mona Lisa” is viewed is, in fact, soberingly representative of the way most art is viewed in today’s saturated, digitally mediated, visual culture. How many more (or fewer) seconds do cellphone‑wielding visitors spend looking at individual works at a commercial art fair or exhibition than at the Louvre? How is an artistic reputation made these days, other than through Instagram? [^13]
+
+A condition to which the *New Yorker* attempts to ascribe meaning:
+
+> Visual art in 2018 is increasingly a set piece of sorts, an aesthetic signifier that can mean “taste,” or “contemplation,” or “having a good time,” depending on the artwork in question. Rothko paintings are particularly good for this, judging by their popularity online; they flatten easily into bright swaths of color, while maintaining a certain cultural cachet. [^14]
+
+In response, new “museums” have emerged, like the Color Factory in New York[^15] or [the Museum of Ice Cream in San Francisco](https://www.instagram.com/museumoficecream/)[^16], boasting installations that entice visitors to take pictures of their experiences.
+
+> What the creators of these experiences have realized is that a lot of people want to take pictures of themselves in a museum, without going to a traditional museum. So they’ve created temporary, overstuffed spaces that are geared toward online aesthetics and in-real-life consumption.[^17]
+
+Meow Wolf established itself in 2008 as an art collective. The group “creates immersive and interactive experiences that transport audiences of all ages into fantastic realms of story and exploration.”[^18] These artists take care to be seen as creating legitimate works of contemporary art. The collective’s 20,000-square-foot *House of Eternal Return* in Santa Fe “aims to offer more than just photo ops.”
+
+> Rather, (Founder Vince) Kadlubek and his colleagues are working towards a future where high-quality, thought-provoking art environments are the norm. ... Meow Wolf took cues from other buzz-worthy immersive art experiences—like Kusama’s “Infinity Rooms,” James Turrell’s light installations, and enveloping animations by teamLAB. “We’ve been inspired by them because they showcased credibility in this type of space,” Kadlubek explained. But at its core, Meow Wolf has looked to fellow collectives—like Wham City in Baltimore and the Do LaB in Los Angeles—as well as the art that gets made annually at the Burning Man festival. [^19]
+
+To the *Times*, however, such efforts represent an “existential void”:
+
+> The most that these spaces can offer is the facsimile of traditional pleasures. They take nature and art and knowledge seeking, flatten them into sight gags and stick them to every stray surface. … Observing a work of art or climbing a mountain actually invites us to create meaning in our lives. But in these spaces, the idea of “interacting” with the world is made so slickly transactional that our role is hugely diminished. [^20]
+
+We suggest that it can be more than that. Deeply engaging experiences can look different for each visitor; no one way is right or wrong. Who are we, as museum professionals, to decide how another person should make meaning during their experience?
+
+In his 2009 book, *Identity and the Museum Visitor Experience*, John Falk evaluates motivations behind a visitor’s experience. He outlines a series of specific reasons given by visitors for choosing to attend a museum, based on their needs and values.[^21] Some enjoy reading wall text, some enjoy wandering aimlessly; some like to travel in packs of friends and talk the entire time; others use the museum as a contemplative space. No one type of visitor motivation has greater value over any other. Nor does a visitor own only one identity type — in fact, motivations might change by day or mood.
+
+The 2017 Culture Track report noted that museum-goers preferred to be “entertained” rather than “educated” and wanted more “social interactions” as opposed to “quiet reflection” when they visited exhibitions.[^22] Our own research into the motivations of museum website visitors is analogous, with overall strong support for “social” visitation.[^23] Additionally, an overwhelming majority of participants in the Culture Track study wanted digital experiences in museums.[^24]
+
+Can people connect with a work of art through a photo or a selfie? Museum experience designer Jim Fishwick says yes. “This is the social function of photography,” he explains, “rather than an exercise in vanity.”[^25]
+
+By extending the museum experience to their devices, visitors are creating external hard drives of their memories. Experiences are captured, saved, preserved. A thoughtful observer can detect both fun and thought in how people have staged, designed, and creatively constructed their feeds. These visitors are assembling their own experiences, not following expectations of what a traditional museum experience should be.
+
+Online and in-real-life now occur simultaneously, in concert. Facilitating your experience with a device has no bearing on its depth. Using your phone mediates your experience in a museum — and that’s okay. Mediated experiences look different for every visitor.
+
+In the end, museums must be open to experiences of all kinds, whether they are onsite, online, object-based, or experiential. After all, not every experience with an object will be transformative—and not every object-based experience will be in front of an object.
+
+We—as artists, technologists, educators—should be open to letting our visitors discover meaning on their own terms, from their own points of view, and through their own technological lenses.
+
+# **Bibliography**
+
+"Color Factory (\@colorfactoryco)." *Instagram*.https://www.instagram.com/colorfactoryco/ (accessed February 14, 2019).
+
+"Culture Track Reports \| Explore Culture Track Reports from Years past." *Culture Track*. [[https://culturetrack.com/reports]{.underline}](https://culturetrack.com/reports). (accessed February 13, 2019).
+
+"Museum of Ice Cream (\@museumoficecream)." *Instagram*. https://www.instagram.com/museumoficecream/ (accessed February 14, 2019).
+
+"Our Story." *Meow Wolf.* [[https://meowwolf.com/about]{.underline}](https://meowwolf.com/about) (accessed March 1, 2019).
+
+"Proud to Be Flesh - a Mute Magazine Anthology." *Mute*. http://www.metamute.org/shop/mute-books/proud-to-be-flesh-mute-magazine-anthology (accessed February 14, 2019).
+
+"Six Questions with Dr. David Carr." *Smithsonian Libraries Unbound.* [[https://blog.library.si.edu/blog/2015/02/11/six-questions-with-dr-david-carr/]{.underline}](https://blog.library.si.edu/blog/2015/02/11/six-questions-with-dr-david-carr/) (accessed February 14, 2019).
+
+Falk, John Howard. *Identity and the Museum Visitor Experience*. (Walnut Creek, CA: Left Coast Press, 2009).
+
+Fishwick, Jim. “Proud to be Flesh: Cultural Spaces After the Internet.” Roundtable conversation, *Museum Computer Network*, Denver, CO, 2018.
+
+Giampietro, Rob and Sarah Hromack. "The Museum Interface." *Art in America*. September 29, 2014.
+
+Gonchar, Michael. "Are Museums Still Important in the Digital Age?." *The New York Times*. September 11, 2008. [[https://www.nytimes.com/2018/09/11/learning/museums-protection-internet.html]{.underline}](https://www.nytimes.com/2018/09/11/learning/museums-protection-internet.html) (accessed February 14, 2019).
+
+Goukassian, Elena. "Is There a Right Way to Look at Art?." *Hyperallergic*. January 09, 2018.
+
+> [[https://hyperallergic.com/416912/is-there-a-right-way-to-look-at-art/]{.underline}](https://hyperallergic.com/416912/is-there-a-right-way-to-look-at-art/) (accessed March 1, 2019).
+
+Haigney, Sophie. "The Museums of Instagram." *The New Yorker*. September 16, 2018.
+
+Hess, Amanda. "The Existential Void of the Pop-Up 'Experience'." *The New York Times*. September 26, 2018.[[https://www.nytimes.com/2018/09/26/arts/color-factory-museum-of-ice-cream-rose-mansion-29rooms-candytopia.html]{.underline}](https://www.nytimes.com/2018/09/26/arts/color-factory-museum-of-ice-cream-rose-mansion-29rooms-candytopia.html) (accessed February 14, 2019).
+
+King, Jamilah. "The Overwhelming Whiteness of Black Art." *Colorlines*. May 21, 2014. https://www.colorlines.com/articles/overwhelming-whiteness-black-art. (accessed March 1, 2019).
+
+Lesser, Casey. "A New Breed of Immersive Art Experiences Offers a Gateway to Alternative Realities." *Artsy.* May 21, 2018. https://www.artsy.net/article/artsy-editorial-new-breed-immersive-art-experiences-offers-gateway-alternative-realities. (accessed February 14, 2019).
+
+Martin, Olivia. "Paradise Found: Artsy and Misha Kahn Turn Sixty LES Bar into Living Art." *Wallpaper*, May 6, 2016.
+
+Munro, Cait. "Offensive Instagram Pics Plague Walker's Sphinx." *Artnet News.* May 30, 2014. https://news.artnet.com/exhibitions/kara-walkers-sugar-sphinx-spawns-offensive-instagram-photos-29989. (accessed March 01, 2019).
+
+Reyburn, Scott. "What the Mona Lisa Tells Us About Art in the Instagram Era." *The New York Times*, April 27, 2018. https://www.nytimes.com/2018/04/27/arts/design/mona-lisa-instagram-art.html. (accessed February 14, 2019).
+
+Soboleva, Elena. "The Power of Taking an Online Arts Platform Offline." *Medium*. November 22, 2016. https://medium.com/artsy-blog/how-an-online-platform-empowers-artists-irl-d52aefe373ca. (accessed February 14, 2019).
+
+Wambold, Sarah, and Martin Spellerberg. "Identity-related Motivations Online: Falk’s Framework Applied to US Museum Websites." *Journal of Digital & Social Media Marketing* 5, no. 4 (Spring 2018).
+
+[^1]: "Proud to Be Flesh - a Mute Magazine Anthology," *Mute,* [[http://www.metamute.org/shop/mute-books/proud-to-be-flesh-mute-magazine-anthology]{.underline}](http://www.metamute.org/shop/mute-books/proud-to-be-flesh-mute-magazine-anthology) (accessed February 14, 2019)
+
+[^2]: "Six Questions with Dr. David Carr." *Smithsonian Libraries Unbound*, February 2, 2015 [[https://blog.library.si.edu/blog/2015/02/11/six-questions-with-dr-david-carr/]{.underline}](https://blog.library.si.edu/blog/2015/02/11/six-questions-with-dr-david-carr/) (accessed February 14, 2019).
+
+[^3]:  Elena Goukassian, “Is There a Right Way to Look at Art?,” *Hyperallergic,* January 8, 2018, [[https://hyperallergic.com/416912/is-there-a-right-way-to-look-at-art/]{.underline}](https://hyperallergic.com/416912/is-there-a-right-way-to-look-at-art/) (Accessed March 1, 2019).
+
+[^4]: Elena Soboleva, "The Power of Taking an Online Arts Platform Offline," *Medium*, November 22, 2016 [[https://medium.com/artsy-blog/how-an-online-platform-empowers-artists-irl-d52aefe373ca]{.underline}](https://medium.com/artsy-blog/how-an-online-platform-empowers-artists-irl-d52aefe373ca) (accessed February 14, 2019).
+
+[^5]: Rob Giampietro and Sarah Hromack, "The Museum Interface," *Art in America*, Sep 29, 2014, [[https://www.artinamericamagazine.com/news-features/magazines/the-museum-interface/]{.underline}](https://www.artinamericamagazine.com/news-features/magazines/the-museum-interface/) (accessed February 14, 2019).
+
+[^6]: Olivia Martin, "Paradise found: Artsy and Misha Kahn turn Sixty LES bar into living art," *Wallpaper*, May 6, 2016, [[https://www.wallpaper.com/art/paradise-found-artsy-and-misha-kahn-turn-sixty-hotels-tiki-tabu-bar-into-a-living-art-installation]{.underline}](https://www.wallpaper.com/art/paradise-found-artsy-and-misha-kahn-turn-sixty-hotels-tiki-tabu-bar-into-a-living-art-installation) (accessed March 1, 2019).
+
+[^7]: Elena Soboleva, "The Power of Taking an Online Arts Platform Offline," *Medium*, November 22, 2016, [[https://medium.com/artsy-blog/how-an-online-platform-empowers-artists-irl-d52aefe373ca]{.underline}](https://medium.com/artsy-blog/how-an-online-platform-empowers-artists-irl-d52aefe373ca) (accessed February 14, 2019).
+
+[^8]: Giampietro and Hromack. "The Museum Interface."
+
+[^9]: Jamilah King, "The Overwhelming Whiteness of Black Art," *Colorlines,* May 21, 2014, [[https://www.colorlines.com/articles/overwhelming-whiteness-black-art]{.underline}](https://www.colorlines.com/articles/overwhelming-whiteness-black-art) (accessed March 1, 2019).
+
+[^10]: Cait Munro, "Kara Walker’s Sugar Sphinx Spawns Offensive Instagram Photos," *Artnet*, May 30, 2014, [[https://news.artnet.com/exhibitions/kara-walkers-sugar-sphinx-spawns-offensive-instagram-photos-29989]{.underline}](https://news.artnet.com/exhibitions/kara-walkers-sugar-sphinx-spawns-offensive-instagram-photos-29989) (accessed March 1, 2019).
+
+[^11]: Ibid
+
+[^12]: Michael Gonchar, "Are Museums Still Important in the Digital Age?," *The New York Times,* September 11, 2018, [[https://www.nytimes.com/2018/09/11/learning/museums-protection-internet.html]{.underline}](https://www.nytimes.com/2018/09/11/learning/museums-protection-internet.html) (accessed February 14, 2019).
+
+[^13]: Scott Reyburn, "What the Mona Lisa Tells Us About Art in the Instagram Era," *The New York Times*, April 27, 2018, [[https://www.nytimes.com/2018/04/27/arts/design/mona-lisa-instagram-art.html]{.underline}](https://www.nytimes.com/2018/04/27/arts/design/mona-lisa-instagram-art.html) (accessed February 14, 2019).
+
+[^14]: Sophie Haigney, "The Museums of Instagram," *The New Yorker*, September 16, 2018, [[https://www.newyorker.com/culture/culture-desk/the-museums-of-instagram]{.underline}](https://www.newyorker.com/culture/culture-desk/the-museums-of-instagram) (accessed February 14, 2019).
+
+[^15]: "Color Factory," *Instagram*, [[https://www.instagram.com/colorfactoryco/]{.underline}](https://www.instagram.com/colorfactoryco/) (accessed February 14, 2019).
+
+[^16]: "Museum of Ice Cream," *Instagram*, [[https://www.instagram.com/museumoficecream]{.underline}](https://www.instagram.com/museumoficecream/) (accessed February 14, 2019).
+
+[^17]: Haigney. "The Museums of Instagram."
+
+[^18]: “Our Story,” *Meow Wolf,* [[https://meowwolf.com/about]{.underline}](https://meowwolf.com/about) (accessed March 1, 2019).
+
+[^19]: Casey Lesser, "A New Breed of Immersive Art Experiences Offers a Gateway to Alternative Realities," *Medium*, May 21, 2018, [[https://www.artsy.net/article/artsy-editorial-new-breed-immersive-art-experiences-offers-gateway-alternative-realities]{.underline}](https://www.artsy.net/article/artsy-editorial-new-breed-immersive-art-experiences-offers-gateway-alternative-realities) (accessed February 14, 2019).
+
+[^20]: Amanda Hess, "The Existential Void of the Pop-Up 'Experience'," *The New York Times*, September 26, 2018, [[https://www.nytimes.com/2018/09/26/arts/color-factory-museum-of-ice-cream-rose-mansion-29rooms-candytopia.html]{.underline}](https://www.nytimes.com/2018/09/26/arts/color-factory-museum-of-ice-cream-rose-mansion-29rooms-candytopia.html) (Accessed February 14, 2019).
+
+[^21]: John H. Falk, *Identity and the Museum Visitor Experience* (Walnut Creek, CA: Left Coast Press, 2009), 35.
+
+[^22]: “Culture Track ‘17,” *La Placa Cohen*, [[https://culturetrack.com/reports]{.underline}](https://culturetrack.com/reports) (accessed February 13, 2019).
+
+[^23]: Sarah Wambold and Marty Spellerberg, “Identity-related motivations online: Falk’s framework applied to US museum websites,” *Journal of Digital & Social Media Marketing,* Volume 5 Number 4 (Spring 2018).
+
+[^24]: “Culture Track ‘17.”
+
+[^25]: Jim Fishwich, “Proud to be Flesh: Cultural Spaces After the Internet,” Roundtable conversation, *Museum Computer Network Conference*, Denver, CO, 2018.

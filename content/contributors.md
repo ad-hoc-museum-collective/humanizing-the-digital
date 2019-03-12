@@ -4,4 +4,4 @@ weight: 201
 type: page
 ---
 
-{{< q-contributors range="primary" type="bio" >}}
+{{< q-contributors range="essays" type="bio" >}}

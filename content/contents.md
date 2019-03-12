@@ -1,6 +1,6 @@
 ---
 title: Contents
-weight: 2
+weight: 5
 type: contents
 class: list
 search: false

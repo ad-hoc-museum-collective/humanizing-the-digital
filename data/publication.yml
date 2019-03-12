@@ -9,16 +9,17 @@
 # Title & Description
 # ------------------------------------------------------------------------------
 
-title: New Deal Photography
-subtitle: The Works of Dorothea Lange and Walker Evans
+title: Humanizing the Digital 
+subtitle: Unproceedings from the MCN 2018 Conference
 reading_line:
 short_title:
 
 description:
-  one_line:
-  full: >-
-    Quire is a digital publishing framework built on top of the Hugo static site
-    generator. Generate Web, PDF, and print books (with Epub coming soon) from a single set of text files.
+  one_line: "Inspired by MCN’s 2018 conference, *Humanizing the Digital, this book responds to the state of museum technology in 2018."
+  full: |
+    MCN’s 2018 conference, *Humanizing the Digital*, explored how museums can use technology to foster human connection and dialogue, advance accessibility and inclusion, and champion inquiry and knowledge. After witnessing the presentations and rich conversations that arose from them, a group of practitioners came together to explore how best to capture and disseminate the learnings that occurred at the conference. The outcome was a decision to solicit and publish a book inspired by the conference and its ideas. 
+
+    *Humanizing the Digital: Unproceedings from the MCN 2018 Conference* contains 17 conference-inspired responses to the state of museum technology in 2018, including essays, reflections, case studies, conversations, and an experimental in-book zine. The topics explore areas as diverse as calm technology, Artificial Intelligence, Augmented Reality, visitor-centered communication, interpretation and programming, empathy, inclusion and slow change. 
 
 # ------------------------------------------------------------------------------
 # Publication Details
@@ -32,28 +33,20 @@ identifier:
   isbn:
 
 publisher:
-  - name: J. Paul Getty Trust
-    location: Los Angeles
+  - name: Ad Hoc Museum Collective 
+    location: 
     url:
-    logo: logo-getty.png
+    logo: 
 
 # ------------------------------------------------------------------------------
 # Contributors
 # ------------------------------------------------------------------------------
 
-contributor_as_it_appears:
+contributor_as_it_appears: Edited by Suse Anderson, Isabella Bruno, Hannah Hethmon, Seema Rao, Ed Rodley, and Rachel Ropeik
 
 contributor:
-  - id: jkeller
-    type: primary
-    first_name: Judith
-    last_name: Keller
-    title: Senior Curator of Photographs
-    affiliation: J. Paul Getty Museum
-    bio: "Judith Keller joined the J. Paul Getty Museum in 1986 and since 2008 was an Associate Curator of Photographs. In 2010, she was named the Senior Curator of Photographs. Keller received her B.A. in Art History and a Masters in Museum Practice and Art History from the University of Michigan at Ann Arbor. She also completed course work for a Phd. in Art History at the University of Michigan. Prior to her tenure at the Getty, Keller worked at The University of Michigan Museum of Art (1979 – 1981) and at the Archer M. Huntington Art Gallery (now the Blanton Museum of Art) at The University of Texas, Austin, as Curator of Prints and Drawings."
-    url: http://news.getty.edu/judith-keller-named-senior-curator-photographs-at-j-paul-getty-museum.htm
-    pic: contributors/judith-keller.jpg
-  - type:
+  - id:
+    type:
     first_name:
     last_name:
     title:
@@ -66,7 +59,10 @@ contributor:
 # Copright & License
 # ------------------------------------------------------------------------------
 
-copyright: © 2017 J. Paul Getty Trust
+copyright: |
+  Edition © 2019 Ad Hoc Museum Collective
+  Text © The Authors
+  Cover © Ad Hoc Museum Collective/Isabella Bruno
 
 license:
   name: Creative Commons Attribution 4.0 International License
@@ -98,37 +94,16 @@ resource_link:
     name: About
     link_relation: about
     url: /about/
-  - type: footer-link
-    name: Privacy Policy
-    link_relation: privacy-policy
-    url:
-  - type: footer-link
-    name: Terms of Use
-    link_relation: terms-of-service
-    url:
 
 # ------------------------------------------------------------------------------
 # Subjects
 # ------------------------------------------------------------------------------
 
 subject:
-  - type: bisac
-    name: PHOTOGRAPHY / Subjects & Themes / Historical
-    identifer: PHO023100
-  - type: getty
-    name: Dorothea Lange
-    identifier: "http://vocab.getty.edu/ulan/500007674"
-  - type: keyword
-    name: photography
-  - type: getty
-    name: Walker Evans
-    identifier: "http://vocab.getty.edu/ulan/500012076"
-  - type: getty
-    name: black-and-white photography
-    identifier: "http://vocab.getty.edu/aat/300162056"
-  - type: getty
-    name: despression (economic concept)
-    identifier: "http://vocab.getty.edu/aat/300410245"
+  - type: 
+    name: 
+    identifer: 
+
 
 # ------------------------------------------------------------------------------
 # Revision History
