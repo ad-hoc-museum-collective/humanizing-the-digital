@@ -3,3 +3,47 @@ figure_list:
     src: 
     caption: 
     credit: 
+  - id: "6-1"
+    src: figures/DiRienzo_Figure.1.jpg
+    label: "Figure 1"
+    caption: "Visitors use Lumin–an app on a held hand device–to view digital objects in AR."
+    alt: "A woman looks at a display of small blue objects through a Lumin device (a phone). To her right is a man holding a child. They also look through the screen."
+  - id: "6-2"
+    src: figures/DiRienzo_Figure.2.jpg
+    label: "Figure 2"
+    caption: "Visitors who wanted a closer look at this animated cylinder seal often tried to pinch and zoom, rather than moving their devices closer to the virtual object."
+    alt: "A virtual blue cylinder seal floats above an imprinted slab of clay on museum pedestal."
+  - id: "6-3"
+    src: figures/DiRienzo_Figure.3.jpg
+    label: "Figure 3"
+    caption: "The prototype experience about this altarpiece required visitors to search the gallery for the three highlighted works. Content messages were not communicated through the gaming experience, which visitors found confusing."
+    alt: "Virtual altarpiece designed for Lumin."
+  - id: "6-4"
+    src: figures/DiRienzo_Figure.4.jpg
+    label: "Figure 4"
+    caption: "An animation is worth 1000 words. Lumin helps visitors understand the purpose of a *kilga*."
+    alt: "A virtual filtration jar floats above a jar stand, or *kilga*."
+  - id: "6-5"
+    src: figures/DiRienzo_Figure.5.jpg
+    label: "Figure 5"
+    caption: "Lumin shows visitors there is an actual person inside the mummy."
+    alt: "A person views a virtual x-ray of a mummy through a Lumin device (phone)."
+  - id: "6-6"
+    src: figures/DiRienzo_Figure.6.jpg
+    label: "Figure 6"
+    caption: "Visitor is about to walk through the virtual reproduction of the Ishtar gate."
+    alt: "A man views a virtual reconstruction of the Ishtar Gate through a Lumin device (phone) in a museum gallery."
+  - id: "7-1"
+    src: figures/Burness-et-al_Figure.1.jpg
+    label: "Figure 1"
+    caption: "The Museum Social Photo Journey, a conceptual framework outlining how a social media photograph posted by a visitor might impact and inform a response from a museum (Alli Burness, 2016)"
+  - id: "7-2"
+    src: figures/Burness-et-al_Figure.2.jpg
+    label: "Figure 2"
+    caption: "The strategic shifts involved in moving from the museum as a trusted authority to the museum as a performative exchange"
+  - id: "7-3"
+    src: figures/Burness-et-al_Figure.3.jpg
+    label: "Figure 3"
+    caption: "Signage at the Phoenix Museum of Art conveyed a deliberate tone that aligns with the values of the organization, including in the colours and fonts used."
+  
+      

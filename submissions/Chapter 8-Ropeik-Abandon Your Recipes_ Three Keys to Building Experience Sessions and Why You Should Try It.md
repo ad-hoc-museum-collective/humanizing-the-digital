@@ -26,7 +26,7 @@ That’s the second key: **DE-CENTER YOURSELF, GIVE UP CONTROL, AND LET IT BE.**
 
 This was the first Museum Teaching Mashup[^4], which I co-facilitated in 2015 at the Ogden Museum of Southern Art in New Orleans. It was held during the museum’s weeknight evening hours after a day of the National Art Education Association annual conference, and, in contrast to the formal presentations that art educators had been leading and listening to throughout the day, this event was set up to intentionally make space for not knowing what would happen. Everyone there had to trust their collaborators and the larger group, and no one could make anything go completely to plan. It was a capital-E-S Experience Session, and I share here one participant’s reflection (solicited in writing after a week had passed) that illustrates what can happen when people give up their comfortable control.
 
-> \[I\]t was particularly challenging to adapt as people responded to our instructions in a different way than I expected. We purposefully kept the instructions minimal but I had a specific behavior in mind. When that didn’t happen I momentarily panicked but decided to go with it instead of redirect people and see what happened. It wasn’t what we envisioned but I liked what happened… upon reflection, I see how important it is to let the people you work with and collaborate with feel empowered to contribute their ideas (even unrehearsed) and innovate. When we shut voices down or make every moment be carefully scripted, we may lose a spectacular idea.
+> [I]t was particularly challenging to adapt as people responded to our instructions in a different way than I expected. We purposefully kept the instructions minimal but I had a specific behavior in mind. When that didn’t happen I momentarily panicked but decided to go with it instead of redirect people and see what happened. It wasn’t what we envisioned but I liked what happened… upon reflection, I see how important it is to let the people you work with and collaborate with feel empowered to contribute their ideas (even unrehearsed) and innovate. When we shut voices down or make every moment be carefully scripted, we may lose a spectacular idea.
 
 In talking about this, I often use the metaphor of reins. There will be moments where you as facilitator need to hold the reins more tightly, but think of those as the framing moments rather than the bulk of your time, the bread of the sandwich rather than the meat. To take the example of the Museum Teaching Mashup, my co-facilitator and I opened with exercises to get energy flowing and promote a spirit of supportive creativity, and we closed with expressive gratitude and collective congratulations for everyone’s willing hearts and clever minds. During the bulk of the evening, however, we were there merely as timekeepers, while our participants literally led the show.
 
@@ -58,11 +58,11 @@ I highly encourage you to fill out your keyring with your own additional keys. A
 
 “Empathy Jam.” Conference Presentation. Museum Computer Network, Denver, CO, 2018
 
-[[https://bit.ly/2SQcPk7]{.underline}](https://bit.ly/2SQcPk7) (accessed February 17, 2019).
+[https://bit.ly/2SQcPk7](https://bit.ly/2SQcPk7) (accessed February 17, 2019).
 
 Eno, Brian, and Peter Schmidt. “Oblique Strategies.” *Oblique Strategies*.
 
-[[http://obliquestrategies.ca/]{.underline}](http://obliquestrategies.ca/) (accessed March 03, 2019).
+[http://obliquestrategies.ca/](http://obliquestrategies.ca/) (accessed March 03, 2019).
 
 Parker, Priya. *The Art of Gathering: How We Meet and Why It Matters*. (New York: Riverhead
 
@@ -70,17 +70,17 @@ Books, 2018).
 
 Ropeik, Rachel. “Reflections on a Museum Experiment: Thoughts About the Museum Teaching
 
-Mashup.” *Medium*. April 13, 2015 [[https://bit.ly/2V7lvQz]{.underline}](https://bit.ly/2V7lvQz) (accessed February 17, 2019).
+Mashup.” *Medium*. April 13, 2015 [https://bit.ly/2V7lvQz](https://bit.ly/2V7lvQz) (accessed February 17, 2019).
 
 ———. “There’s No Right Way to Visit a Museum: Creating a New Summer Experience at the
 
-Guggenheim.” *Checklist*. July 25, 2018. [[https://bit.ly/2NbGTkN]{.underline}](https://bit.ly/2NbGTkN) (accessed February 17,
+Guggenheim.” *Checklist*. July 25, 2018. [https://bit.ly/2NbGTkN](https://bit.ly/2NbGTkN) (accessed February 17,
 
 2019).
 
 “Slow Change: It’s Not a Consolation Prize,” Conference Presentation, *Museum Computer Network*,
 
-Pittsburgh, PA, 2017 Conference Program [[https://bit.ly/2tojJP0]{.underline}](https://bit.ly/2tojJP0) (accessed February 17, 2019).
+Pittsburgh, PA, 2017 Conference Program [https://bit.ly/2tojJP0](https://bit.ly/2tojJP0) (accessed February 17, 2019).
 
 “The Space Deck,” *MuseumCamp*. Card deck, 2015.
 
@@ -88,18 +88,18 @@ Tylevich, Katya, and Mikkel Sommer Christensen. *Art Oracles: Creative & Life In
 
 *the Great Artists.* Card deck. (London: Laurence King Publishing Ltd., August 7, 2017).
 
-[^1]: “Slow Change: It’s Not a Consolation Prize,” Conference Presentation, *Museum Computer Networ*k, Pittsburgh, PA, 2017 Conference Program [[https://bit.ly/2tojJP0]{.underline}](https://bit.ly/2tojJP0) (accessed February 17, 2019).
+[^1]: “Slow Change: It’s Not a Consolation Prize,” Conference Presentation, *Museum Computer Networ*k, Pittsburgh, PA, 2017 Conference Program [https://bit.ly/2tojJP0](https://bit.ly/2tojJP0) (accessed February 17, 2019).
 
-[^2]: Rachel Ropeik, “There’s No Right Way to Visit a Museum: Creating a New Summer Experience at the Guggenheim,” *Checklist*, July 25, 2018 [[https://bit.ly/2NbGTkN]{.underline}](https://bit.ly/2NbGTkN) (accessed February 17, 2019).
+[^2]: Rachel Ropeik, “There’s No Right Way to Visit a Museum: Creating a New Summer Experience at the Guggenheim,” *Checklist*, July 25, 2018 [https://bit.ly/2NbGTkN](https://bit.ly/2NbGTkN) (accessed February 17, 2019).
 
 [^3]: Priya Parker, *The Art of Gathering: How We Meet and Why It Matters* (New York: Riverhead Books, 2018), 23.
 
-[^4]: Rachel Ropeik, “Reflections on a Museum Experiment: Thoughts About the Museum Teaching Mashup,” *Medium,* April 13, 2015, [[https://bit.ly/2V7lvQz]{.underline}](https://bit.ly/2V7lvQz) (accessed February 17, 2019).
+[^4]: Rachel Ropeik, “Reflections on a Museum Experiment: Thoughts About the Museum Teaching Mashup,” *Medium,* April 13, 2015, [https://bit.ly/2V7lvQz](https://bit.ly/2V7lvQz) (accessed February 17, 2019).
 
-[^5]: “Empathy Jam,” Conference Presentation, *Museum Computer Network,* Denver, CO, 2018 [[https://bit.ly/2SQcPk7]{.underline}](https://bit.ly/2SQcPk7) (accessed February 17, 2019).
+[^5]: “Empathy Jam,” Conference Presentation, *Museum Computer Network,* Denver, CO, 2018 [https://bit.ly/2SQcPk7](https://bit.ly/2SQcPk7) (accessed February 17, 2019).
 
 [^6]: Katya Tylevich and Mikkel Sommer Christensen, *Art Oracles: Creative & Life Inspiration from the Great Artists*, Card deck, (London: Laurence King Publishing Ltd., August 7, 2017).
 
 [^7]: “The Space Deck,’ *MuseumCamp*. Card deck, 2015.
 
-[^8]: Brian Eno and Peter Schmidt, “Oblique Strategies,” *Oblique Strategies*, [[http://obliquestrategies.ca/]{.underline}](http://obliquestrategies.ca/) (accessed February 17, 2019).
+[^8]: Brian Eno and Peter Schmidt, “Oblique Strategies,” *Oblique Strategies*, [http://obliquestrategies.ca/](http://obliquestrategies.ca/) (accessed February 17, 2019).

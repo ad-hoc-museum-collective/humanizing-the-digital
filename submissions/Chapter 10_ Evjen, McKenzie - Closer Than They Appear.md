@@ -54,7 +54,7 @@ So if we want to take some of the good from fast-fail approaches—quick audienc
 
 **Requirements:** In the case of a company selecting a script to be produced, once the cast and designers have been selected, there are production meetings wherein the director meets with the designers (lights, sound, sets, costumes, projection, musical director if the production is a musical) to discuss their vision for the show. A table read is scheduled where cast, directors, designers, and stage managers sit around a table and read the script aloud. That typically denotes the beginning of rehearsals for the actors and stage managers. During this time some productions may conduct surround events to market the production by building word of mouth. These may include scene readings for special events, or previews of musical numbers. Audience feedback is gathered at events like these, and that feedback can inform the notes for the remainder of rehearsals.
 
-**Design:** Rehearsals typically take place in rehearsal rooms outside of the theater in which the production will happen. In the case of Broadway productions, shows are not just opened, they must go through a workshop (a performance with scaled down production value \[lights, sound, sets, etc\] that costs roughly \$400,000 - Broadway production budgets are in the millions) so they can test the show and get audience feedback somewhere typically outside of New York City (unless it is developed in a NYC-based non-profit theatre) before taking it to a Broadway theatre.
+**Design:** Rehearsals typically take place in rehearsal rooms outside of the theater in which the production will happen. In the case of Broadway productions, shows are not just opened, they must go through a workshop (a performance with scaled down production value [lights, sound, sets, etc] that costs roughly \$400,000 - Broadway production budgets are in the millions) so they can test the show and get audience feedback somewhere typically outside of New York City (unless it is developed in a NYC-based non-profit theatre) before taking it to a Broadway theatre.
 
 **Development:** When the actors get in the theater it is typically after all design elements (set, lighting, sound, costumes, projection) “load in” to the theater. Then all the design elements are matched up with the cues from the actor’s performance. This is called a tech rehearsal (during “tech week”) during which actors must make repeated entries and exits, and speak specific lines from scenes so the technical elements can all be matched up into a series of sequential cues.
 
@@ -132,43 +132,43 @@ There is no silver bullet, but we argue that museums and performing arts organiz
 
 Bathurst, Jessica & Stein, Tobie, S. (2010) P*erforming Arts Management: A Handbook of Professional Practices* (Alworth Press)
 
-Bernstein, Shelley. “Fighting the Three Dots of User Expectation.” *BKM TECH* (blog), May 6, 2015. [[https://www.brooklynmuseum.org/community/blogosphere/2015/05/06/fighting-the-three-dots-of-user-expectation/]{.underline}](https://www.brooklynmuseum.org/community/blogosphere/2015/05/06/fighting-the-three-dots-of-user-expectation/).
+Bernstein, Shelley. “Fighting the Three Dots of User Expectation.” *BKM TECH* (blog), May 6, 2015. [https://www.brooklynmuseum.org/community/blogosphere/2015/05/06/fighting-the-three-dots-of-user-expectation/](https://www.brooklynmuseum.org/community/blogosphere/2015/05/06/fighting-the-three-dots-of-user-expectation/).
 
-———. “Learning from Agile Fails.” *BKM TECH* (blog), May 5, 2015. [[https://www.brooklynmuseum.org/community/blogosphere/2015/05/05/learning-from-agile-fails/]{.underline}](https://www.brooklynmuseum.org/community/blogosphere/2015/05/05/learning-from-agile-fails/).
+———. “Learning from Agile Fails.” *BKM TECH* (blog), May 5, 2015. [https://www.brooklynmuseum.org/community/blogosphere/2015/05/05/learning-from-agile-fails/](https://www.brooklynmuseum.org/community/blogosphere/2015/05/05/learning-from-agile-fails/).
 
 Chung, James; Wilkening, Susan; & Johnstone, Sally (2008) Museums & Society 2034: Trends and Potential Futures (Center for the Future of Museums, American Association of Museums, Washington, DC)
 
 Dana, John Cotton, (2004) “The Gloom of the Museum” In Gail Anderson, ed., Reinventing the Museum: Historical and Contemporary Perspectives on the Paradigm Shift (Walnut Creek, CA: Alta Mira Press)
 
-Devine, Sara. “Agile by Design.” *BKM TECH* (blog), May 14, 2015. [[https://www.brooklynmuseum.org/community/blogosphere/2015/05/14/agile-by-design/]{.underline}](https://www.brooklynmuseum.org/community/blogosphere/2015/05/14/agile-by-design/).
+Devine, Sara. “Agile by Design.” *BKM TECH* (blog), May 14, 2015. [https://www.brooklynmuseum.org/community/blogosphere/2015/05/14/agile-by-design/](https://www.brooklynmuseum.org/community/blogosphere/2015/05/14/agile-by-design/).
 
 Dilenschneider, Colleen (2017), “Cultural Organizations Are Still Not Reaching New Audiences (DATA)” *Know Your Own Bone*, 11/8/17
 
-[[https://www.colleendilen.com/2017/11/08/cultural-organizations-still-not-reaching-new-audiences-data/]{.underline}](https://www.colleendilen.com/2017/11/08/cultural-organizations-still-not-reaching-new-audiences-data/)
+[https://www.colleendilen.com/2017/11/08/cultural-organizations-still-not-reaching-new-audiences-data/](https://www.colleendilen.com/2017/11/08/cultural-organizations-still-not-reaching-new-audiences-data/)
 
 Dilenschneider, Colleen (2018) “Which Is More Important for Cultural Organizations: Being Educational or Being Entertaining? (DATA) *Know Your Own Bone*, 12/18/18
 
-[[https://www.colleendilen.com/2016/03/16/which-is-more-important-for-cultural-organizations-being-educational-or-being-entertaining-data/]{.underline}](https://www.colleendilen.com/2016/03/16/which-is-more-important-for-cultural-organizations-being-educational-or-being-entertaining-data/)
+[https://www.colleendilen.com/2016/03/16/which-is-more-important-for-cultural-organizations-being-educational-or-being-entertaining-data/](https://www.colleendilen.com/2016/03/16/which-is-more-important-for-cultural-organizations-being-educational-or-being-entertaining-data/)
 
 Evjen, Max. “Jazz Hands Out!: Why \#Musetech Should Be Like Theatre”. Filmed November 2018. YouTube video, 5:31. Posted November 2018. https://bit.ly/2N0Mb2C
 
-Haley Goldman, Kate, and David McKenzie. “Adding Historical Voices to the Ford’s Theatre Site: Prototyping Sprint 1, Round 2.” *Ford’s Theatre Blog* (blog), January 29, 2018. [[https://www.fords.org/blog/post/adding-historical-voices-to-the-ford-s-theatre-site-prototyping-sprint-1-round-2/]{.underline}](https://www.fords.org/blog/post/adding-historical-voices-to-the-ford-s-theatre-site-prototyping-sprint-1-round-2/).
+Haley Goldman, Kate, and David McKenzie. “Adding Historical Voices to the Ford’s Theatre Site: Prototyping Sprint 1, Round 2.” *Ford’s Theatre Blog* (blog), January 29, 2018. [https://www.fords.org/blog/post/adding-historical-voices-to-the-ford-s-theatre-site-prototyping-sprint-1-round-2/](https://www.fords.org/blog/post/adding-historical-voices-to-the-ford-s-theatre-site-prototyping-sprint-1-round-2/).
 
-———. “Following a Historical Figure, Again: Prototyping Sprint 3.” *Ford’s Theatre Blog* (blog), September 12, 2018. [[https://www.fords.org/blog/post/following-a-historical-figure-again-prototyping-sprint-3/]{.underline}](https://www.fords.org/blog/post/following-a-historical-figure-again-prototyping-sprint-3/).
+———. “Following a Historical Figure, Again: Prototyping Sprint 3.” *Ford’s Theatre Blog* (blog), September 12, 2018. [https://www.fords.org/blog/post/following-a-historical-figure-again-prototyping-sprint-3/](https://www.fords.org/blog/post/following-a-historical-figure-again-prototyping-sprint-3/).
 
-———. “How Relevant Is Too Relevant? Connecting Past & Present at the Ford’s Museum: Prototyping Spring 2 - Round 1 (Part 1).” *Ford’s Theatre Blog* (blog), April 13, 2018. [[https://www.fords.org/blog/post/how-relevant-is-too-relevant-connecting-past-present-at-the-ford-s-museum-prototyping-sprint-2-round-1-part-1/]{.underline}](https://www.fords.org/blog/post/how-relevant-is-too-relevant-connecting-past-present-at-the-ford-s-museum-prototyping-sprint-2-round-1-part-1/).
+———. “How Relevant Is Too Relevant? Connecting Past & Present at the Ford’s Museum: Prototyping Spring 2 - Round 1 (Part 1).” *Ford’s Theatre Blog* (blog), April 13, 2018. [https://www.fords.org/blog/post/how-relevant-is-too-relevant-connecting-past-present-at-the-ford-s-museum-prototyping-sprint-2-round-1-part-1/](https://www.fords.org/blog/post/how-relevant-is-too-relevant-connecting-past-present-at-the-ford-s-museum-prototyping-sprint-2-round-1-part-1/).
 
-———. “Learning What Visitors Want: A Shifted Plan and Prototyping in the Museum.” *Ford’s Theatre Blog* (blog), November 28, 2017. [[https://www.fords.org/blog/post/learning-what-visitors-want-a-shifted-plan-and-prototyping-in-the-museum/]{.underline}](https://www.fords.org/blog/post/learning-what-visitors-want-a-shifted-plan-and-prototyping-in-the-museum/).
+———. “Learning What Visitors Want: A Shifted Plan and Prototyping in the Museum.” *Ford’s Theatre Blog* (blog), November 28, 2017. [https://www.fords.org/blog/post/learning-what-visitors-want-a-shifted-plan-and-prototyping-in-the-museum/](https://www.fords.org/blog/post/learning-what-visitors-want-a-shifted-plan-and-prototyping-in-the-museum/).
 
-———. “Prototyping Historical Figure Cards at Ford’s Theatre: Sprint 2, Round 2.” *Ford’s Theatre Blog* (blog), April 20, 2018. [[https://www.fords.org/blog/post/prototyping-historical-figure-cards-at-ford-s-theatre-sprint-2-round-2/]{.underline}](https://www.fords.org/blog/post/prototyping-historical-figure-cards-at-ford-s-theatre-sprint-2-round-2/).
+———. “Prototyping Historical Figure Cards at Ford’s Theatre: Sprint 2, Round 2.” *Ford’s Theatre Blog* (blog), April 20, 2018. [https://www.fords.org/blog/post/prototyping-historical-figure-cards-at-ford-s-theatre-sprint-2-round-2/](https://www.fords.org/blog/post/prototyping-historical-figure-cards-at-ford-s-theatre-sprint-2-round-2/).
 
-———. “Take-Aways While Connecting Past & Present in the Ford’s Museum: Prototyping Sprint 2 - Round 1 (Part 2).” *Ford’s Theatre Blog* (blog), April 13, 2018. [[https://www.fords.org/blog/post/take-aways-while-connecting-past-present-in-the-ford-s-museum-prototyping-sprint-2-round-1-part-2/]{.underline}](https://www.fords.org/blog/post/take-aways-while-connecting-past-present-in-the-ford-s-museum-prototyping-sprint-2-round-1-part-2/).
+———. “Take-Aways While Connecting Past & Present in the Ford’s Museum: Prototyping Sprint 2 - Round 1 (Part 2).” *Ford’s Theatre Blog* (blog), April 13, 2018. [https://www.fords.org/blog/post/take-aways-while-connecting-past-present-in-the-ford-s-museum-prototyping-sprint-2-round-1-part-2/](https://www.fords.org/blog/post/take-aways-while-connecting-past-present-in-the-ford-s-museum-prototyping-sprint-2-round-1-part-2/).
 
-———. “Taking It To the Streets: Prototyping Sprint 1, Round 1.” *Ford’s Theatre Blog* (blog), December 20, 2017. [[https://www.fords.org/blog/post/taking-it-to-the-streets-prototyping-sprint-1-round-1/]{.underline}](https://www.fords.org/blog/post/taking-it-to-the-streets-prototyping-sprint-1-round-1/).
+———. “Taking It To the Streets: Prototyping Sprint 1, Round 1.” *Ford’s Theatre Blog* (blog), December 20, 2017. [https://www.fords.org/blog/post/taking-it-to-the-streets-prototyping-sprint-1-round-1/](https://www.fords.org/blog/post/taking-it-to-the-streets-prototyping-sprint-1-round-1/).
 
-Hartig, Kajsa. (2019) “Finding a Neutral Starting Point for Producing Museum Experiences.” *Medium* (blog), January 27, 2019. [[ https://medium.com/\@kajsahartig/finding-a-neutral-starting-point-for-producing-museum-experiences-3ee93c5ada12]{.underline}](https://medium.com/@kajsahartig/finding-a-neutral-starting-point-for-producing-museum-experiences-3ee93c5ada12).
+Hartig, Kajsa. (2019) “Finding a Neutral Starting Point for Producing Museum Experiences.” *Medium* (blog), January 27, 2019. [ https://medium.com/@kajsahartig/finding-a-neutral-starting-point-for-producing-museum-experiences-3ee93c5ada12](https://medium.com/@kajsahartig/finding-a-neutral-starting-point-for-producing-museum-experiences-3ee93c5ada12).
 
-Jones, Andrea. (2017) “7 Reasons Museums Should Share More Experiences, Less Information.” *Peak Experience Lab* (blog), March 26, 2017. [[http://www.peakexperiencelab.com/blog/2017/3/24/7-reasons-why-museums-should-share-more-experiences-less-information]{.underline}](http://www.peakexperiencelab.com/blog/2017/3/24/7-reasons-why-museums-should-share-more-experiences-less-information).
+Jones, Andrea. (2017) “7 Reasons Museums Should Share More Experiences, Less Information.” *Peak Experience Lab* (blog), March 26, 2017. [http://www.peakexperiencelab.com/blog/2017/3/24/7-reasons-why-museums-should-share-more-experiences-less-information](http://www.peakexperiencelab.com/blog/2017/3/24/7-reasons-why-museums-should-share-more-experiences-less-information).
 
 Knapp, Jake, John Zeratsky, Braden Kowitz, and Dan Bittner. (2016) *Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days*. Unabridged edition. New York; Prince Frederick, MD: Simon & Schuster Audio.
 
@@ -182,6 +182,6 @@ Ryzik, Eli (2002) "The Roots of Theatre: Rethinking Ritual and Other Theories of
 
 Weinard, Chad (2018) ‘Maintaining’ the Future of Museums: A slideshow on innovation and infrastructure, *Medium (blog)*, December 12, 2018.
 
-[[https://medium.com/\@caw\_/maintaining-the-future-of-museums-d72631f6905b]{.underline}](https://medium.com/@caw_/maintaining-the-future-of-museums-d72631f6905b)
+[https://medium.com/@caw\_/maintaining-the-future-of-museums-d72631f6905b](https://medium.com/@caw_/maintaining-the-future-of-museums-d72631f6905b)
 
 [^1]: McKenzie thanks Chris Evans and Margaret Middleton for this insight during a \#DrinkingAboutMuseums conversation.

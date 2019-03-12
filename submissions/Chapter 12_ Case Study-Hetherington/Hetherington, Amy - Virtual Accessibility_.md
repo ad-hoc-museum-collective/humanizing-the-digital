@@ -23,7 +23,7 @@ To assist with the R&D aspect of the project, we engaged VocalEyes, a London-bas
 
 Taking one of the virtual rooms, and working with the Royal Collection Trust curator, a VocalEyes audio describer interpreted both the spatial arrangement of the Privy gallery and the paintings. In one minute recordings, the description encompasses both visual aspects and interpretation of the paintings in a rich, engaging style. For example, Titian’s “St Margaret” is described as follows:
 
-> “Saint Margaret, in a knee-length mint-green dress with a scooped neck over a fine white chemise, runs towards us through a rocky landscape, both arms swinging out to the left. Her fair-skinned left leg stretches forwards. Her unseen right leg is presumably directly behind as she steps over a defeated lizard-like dragon that curls across the bottom of the picture. \[...\]”
+> “Saint Margaret, in a knee-length mint-green dress with a scooped neck over a fine white chemise, runs towards us through a rocky landscape, both arms swinging out to the left. Her fair-skinned left leg stretches forwards. Her unseen right leg is presumably directly behind as she steps over a defeated lizard-like dragon that curls across the bottom of the picture. [...]”
 
 **IMAGE 1 INSERT**
 

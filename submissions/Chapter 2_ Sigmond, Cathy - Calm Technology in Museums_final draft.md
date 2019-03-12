@@ -64,7 +64,7 @@ This mindset of flexibility and contingency planning is important for museums to
 
 ## Principle VII: The right amount of technology is the minimum needed to solve the problem.
 
-This is essentially a call for simplicity. In other words, do not provide a user with more information or features than they need to accomplish a goal, or you risk confusing them and diluting their ability to accomplish the task you designed a tool or service to help them accomplish in the first place. It all comes down to alignment. Case poses the following question: “For each new feature, ask yourself, *is this something necessary to the product?* Not fun, *but necessary*. If it doesn’t solve a core problem, don’t build it.” [^17] \[emphasis hers\]
+This is essentially a call for simplicity. In other words, do not provide a user with more information or features than they need to accomplish a goal, or you risk confusing them and diluting their ability to accomplish the task you designed a tool or service to help them accomplish in the first place. It all comes down to alignment. Case poses the following question: “For each new feature, ask yourself, *is this something necessary to the product?* Not fun, *but necessary*. If it doesn’t solve a core problem, don’t build it.” [^17] [emphasis hers]
 
 Of course, designing something simple is never a simple process. It usually requires months of planning, testing, and retesting to arrive at the simplest solution to accomplish your goals. Applied to museums, this is a call to both resist the urge to share every interesting fact or story (which would be overwhelming) and also to rigorously and continuously test your designs with actual visitors. If we don’t keep this idea in mind when we design for exhibitions, we risk diluting the big ideas we hope to convey and the feelings we hope to instill in visitors. It helps to reframe Case’s question using museum language: For each possible new piece of information or design feature, ask yourself, is this something *necessary to convey the key message?* Not fun, *but necessary*. If it doesn’t reinforce the key message, don’t say it.
 
@@ -130,11 +130,11 @@ https://calmtech.com/papers/computer-for-the-21st-century.html (accessed Februar
 
 [^1]: The phrase “Calm Technology” is capitalized here and throughout this essay to be consistent with Case’s writings both online and in her book. Amber Case, *Calm Technology: Principles and Patterns for Non-Intrusive Design* (Sebastopol: O’Reilly Media, Inc., 2016), 15.
 
-[^2]: Amber Case, “About,” *Case Organic,* [[https://caseorganic.com/about]{.underline}](https://caseorganic.com/about/) (accessed February 10, 2019)
+[^2]: Amber Case, “About,” *Case Organic,* [https://caseorganic.com/about](https://caseorganic.com/about/) (accessed February 10, 2019)
 
 [^3]: Case, *Calm Technology,* 15.
 
-[^4]: Weiser and Brown published a series of research papers outlining the need for Calm Technology in the mid-1990s. They include the following and can all be accessed on Amber Case’s website, [[https://calmtech.com/papers.html]{.underline}](https://calmtech.com/papers.html) : Mark Weiser, “The Computer for the 21^st^ Century,” (September 1991); Mark Weiser and John Seely Brown, “Designing Calm Technology,” (December 1995); and Mark Weiser and John Seely Brown, “The Coming Age of Calm Technology,” (October 1996).
+[^4]: Weiser and Brown published a series of research papers outlining the need for Calm Technology in the mid-1990s. They include the following and can all be accessed on Amber Case’s website, [https://calmtech.com/papers.html](https://calmtech.com/papers.html) : Mark Weiser, “The Computer for the 21^st^ Century,” (September 1991); Mark Weiser and John Seely Brown, “Designing Calm Technology,” (December 1995); and Mark Weiser and John Seely Brown, “The Coming Age of Calm Technology,” (October 1996).
 
 [^5]: To draw attention to their work, Case wrote the book *Calm Technology,* where she reiterates Weiser, Brown, and Gold’s ideas and expands on them to account for the passage of time since their conception.
 
@@ -148,11 +148,11 @@ https://calmtech.com/papers/computer-for-the-21st-century.html (accessed Februar
 
 [^10]: Case, *Calm Technology,* x (preface).
 
-[^11]:  For a broad comparison of summative evaluation studies in museums, see: Beverly Serrell, *Paying Attention: Visitors and Museum Exhibitions* (Washington, D.C.: American Alliance Of Museums, 1998). This book that was first published in 1998 and that was supported by a National Science Foundation (NSF) grant called “A Meta-analysis of Visitor Time/Use in Museum Exhibitions. For an update from Serrell since the book was first published and a list of many other resources on timing and tracking studies, see: Beverly Serrell, “Field Trips Are Valuable Learning Experiences,” *Informal Scienc*e, July 8, 2016 http://www.informalscience.org/news-views/paying-more-attention-paying-attention (accessed February 09, 2019). For a list of specific summative evaluation studies that including the timing and tracking methodology, see *Informal Science,* [[http://informalscience.org/search-results?search\_api\_views\_fulltext=timing%20and%20tracking&f\[1\]=search\_api\_combined\_2:41]{.underline}](http://informalscience.org/search-results?search_api_views_fulltext=timing%20and%20tracking&f%5b1%5d=search_api_combined_2:41) (accessed February 10, 2019).
+[^11]:  For a broad comparison of summative evaluation studies in museums, see: Beverly Serrell, *Paying Attention: Visitors and Museum Exhibitions* (Washington, D.C.: American Alliance Of Museums, 1998). This book that was first published in 1998 and that was supported by a National Science Foundation (NSF) grant called “A Meta-analysis of Visitor Time/Use in Museum Exhibitions. For an update from Serrell since the book was first published and a list of many other resources on timing and tracking studies, see: Beverly Serrell, “Field Trips Are Valuable Learning Experiences,” *Informal Scienc*e, July 8, 2016 http://www.informalscience.org/news-views/paying-more-attention-paying-attention (accessed February 09, 2019). For a list of specific summative evaluation studies that including the timing and tracking methodology, see *Informal Science,* [http://informalscience.org/search-results?search\_api\_views\_fulltext=timing%20and%20tracking&f[1]=search\_api\_combined\_2:41](http://informalscience.org/search-results?search_api_views_fulltext=timing%20and%20tracking&f%5b1%5d=search_api_combined_2:41) (accessed February 10, 2019).
 
 [^12]: Case, *Calm Technology,* 20.
 
-[^13]: Amber Case, “Principles of Calm Technology,” *Calm Tech*, [[https://calmtech.com/index.html]{.underline}](https://calmtech.com/index.html) (accessed February 10^,^ 2019).
+[^13]: Amber Case, “Principles of Calm Technology,” *Calm Tech*, [https://calmtech.com/index.html](https://calmtech.com/index.html) (accessed February 10^,^ 2019).
 
 [^14]: Case, *Calm Technology*, 29.
 
@@ -166,9 +166,9 @@ https://calmtech.com/papers/computer-for-the-21st-century.html (accessed Februar
 
 [^19]: Case, *Calm Technology,* 48.
 
-[^20]: Francesca Elisia, “What’s the Difference Between Human-Centered Design and User Experience Design?”, *Medium* [[https://blog.prototypr.io/whats-the-difference-between-human-centred-design-and-user-experience-design-2f48e5c9be25]{.underline}](https://blog.prototypr.io/whats-the-difference-between-human-centred-design-and-user-experience-design-2f48e5c9be25) (accessed February 7, 2019).
+[^20]: Francesca Elisia, “What’s the Difference Between Human-Centered Design and User Experience Design?”, *Medium* [https://blog.prototypr.io/whats-the-difference-between-human-centred-design-and-user-experience-design-2f48e5c9be25](https://blog.prototypr.io/whats-the-difference-between-human-centred-design-and-user-experience-design-2f48e5c9be25) (accessed February 7, 2019).
 
-[^21]: Don Norman and Jakob Nielsen, “The Definition of User Experience (UX),” *Nielson Norman Group,* [[https://www.nngroup.com/articles/definition-user-experience/]{.underline}](https://www.nngroup.com/articles/definition-user-experience/) (accessed February 7, 2019).
+[^21]: Don Norman and Jakob Nielsen, “The Definition of User Experience (UX),” *Nielson Norman Group,* [https://www.nngroup.com/articles/definition-user-experience/](https://www.nngroup.com/articles/definition-user-experience/) (accessed February 7, 2019).
 
 [^22]: Randi Korn, “*Intentional Practice for Museums,”* (Lanham: Rowman & Littlefield, 2018), xix (preface).
 

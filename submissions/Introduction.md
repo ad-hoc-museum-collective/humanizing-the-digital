@@ -1,8 +1,8 @@
 Introduction
 
-By the \[TITLE TK\] Editorial Team
+By the [TITLE TK] Editorial Team
 
-[[The Museum Computer Network (MCN) 2018 conference, “Humanizing the Digital”]{.underline}](http://mcn.edu/mcn-2018-humanizing-the-digital/), explored how museums can use digital technologies to foster human connection and dialogue, advance accessibility and inclusion, and champion inquiry and knowledge. Over the course of three days and more than one hundred and forty presentations, participants were barraged with examples of how the field continues to rely on the very human qualities of collaboration, creativity, and empathy to do our work, even in the digital work we do. If anything, “humanizing” seemed an even larger presence than “digital”.
+[The Museum Computer Network (MCN) 2018 conference, “Humanizing the Digital”](http://mcn.edu/mcn-2018-humanizing-the-digital/), explored how museums can use digital technologies to foster human connection and dialogue, advance accessibility and inclusion, and champion inquiry and knowledge. Over the course of three days and more than one hundred and forty presentations, participants were barraged with examples of how the field continues to rely on the very human qualities of collaboration, creativity, and empathy to do our work, even in the digital work we do. If anything, “humanizing” seemed an even larger presence than “digital”.
 
 After witnessing the presentations, and taking part in some of the rich conversations that arose from them, a group of us came together to explore how best to capture and disseminate some of the learnings that occurred at the conference, to put some of that lightning in a bottle, as it were. The outcome of some intense conversations was a decision to ask the community to reflect on the conference and the ideas it sparked for them and to self-publish them. And given the speed at which our community moves and iterates, we decided it made sense to put the entire book (print and ebook) together in four months and have it ready for the Museums and Web conference in April, 2019. Since none of this would have happened without the conference, we decided to donate any profits to the MCN Scholarship fund.
 
@@ -14,7 +14,7 @@ It is also worth noting that our editorial process followed (or, at least, tried
 
 So that’s how you hold this book, “Humanizing the Digital Museum” in your hand. It is necessarily a fragmentary reflection on a large event, but even in this small, kaleidoscopic view, we think you will find some of the energy and exciting thinking that was happening in Denver. And we look forward to seeing what you do with it to carry the work forward.
 
-The \[TITLE TK\] Editorial Team
+The [TITLE TK] Editorial Team
 
 Suse Anderson
 

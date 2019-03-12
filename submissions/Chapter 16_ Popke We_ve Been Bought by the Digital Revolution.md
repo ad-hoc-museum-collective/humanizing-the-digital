@@ -72,28 +72,28 @@ As institutions of public trust, museums need to take a stance on the issue of p
 
 # Bibliography
 
-Diffie, Whitfield. “The Impact of a Secret Cryptographic Standard on Encryption, Privacy, Law Enforcement and Technology.” Transcript of Testimony before Congress, May 11, 1993. [[https://www.epic.org/crypto/clipper/diffie\_testimony.html]{.underline}](https://www.epic.org/crypto/clipper/diffie_testimony.html) (accessed February 10, 2019).
+Diffie, Whitfield. “The Impact of a Secret Cryptographic Standard on Encryption, Privacy, Law Enforcement and Technology.” Transcript of Testimony before Congress, May 11, 1993. [https://www.epic.org/crypto/clipper/diffie\_testimony.html](https://www.epic.org/crypto/clipper/diffie_testimony.html) (accessed February 10, 2019).
 
-Edes, Alyssa, and Emma Bowman. "'Automating Inequality': Algorithms In Public Services Often Fail The Most Vulnerable." *NPR*. February 19, 2018 [[https://www.npr.org/sections/alltechconsidered/2018/02/19/586387119/automating-inequality-algorithms-in-public-services-often-fail-the-most-vulnerab]{.underline}](https://www.npr.org/sections/alltechconsidered/2018/02/19/586387119/automating-inequality-algorithms-in-public-services-often-fail-the-most-vulnerab) (accessed February 10, 2019).
+Edes, Alyssa, and Emma Bowman. "'Automating Inequality': Algorithms In Public Services Often Fail The Most Vulnerable." *NPR*. February 19, 2018 [https://www.npr.org/sections/alltechconsidered/2018/02/19/586387119/automating-inequality-algorithms-in-public-services-often-fail-the-most-vulnerab](https://www.npr.org/sections/alltechconsidered/2018/02/19/586387119/automating-inequality-algorithms-in-public-services-often-fail-the-most-vulnerab) (accessed February 10, 2019).
 
-Efrati, Amir. “‘Like’ Button Follows Web Users.” *The Wall Street Journal.* May 18, 2011 [[https://www.wsj.com/articles/SB10001424052748704281504576329441432995616]{.underline}](https://www.wsj.com/articles/SB10001424052748704281504576329441432995616) (accessed February 10, 2019).
+Efrati, Amir. “‘Like’ Button Follows Web Users.” *The Wall Street Journal.* May 18, 2011 [https://www.wsj.com/articles/SB10001424052748704281504576329441432995616](https://www.wsj.com/articles/SB10001424052748704281504576329441432995616) (accessed February 10, 2019).
 
-Garun, Natt. "The selfishness of Google Duplex." *The Verge.* May 09, 2018 [[https://www.theverge.com/2018/5/9/17335710/google-duplex-phone-call-ai-assistant-service-industry]{.underline}](https://www.theverge.com/2018/5/9/17335710/google-duplex-phone-call-ai-assistant-service-industry) (accessed February 10, 2019).
+Garun, Natt. "The selfishness of Google Duplex." *The Verge.* May 09, 2018 [https://www.theverge.com/2018/5/9/17335710/google-duplex-phone-call-ai-assistant-service-industry](https://www.theverge.com/2018/5/9/17335710/google-duplex-phone-call-ai-assistant-service-industry) (accessed February 10, 2019).
 
-Gassee, Jean-Louis. "We Once Saw Technology As Liberating." *Monday Note.* April 01, 2018. [[https://mondaynote.com/we-once-saw-technology-as-liberating-e8b424264b1c]{.underline}](https://mondaynote.com/we-once-saw-technology-as-liberating-e8b424264b1c) (accessed February 10, 2019).
+Gassee, Jean-Louis. "We Once Saw Technology As Liberating." *Monday Note.* April 01, 2018. [https://mondaynote.com/we-once-saw-technology-as-liberating-e8b424264b1c](https://mondaynote.com/we-once-saw-technology-as-liberating-e8b424264b1c) (accessed February 10, 2019).
 
-Kelly, Heather. "AI Is Hurting People of Color and the Poor. Experts Want to Fix That." *CNN Money*. July 23, 2018. [[https://money.cnn.com/2018/07/23/technology/ai-bias-future/index.html]{.underline}](https://money.cnn.com/2018/07/23/technology/ai-bias-future/index.html) (accessed February 10, 2019).
+Kelly, Heather. "AI Is Hurting People of Color and the Poor. Experts Want to Fix That." *CNN Money*. July 23, 2018. [https://money.cnn.com/2018/07/23/technology/ai-bias-future/index.html](https://money.cnn.com/2018/07/23/technology/ai-bias-future/index.html) (accessed February 10, 2019).
 
-Kulwin, Noah. "An Apology for the Internet - From the Architects Who Built It." New York Magazine. April 13, 2018 [[http://nymag.com/intelligencer/2018/04/an-apology-for-the-internet-from-the-people-who-built-it.html]{.underline}](http://nymag.com/intelligencer/2018/04/an-apology-for-the-internet-from-the-people-who-built-it.html) (accessed February 10, 2019).
+Kulwin, Noah. "An Apology for the Internet - From the Architects Who Built It." New York Magazine. April 13, 2018 [http://nymag.com/intelligencer/2018/04/an-apology-for-the-internet-from-the-people-who-built-it.html](http://nymag.com/intelligencer/2018/04/an-apology-for-the-internet-from-the-people-who-built-it.html) (accessed February 10, 2019).
 
 Mihelj, Sabina, Adrian Leguina, and John Downey. "Culture Is Digital: Cultural Participation, Diversity and the Digital Divide." *New Media & Society*, January 20, 2019. doi:10.1177/1461444818822816.
 
-Penn, Jonnie. "AI Thinks like a Corporation-and That's Worrying." The Economist. November 26, 2018. [[https://www.economist.com/open-future/2018/11/26/ai-thinks-like-a-corporation-and-thats-worrying]{.underline}](https://www.economist.com/open-future/2018/11/26/ai-thinks-like-a-corporation-and-thats-worrying) (accessed February 10, 2019).
+Penn, Jonnie. "AI Thinks like a Corporation-and That's Worrying." The Economist. November 26, 2018. [https://www.economist.com/open-future/2018/11/26/ai-thinks-like-a-corporation-and-thats-worrying](https://www.economist.com/open-future/2018/11/26/ai-thinks-like-a-corporation-and-thats-worrying) (accessed February 10, 2019).
 
 Smith, Koven. "Are We Giving Up Too Much?" MUSEUM, no. 1 (January 2019): 12-15.
 
-Tippett, Krista, and Anand Giridharadas. "When the Market Is Our Only Language." *The On Being Project.* November 15, 2018 [[https://onbeing.org/programs/anand-giridharadas-when-the-market-is-our-only-language-nov2018/]{.underline}](https://onbeing.org/programs/anand-giridharadas-when-the-market-is-our-only-language-nov2018/) (accessed February 10, 2019).
+Tippett, Krista, and Anand Giridharadas. "When the Market Is Our Only Language." *The On Being Project.* November 15, 2018 [https://onbeing.org/programs/anand-giridharadas-when-the-market-is-our-only-language-nov2018/](https://onbeing.org/programs/anand-giridharadas-when-the-market-is-our-only-language-nov2018/) (accessed February 10, 2019).
 
-Wagner, Kurt. “This is how Facebook collects data on you even if you don’t have an account.” *recode*, April 20, 2018. [[https://www.recode.net/2018/4/20/17254312/facebook-shadow-profiles-data-collection-non-users-mark-zuckerberg]{.underline}](https://www.recode.net/2018/4/20/17254312/facebook-shadow-profiles-data-collection-non-users-mark-zuckerberg) (accessed February 10, 2019).
+Wagner, Kurt. “This is how Facebook collects data on you even if you don’t have an account.” *recode*, April 20, 2018. [https://www.recode.net/2018/4/20/17254312/facebook-shadow-profiles-data-collection-non-users-mark-zuckerberg](https://www.recode.net/2018/4/20/17254312/facebook-shadow-profiles-data-collection-non-users-mark-zuckerberg) (accessed February 10, 2019).
 
-Wu, Tim. "The Tyranny of Convenience." *The New York Times*. February 16, 2018 [[https://www.nytimes.com/2018/02/16/opinion/sunday/tyranny-convenience.html]{.underline}](https://www.nytimes.com/2018/02/16/opinion/sunday/tyranny-convenience.html) (accessed February 10, 2019).
+Wu, Tim. "The Tyranny of Convenience." *The New York Times*. February 16, 2018 [https://www.nytimes.com/2018/02/16/opinion/sunday/tyranny-convenience.html](https://www.nytimes.com/2018/02/16/opinion/sunday/tyranny-convenience.html) (accessed February 10, 2019).

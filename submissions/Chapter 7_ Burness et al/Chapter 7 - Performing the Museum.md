@@ -62,7 +62,7 @@ By responding to ‘the offer behind the offer’, we move from responding to wh
 
 The importance of visitor motivation is already well established in the cultural sector. Both John Falk’s analysis of visitor motivations and Culture Segments developed by Morris Hargreaves McIntyre gather visitors into broad groups based on what they want from cultural experiences.[^12] The challenge faced by the performative museum is to bring the motivations of visitors and museums together so they work in harmony, each being fulfilled through a shared experience with the other.
 
-Everything that a museum provides its visitors can be considered as a starting ‘offer’ that expresses the museum’s motivation. Our visitor might respond by yes-and-ing one of these ideas, such as attending an exhibition for instance, which demonstrates their motivation. A participatory exhibition might then go one step further, accepting this offer by incorporating a spot for the visitor to respond to what they’ve experienced. But this is usually where it stops. Museums tend to not be very good at continuing the exchange of yes-and with visitors, taking on board their contributions and building on them. Museums are very good at explaining to visitors the benefit of having interacted with them, but poor at understanding the benefit of the museum having interacted with the visitor. Ed Rodley has questioned the “vogue for \[museum\] storytelling isn’t in some way \[a\] reaction against learning better listening skills. Storytelling allows us to focus on the part we like: we talk, you listen.”[^13]
+Everything that a museum provides its visitors can be considered as a starting ‘offer’ that expresses the museum’s motivation. Our visitor might respond by yes-and-ing one of these ideas, such as attending an exhibition for instance, which demonstrates their motivation. A participatory exhibition might then go one step further, accepting this offer by incorporating a spot for the visitor to respond to what they’ve experienced. But this is usually where it stops. Museums tend to not be very good at continuing the exchange of yes-and with visitors, taking on board their contributions and building on them. Museums are very good at explaining to visitors the benefit of having interacted with them, but poor at understanding the benefit of the museum having interacted with the visitor. Ed Rodley has questioned the “vogue for [museum] storytelling isn’t in some way [a] reaction against learning better listening skills. Storytelling allows us to focus on the part we like: we talk, you listen.”[^13]
 
 Museums are sites of human exchange, not static spaces. Museums will evolve through understanding why two-way interaction with visitors benefits organizations. The bond between museum and visitor can be built if this relationship is reframed as being reciprocal, and working practices are implemented that allow staff to achieve it. Museum growth, in the form of visitor engagement and impact, can be realised if this symbiotic relationship is embraced.
 
@@ -72,9 +72,9 @@ The performative museum is a new understanding of the museum as a site that evol
 
 Arias, Maria Paula. "Instagram Trends: Visual Narratives of Embodied Experiences at the Museum of
 
-Islamic Art." *Museums and the Web 2018*, January 14, 2018 [[https://mw18.mwconf.org/paper/]{.underline}](https://mw18.mwconf.org/paper/instagram-trends-visual-narratives-of-embodied-experiences-at-the-museum-of-islamic-art/)
+Islamic Art." *Museums and the Web 2018*, January 14, 2018 [https://mw18.mwconf.org/paper/](https://mw18.mwconf.org/paper/instagram-trends-visual-narratives-of-embodied-experiences-at-the-museum-of-islamic-art/)
 
-[[instagram-trends-visual-narratives-of-embodied-experiences-at-the-museum-of-islamic-art/]{.underline}](https://mw18.mwconf.org/paper/instagram-trends-visual-narratives-of-embodied-experiences-at-the-museum-of-islamic-art/)
+[instagram-trends-visual-narratives-of-embodied-experiences-at-the-museum-of-islamic-art/](https://mw18.mwconf.org/paper/instagram-trends-visual-narratives-of-embodied-experiences-at-the-museum-of-islamic-art/)
 
 (associated February 9, 2019).
 
@@ -92,7 +92,7 @@ Burness, Alli, Megan Estep, Jennifer Kidd, and Chad Weinard. “Putting People i
 
 from Museum Visitor Social Photos.” Conference Presentation. *Museum Computer Network*,
 
-New Orleans, LA, 2016. [[https://youtu.be/lQ9Yvpxph8Q]{.underline}](https://youtu.be/lQ9Yvpxph8Q) (accessed February 9, 2019).
+New Orleans, LA, 2016. [https://youtu.be/lQ9Yvpxph8Q](https://youtu.be/lQ9Yvpxph8Q) (accessed February 9, 2019).
 
 Butler, Judith. *Gender Trouble*. (New York: Routledge, 1999).
 
@@ -106,37 +106,37 @@ Falk, John. *Identity and the Museum Visitor Experience*. (Walnut Creek, CA: Lef
 
 Haigney, Sophie. “The Museums of Instagram.” *The New Yorker*, September 16, 2018
 
-[[https://www.newyorker.com/culture/culture-desk/the-museums-of-instagram]{.underline}](https://www.newyorker.com/culture/culture-desk/the-museums-of-instagram) (accessed
+[https://www.newyorker.com/culture/culture-desk/the-museums-of-instagram](https://www.newyorker.com/culture/culture-desk/the-museums-of-instagram) (accessed
 
 February 9, 2019).
 
 Holledge, Richard. “Down with Blockbusters! James Bradburne on the art of running a museum.”
 
-*Financial Times*, January 22, 2018 [[https://www.ft.com/content]{.underline}](https://www.ft.com/content/dc3e411c-f20b-11e7-bb7d-c3edfe974e9f)
+*Financial Times*, January 22, 2018 [https://www.ft.com/content](https://www.ft.com/content/dc3e411c-f20b-11e7-bb7d-c3edfe974e9f)
 
-[[/dc3e411c-f20b-11e7-bb7d-c3edfe974e9f]{.underline}](https://www.ft.com/content/dc3e411c-f20b-11e7-bb7d-c3edfe974e9f) (accessed February 9, 2019).
+[/dc3e411c-f20b-11e7-bb7d-c3edfe974e9f](https://www.ft.com/content/dc3e411c-f20b-11e7-bb7d-c3edfe974e9f) (accessed February 9, 2019).
 
 Jayasekera, Kingsley. “China Unlimited: Understanding the Museum Boom in China.” *Communicating the *
 
-> *Museum*, 2014. [[https://www.youtube.com/watch?time\_continue=106&v=ZV\_bWc1OA5c]{.underline}](https://www.youtube.com/watch?time_continue=106&v=ZV_bWc1OA5c) (assessed February 9, 2019).
+> *Museum*, 2014. [https://www.youtube.com/watch?time\_continue=106&v=ZV\_bWc1OA5c](https://www.youtube.com/watch?time_continue=106&v=ZV_bWc1OA5c) (assessed February 9, 2019).
 
 Mcintyre, Morris Hargreaves. *Culture Segments*. Consulted February 10, 2019
 
-[[https://mhminsight.com/culture-segments]{.underline}](https://mhminsight.com/culture-segments)
+[https://mhminsight.com/culture-segments](https://mhminsight.com/culture-segments)
 
 Rodley, Ed. Twitter Post. June 23, 2017, 10:40pm.
 
-[[https://twitter.com/erodley/status/878231357813665792]{.underline}](https://twitter.com/erodley/status/878231357813665792)
+[https://twitter.com/erodley/status/878231357813665792](https://twitter.com/erodley/status/878231357813665792)
 
 Rounds, Jay. “Doing Identity Work in Museums.” *Curator: The Museum* *Journal*, Volume 49, Issue 2, April
 
 2006, 133 - 150.
 
-[^1]: Kylie Budge and Alli Burness. “Museum objects and Instagram: agency and communication in digital engagement.” *Continuum*, volume 32, no 2 (2018): 137 - 150 and Maria Paula Arias. "Instagram Trends: Visual Narratives of Embodied Experiences at the Museum of Islamic Art." *Museums and the Web 2018* [[https://mw18.mwconf.org/paper/instagram-trends-visual-narratives-of-embodied-experiences-at-the-museum-of-islamic-art/]{.underline}](https://mw18.mwconf.org/paper/instagram-trends-visual-narratives-of-embodied-experiences-at-the-museum-of-islamic-art/) (accessed February 9, 2019).
+[^1]: Kylie Budge and Alli Burness. “Museum objects and Instagram: agency and communication in digital engagement.” *Continuum*, volume 32, no 2 (2018): 137 - 150 and Maria Paula Arias. "Instagram Trends: Visual Narratives of Embodied Experiences at the Museum of Islamic Art." *Museums and the Web 2018* [https://mw18.mwconf.org/paper/instagram-trends-visual-narratives-of-embodied-experiences-at-the-museum-of-islamic-art/](https://mw18.mwconf.org/paper/instagram-trends-visual-narratives-of-embodied-experiences-at-the-museum-of-islamic-art/) (accessed February 9, 2019).
 
-[^2]: Alli Burness, Megan Estep, Jennifer Kidd and Chad Weinard. “Putting People in the Picture: Learning from Museum Visitor Social Photos,” Conference Presentation, *Museum Computer Network,* New Orleans, LA [<https://youtu.be/lQ9Yvpxph8Q>]{.underline} (accessed February 9. 2019).
+[^2]: Alli Burness, Megan Estep, Jennifer Kidd and Chad Weinard. “Putting People in the Picture: Learning from Museum Visitor Social Photos,” Conference Presentation, *Museum Computer Network,* New Orleans, LA [<https://youtu.be/lQ9Yvpxph8Q>] (accessed February 9. 2019).
 
-[^3]: Sophie Haigney, “The Museums of Instagram,”*The New Yorker*, September 16, 2018. [[https://www.newyorker.com/culture/culture-desk/the-museums-of-instagram]{.underline}](https://www.newyorker.com/culture/culture-desk/the-museums-of-instagram) (accessed February 9 2019).
+[^3]: Sophie Haigney, “The Museums of Instagram,”*The New Yorker*, September 16, 2018. [https://www.newyorker.com/culture/culture-desk/the-museums-of-instagram](https://www.newyorker.com/culture/culture-desk/the-museums-of-instagram) (accessed February 9 2019).
 
 [^4]: Judith Butler, *Gender Trouble* (New York: Routledge, 1999), xv.
 
@@ -144,11 +144,11 @@ Rounds, Jay. “Doing Identity Work in Museums.” *Curator: The Museum* *Journa
 
 [^6]: Jay Rounds, “Doing Identity Work in Museum,” *Curator: The Museum Journal*, Volume 49, Issue 2, April 2006, 133 - 150, 133.
 
-[^7]: Kingsley Jayasekera, “China Unlimited: Understanding the Museum Boom in China,” *Communicating the Museum*, 2014. [[https://www.youtube.com/watch?time\_continue=106&v=ZV\_bWc1OA5c]{.underline}](https://www.youtube.com/watch?time_continue=106&v=ZV_bWc1OA5c) (accessed February 9, 2019).
+[^7]: Kingsley Jayasekera, “China Unlimited: Understanding the Museum Boom in China,” *Communicating the Museum*, 2014. [https://www.youtube.com/watch?time\_continue=106&v=ZV\_bWc1OA5c](https://www.youtube.com/watch?time_continue=106&v=ZV_bWc1OA5c) (accessed February 9, 2019).
 
 [^8]: Alli Burness, “New Ways of Looking: Self-representational social photography in museums,” *Museums and Visitor Photography: Redefining the Visitor Experience*, edited by Theopisti Stylianou-Lambert, 90 - 127. Museums Etc, 2016,
 
-[^9]: Richard Holledge, “Down with Blockbusters! James Bradburne on the art of running a museum,” *Financial Times*, January 22, 2018 [[https://www.ft.com/content/dc3e411c-f20b-11e7-bb7d-c3edfe974e9f]{.underline}](https://www.ft.com/content/dc3e411c-f20b-11e7-bb7d-c3edfe974e9f) (accessed February 9, 2019).
+[^9]: Richard Holledge, “Down with Blockbusters! James Bradburne on the art of running a museum,” *Financial Times*, January 22, 2018 [https://www.ft.com/content/dc3e411c-f20b-11e7-bb7d-c3edfe974e9f](https://www.ft.com/content/dc3e411c-f20b-11e7-bb7d-c3edfe974e9f) (accessed February 9, 2019).
 
 [^10]: Kees Dorst, *Frame Innovation: Create New Thinking By Design* (Boston, Ma: MIT Press, 2015), 45 - 53.
 
@@ -162,6 +162,6 @@ Rounds, Jay. “Doing Identity Work in Museums.” *Curator: The Museum* *Journa
 
     > “Yes, and we need to avenge her murder!”
 
-[^12]: John Falk, *Identity and the Museum Visitor Experience* (Walnut Creek, CA: Left Coast Press, 2019) and Morris Hargreaves Mcintyre, *Culture Segments*. [[https://mhminsight.com/culture-segments]{.underline}](https://mhminsight.com/culture-segments) (accessed February 10, 2019).
+[^12]: John Falk, *Identity and the Museum Visitor Experience* (Walnut Creek, CA: Left Coast Press, 2019) and Morris Hargreaves Mcintyre, *Culture Segments*. [https://mhminsight.com/culture-segments](https://mhminsight.com/culture-segments) (accessed February 10, 2019).
 
-[^13]: Ed Rodley, Twitter Post*,* June 23, 2017, 10.40pm, [[https://twitter.com/erodley/status/878231357813665792]{.underline}](https://twitter.com/erodley/status/878231357813665792)
+[^13]: Ed Rodley, Twitter Post*,* June 23, 2017, 10.40pm, [https://twitter.com/erodley/status/878231357813665792](https://twitter.com/erodley/status/878231357813665792)

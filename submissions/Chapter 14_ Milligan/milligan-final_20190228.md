@@ -40,7 +40,7 @@ Much of what we experience through the web is already mediated by participatory 
 
 The growing expectations for cultural institutions to play an important role in participatory culture are affecting the way they do their work. Museums in particular face difficult challenges[^21] as they transition from institutions designed as what historian Ken Arnold would call “containers” for knowledge or culture and “monuments” that provide “a physical permanence as well as an implied symbol of legitimacy.”[^22] Simon offers a definition of what a participatory cultural institution might be: “a place where visitors can create, share, and connect with each other around content.”[^23]
 
-Crowdsourcing, as first defined by Jeff Howe in the 2006 Wired article,[^24] generally describes the process of distributed or shared problem solving through online participation. Its first implementations may have been commercial[^25], but the term is now being used in many ways in the heritage sector to facilitate participatory experiences with audiences by museums, libraries, and archives. These projects are better thought of as an expansion of traditional public engagement efforts. As Owens defines, “They are about inviting participation from interested and engaged members of the public \[and\] continue a long standing tradition of volunteerism and involvement of citizens in the creation and continued development of public goods.”[^26]
+Crowdsourcing, as first defined by Jeff Howe in the 2006 Wired article,[^24] generally describes the process of distributed or shared problem solving through online participation. Its first implementations may have been commercial[^25], but the term is now being used in many ways in the heritage sector to facilitate participatory experiences with audiences by museums, libraries, and archives. These projects are better thought of as an expansion of traditional public engagement efforts. As Owens defines, “They are about inviting participation from interested and engaged members of the public [and] continue a long standing tradition of volunteerism and involvement of citizens in the creation and continued development of public goods.”[^26]
 
 The first entirely crowdsourced exhibition was developed by the Brooklyn Museum in 2008[^27], not simply as a popularity contest, but a carefully-designed research project, one built to test the ideas set forth in James Surowiecki’s *The Wisdom of Crowds,* that an adequately diverse crowd can make better decisions that traditional experts.[^28] This exhibition, *Click!,* explored the ways that the museum’s audience, one now expanded by the Web, could participate both by submitting photographic work and evaluating it, in the process of exhibition development. While the exhibition through the lens of traditional art critique was not considered a success,[^29][^30] it provided invaluable research data as a model for future projects. It represents that “there is dynamic tension between what the museum wants to present and what participants, visitors, and reporters want to experience.”[^31] Museums have continued to explore the potential of crowdsourcing in ways ranging from large projects like this to smaller initiatives, however most have focused on collaboration to support the needs of the institution, for example the growth in popularity with volunteer transcription platforms (the Smithsonian’s alone reports more than twelve thousand participants[^32]) and not found the opportunity for true user-driven co-creation.
 
@@ -62,7 +62,7 @@ The Smithsonian established the Smithsonian Center for Learning and Digital Acce
 
 **\<\<\<INSERT FIGURE 1 HERE\>\>\>**
 
-Figure 1. The homepage of the Smithsonian Learning Lab, found at [[https://learninglab.si.edu]{.underline}](https://learninglab.si.edu) inviting users to discover, create, share, and learn.
+Figure 1. The homepage of the Smithsonian Learning Lab, found at [https://learninglab.si.edu](https://learninglab.si.edu) inviting users to discover, create, share, and learn.
 
 Having an in-house platform for observing the behavior of educational users will have important consequences for the Center’s work. For the first time, we can see and ideally understand the wide contexts provided to digitized collections through their purposeful aggregation and layering with instructional strategies.
 
@@ -132,7 +132,7 @@ What we do now know, however, is that this meaning is being made, that teachers 
 
 # **Bibliography**
 
-Ackermann, Edith. “Piaget’s Constructivism, Papert’s Constructionism: What’s the difference?.” *Future of Learning, n.d.* [[http://learning.media.mit.edu/content/publications/EA.Piaget%20\_%20Papert.pdf]{.underline}](http://learning.media.mit.edu/content/publications/EA.Piaget%20_%20Papert.pdf).
+Ackermann, Edith. “Piaget’s Constructivism, Papert’s Constructionism: What’s the difference?.” *Future of Learning, n.d.* [http://learning.media.mit.edu/content/publications/EA.Piaget%20\_%20Papert.pdf](http://learning.media.mit.edu/content/publications/EA.Piaget%20_%20Papert.pdf).
 
 Adair, Bill, *et. al*. “Introduction.” in *Letting Go? Sharing Historical Authority in a User-Generated World*.
 
@@ -148,7 +148,7 @@ Ashgate Publishing, 2006).
 
 Brabham, Daren C. “Crowdsourcing and Governance.” *Confessions of an Aca-Fan,* 10 August 2009.
 
-[[http://henryjenkins.org/2009/08/get\_ready\_to\_participate\_crowd.html]{.underline}](http://henryjenkins.org/2009/08/get_ready_to_participate_crowd.html).
+[http://henryjenkins.org/2009/08/get\_ready\_to\_participate\_crowd.html](http://henryjenkins.org/2009/08/get_ready_to_participate_crowd.html).
 
 Cairns, Susan. “Mutualizing Museum Knowledge: Folksonomies and the Changing Shape of Expertise.”
 
@@ -158,7 +158,7 @@ Cairns, Susan. “Mutualizing Museum Knowledge: Folksonomies and the Changing Sh
 
 Seb Chan. Twitter Post. 9 January 2019, 7:31 p.m.,
 
-[[https://twitter.com/sebchan/status/1083174497543348224]{.underline}](https://twitter.com/sebchan/status/1083174497543348224).
+[https://twitter.com/sebchan/status/1083174497543348224](https://twitter.com/sebchan/status/1083174497543348224).
 
 Chan, Seb. “Tagging and Searching – Serendipity and museum collection databases.” in *Museums and *
 
@@ -166,7 +166,7 @@ Chan, Seb. “Tagging and Searching – Serendipity and museum collection databa
 
 Informatics, 1 March, 2007.
 
-[[http://www.museumsandtheweb.com/mw2007/papers/chan/chan.html]{.underline}](http://www.museumsandtheweb.com/mw2007/papers/chan/chan.html).
+[http://www.museumsandtheweb.com/mw2007/papers/chan/chan.html](http://www.museumsandtheweb.com/mw2007/papers/chan/chan.html).
 
 Click! A Crowd-curated Exhibition. temporary exhibition. (27 June to 10 August, 2007) Brooklyn Museum,
 
@@ -184,9 +184,9 @@ Duff, Alistair. *Information Society Studies*. London and New York: Routledge, 2
 
 DVorkin, Lewis. “Forbes Contributors Talk About Our Model for Entrepreneurial Journalism.” *Forbes.* 1
 
-December 2011. [[http://www.forbes.com/sites/lewisdvorkin/2011/12/01/]{.underline}](http://www.forbes.com/sites/lewisdvorkin/2011/12/01/forbes-contributors-talk-)
+December 2011. [http://www.forbes.com/sites/lewisdvorkin/2011/12/01/](http://www.forbes.com/sites/lewisdvorkin/2011/12/01/forbes-contributors-talk-)
 
-[[forbes-contributors-talk-]{.underline}](http://www.forbes.com/sites/lewisdvorkin/2011/12/01/forbes-contributors-talk-)about-our-model-for-entrepreneurial-journalism/.
+[forbes-contributors-talk-](http://www.forbes.com/sites/lewisdvorkin/2011/12/01/forbes-contributors-talk-)about-our-model-for-entrepreneurial-journalism/.
 
 Falk, John H. and Dierking, Lynn D. *Learning from Museums: Visitor Experiences and the Making of *
 
@@ -194,21 +194,21 @@ Falk, John H. and Dierking, Lynn D. *Learning from Museums: Visitor Experiences 
 
 Givhan, Robin. “Proles vs. Pros: An Experiment In Curating.” *The Washington Post.* 6 July 2008.
 
-[[http://www.washingtonpost.com/wp-dyn/content/article/2008/07/03/AR2008070301509.html]{.underline}](http://www.washingtonpost.com/wp-dyn/content/article/2008/07/03/AR2008070301509.html).
+[http://www.washingtonpost.com/wp-dyn/content/article/2008/07/03/AR2008070301509.html](http://www.washingtonpost.com/wp-dyn/content/article/2008/07/03/AR2008070301509.html).
 
 Howe, Jeff. “The rise of crowdsourcing.” *Wired* 14(06). June 2006.
 
-[[http://www.wired.com/wired/archive/14.06/crowds.html]{.underline}](http://www.wired.com/wired/archive/14.06/crowds.html).
+[http://www.wired.com/wired/archive/14.06/crowds.html](http://www.wired.com/wired/archive/14.06/crowds.html).
 
 Ito, J. and L. Langa. *Remedial Evaluation of the Materials Distributed at the Smithsonian Institution's Annual Teachers' Night.* Washington, D.C.: Smithsonian Center for Education Museum Studies, 2010.
 
 Jenkins, Henry. “Confronting the Challenges of Participatory Culture: Media Education for the 21st
 
-> Century (Part One).” *Confessions of an Aca-Fan.* 20 October 2006. [[http://henryjenkins.org/2006/10/confronting\_the\_challenges\_of.html]{.underline}](http://henryjenkins.org/2006/10/confronting_the_challenges_of.html).
+> Century (Part One).” *Confessions of an Aca-Fan.* 20 October 2006. [http://henryjenkins.org/2006/10/confronting\_the\_challenges\_of.html](http://henryjenkins.org/2006/10/confronting_the_challenges_of.html).
 
 Johnson, Ken. “3,344 People May Not Know Art but Know What They Like.” *New York Times.* 4 July
 
-2008\. [[http://www.nytimes.com/2008/07/04/arts/design/04clic.html]{.underline}](http://www.nytimes.com/2008/07/04/arts/design/04clic.html).
+2008\. [http://www.nytimes.com/2008/07/04/arts/design/04clic.html](http://www.nytimes.com/2008/07/04/arts/design/04clic.html).
 
 MacDonald, George and Alsford, Stephen. “The Museum as Information Utility.” in *Museums in a Digital *
 
@@ -218,11 +218,11 @@ MacDonald, George and Alsford, Stephen. “The Museum as Information Utility.”
 
 Computer Network,” 1 May 2013, https://www.youtube.com/watch?v=93cR1vqY3Xk.
 
-Merritt, Elizabeth. “Crowdsource the Museum?.” *Center for the Future of Museums Blog*. 20 August 2009. [[http://futureofmuseums.blogspot.com/2009/08/crowsource-museum.html]{.underline}](http://futureofmuseums.blogspot.com/2009/08/crowsource-museum.html).
+Merritt, Elizabeth. “Crowdsource the Museum?.” *Center for the Future of Museums Blog*. 20 August 2009. [http://futureofmuseums.blogspot.com/2009/08/crowsource-museum.html](http://futureofmuseums.blogspot.com/2009/08/crowsource-museum.html).
 
 Darren Milligan, Twitter post, 9 January 2019, 8:46 a.m.,
 
-[[https://twitter.com/DarrenMilligan/status/1083012231720247296]{.underline}](https://twitter.com/DarrenMilligan/status/1083012231720247296).
+[https://twitter.com/DarrenMilligan/status/1083012231720247296](https://twitter.com/DarrenMilligan/status/1083012231720247296).
 
 Morozo, Evgeny. “Making It: Pick up a spot welder and join the revolution.” *The New Yorker*. 13 January
 
@@ -230,7 +230,7 @@ Morozo, Evgeny. “Making It: Pick up a spot welder and join the revolution.” 
 
 National Information Standards Organization. *Understanding Metadata.* Bethesda: NISO Press, 2004.
 
-[[http://www.niso.org/publications/press/UnderstandingMetadata.pdf]{.underline}](http://www.niso.org/publications/press/UnderstandingMetadata.pdf).
+[http://www.niso.org/publications/press/UnderstandingMetadata.pdf](http://www.niso.org/publications/press/UnderstandingMetadata.pdf).
 
 National Portrait Gallery. *National Portrait Gallery/Smithsonian American Art Museum Commemorative *
 
@@ -238,7 +238,7 @@ National Portrait Gallery. *National Portrait Gallery/Smithsonian American Art M
 
 Owens, Trevor. “The Crowd and the Library.” *Trevor Owens Blog.* 20 May 2012.
 
-[[http://www.trevorowens.org/2012/05/the-crowd-and-the-library/]{.underline}](http://www.trevorowens.org/2012/05/the-crowd-and-the-library/).
+[http://www.trevorowens.org/2012/05/the-crowd-and-the-library/](http://www.trevorowens.org/2012/05/the-crowd-and-the-library/).
 
 Poole, Nick. *New Contexts for Museum Information*. Collections Trust, 2012.
 
@@ -252,7 +252,7 @@ Ryder, Martin. “The Cyborg and the Noble Savage: Ethics in the war on informat
 
 Sexton, Charlotte. Twitter post, 10 November 2012, 12:08
 
-p.m., [[https://twitter.com/cb\_sexton/status/267327816406794242]{.underline}](https://twitter.com/cb_sexton/status/267327816406794242).
+p.m., [https://twitter.com/cb\_sexton/status/267327816406794242](https://twitter.com/cb_sexton/status/267327816406794242).
 
 Sharples, Mike. *Innovating Pedagogy 2013: Open University Innovation Report 2.* Milton Keynes: The
 
@@ -264,17 +264,17 @@ http://vimeo.com/19213313.
 
 Simon, Nina. *The Participatory Museum*. Santa Cruz: Museum 2.0, 2010.
 
-[[http://www.participatorymuseum.org/preface/]{.underline}](http://www.participatorymuseum.org/preface/).
+[http://www.participatorymuseum.org/preface/](http://www.participatorymuseum.org/preface/).
 
 Simon, Nina. “Why Click! is My Hero (What Museum Innovation Looks Like).” *Museum 2.0.* 11 July 2008.
 
-[[http://museumtwo.blogspot.com/2008/07/why-click-is-my-hero-what-museum.html]{.underline}](http://museumtwo.blogspot.com/2008/07/why-click-is-my-hero-what-museum.html).
+[http://museumtwo.blogspot.com/2008/07/why-click-is-my-hero-what-museum.html](http://museumtwo.blogspot.com/2008/07/why-click-is-my-hero-what-museum.html).
 
-Spruce, Lanae and Kaitlyn Leaf. ‘Social Media for Social Justice.’ *Journal of Museum Education,* 42:1 (13 February 2017), 41-53. [[http://dx.doi.org/10.1080/10598650.2016.1265852]{.underline}](http://dx.doi.org/10.1080/10598650.2016.1265852).
+Spruce, Lanae and Kaitlyn Leaf. ‘Social Media for Social Justice.’ *Journal of Museum Education,* 42:1 (13 February 2017), 41-53. [http://dx.doi.org/10.1080/10598650.2016.1265852](http://dx.doi.org/10.1080/10598650.2016.1265852).
 
 Tanner, Simon.”The Balanced Value Impact Model.” *When the data hits the fan!.* 23 October 2012.
 
-[[http://simon-tanner.blogspot.com/2012/10/the-balanced-value-impact-model.html]{.underline}](http://simon-tanner.blogspot.com/2012/10/the-balanced-value-impact-model.html).
+[http://simon-tanner.blogspot.com/2012/10/the-balanced-value-impact-model.html](http://simon-tanner.blogspot.com/2012/10/the-balanced-value-impact-model.html).
 
 Webster, Frank. *Theories of the Information Society,* Third Edition. London and New York: Routledge,
 
@@ -292,7 +292,7 @@ Wolfrom, K. A. "The Rise and Fall of the Philadelphia Commercial Museum: How a F
 
 [^2]: Frank Webster, *Theories of the Information Society,* Third Edition (London and New York: Routledge, 2006), pp. 8–31.
 
-[^3]: [[http://en.wikipedia.org/wiki/Information\_society]{.underline}](http://en.wikipedia.org/wiki/Information_society). It should be noted that Wikipedia is not considered by the author an authoritative source for information about the information society, but perhaps a definition collaboratively developed, such as the one provided here from Wikipedia is suitable given the subject matter.
+[^3]: [http://en.wikipedia.org/wiki/Information\_society](http://en.wikipedia.org/wiki/Information_society). It should be noted that Wikipedia is not considered by the author an authoritative source for information about the information society, but perhaps a definition collaboratively developed, such as the one provided here from Wikipedia is suitable given the subject matter.
 
 [^4]: David Williams, ‘A Brief History of Museum Computerization’, in *Museums in a Digital Age,* ed. by Ross Perry (London and New York: Routledge, 2010), pp. 15–21 (p. 16).
 
@@ -310,17 +310,17 @@ Wolfrom, K. A. "The Rise and Fall of the Philadelphia Commercial Museum: How a F
 
 [^10]: John H. Falk and Lynn D. Dierking, ‘Learning from Museums: Visitor Experiences and the Making of Meaning’, (Walnut Creek: Altamira, 2000), p. 219.
 
-[^11]: Lois H. Silverman, ‘Social Work of Museums’, online video, *Bunker Ljubljana,* [[http://vimeo.com/19213313]{.underline}](http://vimeo.com/19213313).
+[^11]: Lois H. Silverman, ‘Social Work of Museums’, online video, *Bunker Ljubljana,* [http://vimeo.com/19213313](http://vimeo.com/19213313).
 
-[^12]: Pew Internet and American Life Project (May 2013), [http://www.pewinternet.org/fact-sheet/internet-broadband/]{.underline}.
+[^12]: Pew Internet and American Life Project (May 2013), [http://www.pewinternet.org/fact-sheet/internet-broadband/].
 
-[^13]: Charlotte Sexton, ‘\@sdarrough says 'If you can't Google something does it exist?' \#mcn2012moma \#mcn2012’, Twitter, 10 November 2012, [[https://twitter.com/cb\_sexton/status/267327816406794242]{.underline}](https://twitter.com/cb_sexton/status/267327816406794242).
+[^13]: Charlotte Sexton, ‘@sdarrough says 'If you can't Google something does it exist?' \#mcn2012moma \#mcn2012’, Twitter, 10 November 2012, [https://twitter.com/cb\_sexton/status/267327816406794242](https://twitter.com/cb_sexton/status/267327816406794242).
 
-[^14]: National Information Standards Organization, *Understanding Metadata,* (Bethesda: NISO Press, 2004), [[http://www.niso.org/publications/press/UnderstandingMetadata.pdf]{.underline}](http://www.niso.org/publications/press/UnderstandingMetadata.pdf).
+[^14]: National Information Standards Organization, *Understanding Metadata,* (Bethesda: NISO Press, 2004), [http://www.niso.org/publications/press/UnderstandingMetadata.pdf](http://www.niso.org/publications/press/UnderstandingMetadata.pdf).
 
-[^15]: John Voss, ‘About LODAM’, [[http://lodlam.net/about/]{.underline}](http://lodlam.net/about/).
+[^15]: John Voss, ‘About LODAM’, [http://lodlam.net/about/](http://lodlam.net/about/).
 
-[^16]: Seb Chan, ‘Tagging and Searching – Serendipity and museum collection databases’, in J. Trant and D. Bearman (eds.). *Museums and the Web 2007: Proceedings,* Toronto: Archives & Museum Informatics, 1 March, 2007, [[http://www.museumsandtheweb.com/mw2007/papers/chan/chan.html]{.underline}](http://www.museumsandtheweb.com/mw2007/papers/chan/chan.html).
+[^16]: Seb Chan, ‘Tagging and Searching – Serendipity and museum collection databases’, in J. Trant and D. Bearman (eds.). *Museums and the Web 2007: Proceedings,* Toronto: Archives & Museum Informatics, 1 March, 2007, [http://www.museumsandtheweb.com/mw2007/papers/chan/chan.html](http://www.museumsandtheweb.com/mw2007/papers/chan/chan.html).
 
 [^17]: For additional information on one mechanism of online advertising, see the frequently asked questions for Google Adwords at http://www.google.com/adwords/how-it-works/faq.html.
 
@@ -328,45 +328,45 @@ Wolfrom, K. A. "The Rise and Fall of the Philadelphia Commercial Museum: How a F
 
 [^19]: For additional information on how Reddit displays content, see http://www.reddit.com/wiki/faq.
 
-[^20]: Henry Jenkins, ‘Confronting the Challenges of Participatory Culture: Media Education for the 21st Century (Part One)’, Confessions of an Aca-Fan, 20 October 2006, [[http://henryjenkins.org/2006/10/confronting\_the\_challenges\_of.html]{.underline}](http://henryjenkins.org/2006/10/confronting_the_challenges_of.html).
+[^20]: Henry Jenkins, ‘Confronting the Challenges of Participatory Culture: Media Education for the 21st Century (Part One)’, Confessions of an Aca-Fan, 20 October 2006, [http://henryjenkins.org/2006/10/confronting\_the\_challenges\_of.html](http://henryjenkins.org/2006/10/confronting_the_challenges_of.html).
 
-[^21]: Susan Cairns, ‘Mutualizing Museum Knowledge: Folksonomies and the Changing Shape of Expertise,’ *Curator: The Museum Journal*, 56: 107–119, 7 January 2013, [[http://onlinelibrary.wiley.com/doi/10.1111/cura.12011/full]{.underline}](http://onlinelibrary.wiley.com/doi/10.1111/cura.12011/full).
+[^21]: Susan Cairns, ‘Mutualizing Museum Knowledge: Folksonomies and the Changing Shape of Expertise,’ *Curator: The Museum Journal*, 56: 107–119, 7 January 2013, [http://onlinelibrary.wiley.com/doi/10.1111/cura.12011/full](http://onlinelibrary.wiley.com/doi/10.1111/cura.12011/full).
 
 [^22]: Ken Arnold, *Cabinets for the Curious: Looking Back at Early English Museums,* (Hants and Burlington: Ashgate Publishing, 2006), p. 5.
 
-[^23]: Nina Simon, *The Participatory Museum*, (Santa Cruz: Museum 2.0, 2010), p. preface, [[http://www.participatorymuseum.org/preface/]{.underline}](http://www.participatorymuseum.org/preface/).
+[^23]: Nina Simon, *The Participatory Museum*, (Santa Cruz: Museum 2.0, 2010), p. preface, [http://www.participatorymuseum.org/preface/](http://www.participatorymuseum.org/preface/).
 
-[^24]: Jeff Howe, ‘The rise of crowdsourcing’, *Wired* 14(06), 14 June 2006, [[http://www.wired.com/wired/archive/14.06/crowds.html]{.underline}](http://www.wired.com/wired/archive/14.06/crowds.html).
+[^24]: Jeff Howe, ‘The rise of crowdsourcing’, *Wired* 14(06), 14 June 2006, [http://www.wired.com/wired/archive/14.06/crowds.html](http://www.wired.com/wired/archive/14.06/crowds.html).
 
-[^25]: Daren C. Brabham, ‘Crowdsourcing and Governance’, Confessions of an Aca-Fan, 10 August 2009, [[http://henryjenkins.org/2009/08/get\_ready\_to\_participate\_crowd.html]{.underline}](http://henryjenkins.org/2009/08/get_ready_to_participate_crowd.html).
+[^25]: Daren C. Brabham, ‘Crowdsourcing and Governance’, Confessions of an Aca-Fan, 10 August 2009, [http://henryjenkins.org/2009/08/get\_ready\_to\_participate\_crowd.html](http://henryjenkins.org/2009/08/get_ready_to_participate_crowd.html).
 
-[^26]: Trevor Owens, ‘The Crowd and the Library’, Trevor Owens, 20 May 2012, [[http://www.trevorowens.org/2012/05/the-crowd-and-the-library/]{.underline}](http://www.trevorowens.org/2012/05/the-crowd-and-the-library/).
+[^26]: Trevor Owens, ‘The Crowd and the Library’, Trevor Owens, 20 May 2012, [http://www.trevorowens.org/2012/05/the-crowd-and-the-library/](http://www.trevorowens.org/2012/05/the-crowd-and-the-library/).
 
-[^27]: Elizabeth Merritt, ‘Crowdsource the Museum?’, Center for the Future of Museums Blog, 20 August 2009, [[http://futureofmuseums.blogspot.com/2009/08/crowsource-museum.html]{.underline}](http://futureofmuseums.blogspot.com/2009/08/crowsource-museum.html).
+[^27]: Elizabeth Merritt, ‘Crowdsource the Museum?’, Center for the Future of Museums Blog, 20 August 2009, [http://futureofmuseums.blogspot.com/2009/08/crowsource-museum.html](http://futureofmuseums.blogspot.com/2009/08/crowsource-museum.html).
 
 [^28]: Click! A Crowd-curated Exhibition, temporary exhibition, 27 June to 10 August, 2007, Brooklyn Museum, Brooklyn.
 
-[^29]: Ken Johnson, ‘3,344 People May Not Know Art but Know What They Like’, *New York Times,* 4 July 2008, [[http://www.nytimes.com/2008/07/04/arts/design/04clic.html]{.underline}](http://www.nytimes.com/2008/07/04/arts/design/04clic.html).
+[^29]: Ken Johnson, ‘3,344 People May Not Know Art but Know What They Like’, *New York Times,* 4 July 2008, [http://www.nytimes.com/2008/07/04/arts/design/04clic.html](http://www.nytimes.com/2008/07/04/arts/design/04clic.html).
 
-[^30]: Robin Givhan, ‘Proles vs. Pros: An Experiment In Curating’, *The Washington Post,* 6 July 2008, [[http://www.washingtonpost.com/wp-dyn/content/article/2008/07/03/AR2008070301509.html]{.underline}](http://www.washingtonpost.com/wp-dyn/content/article/2008/07/03/AR2008070301509.html).
+[^30]: Robin Givhan, ‘Proles vs. Pros: An Experiment In Curating’, *The Washington Post,* 6 July 2008, [http://www.washingtonpost.com/wp-dyn/content/article/2008/07/03/AR2008070301509.html](http://www.washingtonpost.com/wp-dyn/content/article/2008/07/03/AR2008070301509.html).
 
-[^31]: Nina Simon, ‘Why Click! is My Hero (What Museum Innovation Looks Like)’, Museum 2.0, 11 July 2008, [[http://museumtwo.blogspot.com/2008/07/why-click-is-my-hero-what-museum.html]{.underline}](http://museumtwo.blogspot.com/2008/07/why-click-is-my-hero-what-museum.html).
+[^31]: Nina Simon, ‘Why Click! is My Hero (What Museum Innovation Looks Like)’, Museum 2.0, 11 July 2008, [http://museumtwo.blogspot.com/2008/07/why-click-is-my-hero-what-museum.html](http://museumtwo.blogspot.com/2008/07/why-click-is-my-hero-what-museum.html).
 
 [^32]: For more information on the Smithsonian Transcription Center, see https://transcription.si.edu/.
 
-[^33]: Chris Anderson, ‘20 Years of Wired: Maker movement’, *Wired,* 2 May 2013, [[http://www.wired.co.uk/magazine/archive/2013/06/feature-20-years-of-wired/maker-movement]{.underline}](http://www.wired.co.uk/magazine/archive/2013/06/feature-20-years-of-wired/maker-movement).
+[^33]: Chris Anderson, ‘20 Years of Wired: Maker movement’, *Wired,* 2 May 2013, [http://www.wired.co.uk/magazine/archive/2013/06/feature-20-years-of-wired/maker-movement](http://www.wired.co.uk/magazine/archive/2013/06/feature-20-years-of-wired/maker-movement).
 
-[^34]: Mia Ridge, ‘Bringing maker culture to cultural organisations’, online video, *VALA - Libraries, Technology and the Future Inc.,* 6 February 2014, [[http://www.vala.org.au/index.php?option=com\_content&view=article&id=802&catid=139&Itemid=402]{.underline}](http://www.vala.org.au/index.php?option=com_content&view=article&id=802&catid=139&Itemid=402).
+[^34]: Mia Ridge, ‘Bringing maker culture to cultural organisations’, online video, *VALA - Libraries, Technology and the Future Inc.,* 6 February 2014, [http://www.vala.org.au/index.php?option=com\_content&view=article&id=802&catid=139&Itemid=402](http://www.vala.org.au/index.php?option=com_content&view=article&id=802&catid=139&Itemid=402).
 
 [^35]: Chris Anderson, *Makers,* *The New Industrial Revolution,* (New York: Crown Business, 2012), p. 21.
 
-[^36]: Evgeny Morozo, ‘Making It: Pick up a spot welder and join the revolution’, *The New Yorker,* 13 January 2014, [[http://www.newyorker.com/magazine/2014/01/13/making-it-2]{.underline}](http://www.newyorker.com/magazine/2014/01/13/making-it-2).
+[^36]: Evgeny Morozo, ‘Making It: Pick up a spot welder and join the revolution’, *The New Yorker,* 13 January 2014, [http://www.newyorker.com/magazine/2014/01/13/making-it-2](http://www.newyorker.com/magazine/2014/01/13/making-it-2).
 
 [^37]: Mike Sharples, *Innovating Pedagogy 2013: Open University Innovation Report 2*, (Milton Keynes: The Open University), p. 5.
 
-[^38]: Edith Ackermann, ‘Piaget’s Constructivism, Papert’s Constructionism: What’s the difference?’, *Future of Learning,* [[http://learning.media.mit.edu/content/publications/EA.Piaget%20\_%20Papert.pdf]{.underline}](http://learning.media.mit.edu/content/publications/EA.Piaget%20_%20Papert.pdf).
+[^38]: Edith Ackermann, ‘Piaget’s Constructivism, Papert’s Constructionism: What’s the difference?’, *Future of Learning,* [http://learning.media.mit.edu/content/publications/EA.Piaget%20\_%20Papert.pdf](http://learning.media.mit.edu/content/publications/EA.Piaget%20_%20Papert.pdf).
 
-[^39]: Martin Ryder, ‘The Cyborg and the Noble Savage: Ethics in the war on information poverty’, *Handbook of Research on Technoethics,* (IGC Global, 2008), [[http://carbon.ucdenver.edu/\~mryder/savage.html\#def\_constructivism]{.underline}](http://carbon.ucdenver.edu/~mryder/savage.html#def_constructivism).
+[^39]: Martin Ryder, ‘The Cyborg and the Noble Savage: Ethics in the war on information poverty’, *Handbook of Research on Technoethics,* (IGC Global, 2008), [http://carbon.ucdenver.edu/\~mryder/savage.html\#def\_constructivism](http://carbon.ucdenver.edu/~mryder/savage.html#def_constructivism).
 
 [^40]: Ackermann, ‘Piaget’s Constructivism, Papert’s Constructionism: What’s the difference?
 
@@ -376,15 +376,15 @@ Wolfrom, K. A. "The Rise and Fall of the Philadelphia Commercial Museum: How a F
 
 [^43]: National Portrait Gallery, National Portrait Gallery/Smithsonian American Art Museum Commemorative Guide, (Beckon Books, 2015).
 
-[^44]: K.A. Wolfrom, ‘The Rise and Fall of the Philadelphia Commercial Museum: How a Forgotten Museum Forever Altered American Industry,’ *Independence Seaport Museum*, [[http://www.phillyseaport.org/rise-fall-philadelphia-commercial-museum]{.underline}](http://www.phillyseaport.org/rise-fall-philadelphia-commercial-museum).
+[^44]: K.A. Wolfrom, ‘The Rise and Fall of the Philadelphia Commercial Museum: How a Forgotten Museum Forever Altered American Industry,’ *Independence Seaport Museum*, [http://www.phillyseaport.org/rise-fall-philadelphia-commercial-museum](http://www.phillyseaport.org/rise-fall-philadelphia-commercial-museum).
 
 [^45]: J. Ito and L. Langa, ‘Remedial Evaluation of the Materials Distributed at the Smithsonian Institution's Annual Teachers' Night,’ *Smithsonian Center for Education Museum Studies.*
 
-[^46]: Nina Simon, *The Participatory Museum*, (Santa Cruz: Museum 2.0, 2010), p. Chapter 10, [[http://www.participatorymuseum.org/chapter10/]{.underline}](http://www.participatorymuseum.org/chapter10/).
+[^46]: Nina Simon, *The Participatory Museum*, (Santa Cruz: Museum 2.0, 2010), p. Chapter 10, [http://www.participatorymuseum.org/chapter10/](http://www.participatorymuseum.org/chapter10/).
 
-[^47]: Simon Tanner, ‘The Balanced Value Impact Model’, When the data hits the fan!, 23 October 2012, [[http://simon-tanner.blogspot.com/2012/10/the-balanced-value-impact-model.html]{.underline}](http://simon-tanner.blogspot.com/2012/10/the-balanced-value-impact-model.html).
+[^47]: Simon Tanner, ‘The Balanced Value Impact Model’, When the data hits the fan!, 23 October 2012, [http://simon-tanner.blogspot.com/2012/10/the-balanced-value-impact-model.html](http://simon-tanner.blogspot.com/2012/10/the-balanced-value-impact-model.html).
 
-[^48]: See the Balanced Value Impact Model, from the King’s Digital Consultancy Service, accessible at [[http://www.kdcs.kcl.ac.uk/innovation/impact.html]{.underline}](http://www.kdcs.kcl.ac.uk/innovation/impact.html)
+[^48]: See the Balanced Value Impact Model, from the King’s Digital Consultancy Service, accessible at [http://www.kdcs.kcl.ac.uk/innovation/impact.html](http://www.kdcs.kcl.ac.uk/innovation/impact.html)
 
 [^49]: Nick Poole, ‘New Contexts for Museum Information’ (Collections Trust, 2012), pp. 5–6.
 
@@ -404,6 +404,6 @@ Wolfrom, K. A. "The Rise and Fall of the Philadelphia Commercial Museum: How a F
 
 [^57]: For an example of how one institution, the Folger Shakespeare Library describes their curatorial files, see https://folgerpedia.folger.edu/Curatorial\_files.
 
-[^58]:  Darren Milligan, ‘Trying to source some examples, anecdotes, or writing on how museums capture (like in their CIS, etc.) non-institutional contextualization of digitized collection objects. This might include: external publishing platforms, social media activity, educational uses. (Please RT)’, Twitter, 9 January 2019, [[https://twitter.com/DarrenMilligan/status/1083012231720247296]{.underline}](https://twitter.com/DarrenMilligan/status/1083012231720247296).
+[^58]:  Darren Milligan, ‘Trying to source some examples, anecdotes, or writing on how museums capture (like in their CIS, etc.) non-institutional contextualization of digitized collection objects. This might include: external publishing platforms, social media activity, educational uses. (Please RT)’, Twitter, 9 January 2019, [https://twitter.com/DarrenMilligan/status/1083012231720247296](https://twitter.com/DarrenMilligan/status/1083012231720247296).
 
-[^59]: Seb Chan, ‘ Seems like this is a job for \@webrecorder\_io and integrating that with a CI/M/S. And embracing the notion of both distributed collections and distributed meaning making.‘, Twitter, 9 January 2019, [[https://twitter.com/sebchan/status/1083174497543348224]{.underline}](https://twitter.com/sebchan/status/1083174497543348224).
+[^59]: Seb Chan, ‘ Seems like this is a job for @webrecorder\_io and integrating that with a CI/M/S. And embracing the notion of both distributed collections and distributed meaning making.‘, Twitter, 9 January 2019, [https://twitter.com/sebchan/status/1083174497543348224](https://twitter.com/sebchan/status/1083174497543348224).

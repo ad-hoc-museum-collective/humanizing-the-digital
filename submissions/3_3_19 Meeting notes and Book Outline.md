@@ -40,49 +40,49 @@ CC-BY
 
 2.  Book title page
 
-3.  [[dedication to Adrienne]{.underline}](https://docs.google.com/document/d/1ONolFpoxzdQ__kO3cRKiOeQrjIivepwSzIJyG_jUCyY/edit?usp=sharing)
+3.  [dedication to Adrienne](https://docs.google.com/document/d/1ONolFpoxzdQ__kO3cRKiOeQrjIivepwSzIJyG_jUCyY/edit?usp=sharing)
 
 4.  Table of contents
 
-5.  [[Introduction]{.underline}](https://docs.google.com/document/d/1Ya0NOw6_ilxUzVkZi00FsNC5PouNWxInJ3FIkfNPR_A/edit?usp=sharing)
+5.  [Introduction](https://docs.google.com/document/d/1Ya0NOw6_ilxUzVkZi00FsNC5PouNWxInJ3FIkfNPR_A/edit?usp=sharing)
 
 6.  Body:
 
-    1.  Chad Weinard, [[A Theme for Museum Technology]{.underline}](https://drive.google.com/file/d/1HYj5g9nYETcHUg6h6qLSyr7mDJ_vA2iv/view?usp=sharing)
+    1.  Chad Weinard, [A Theme for Museum Technology](https://drive.google.com/file/d/1HYj5g9nYETcHUg6h6qLSyr7mDJ_vA2iv/view?usp=sharing)
 
-    2.  Cathy Sigmond, [[Calm Technology in Museums]{.underline}](https://drive.google.com/file/d/0B4JWtOnzyALDVXFFTFpMN3g2S2pkdnk3YUxLRnZmMkFfY1Vz/view?usp=sharing)
+    2.  Cathy Sigmond, [Calm Technology in Museums](https://drive.google.com/file/d/0B4JWtOnzyALDVXFFTFpMN3g2S2pkdnk3YUxLRnZmMkFfY1Vz/view?usp=sharing)
 
-    3.  Case Study: Lori Byrd-McDevitt, [[Reimagining Social Influencers through an Invitation Culture]{.underline}](https://drive.google.com/file/d/0B39uP3qR1tSJUzhsVk42ejNMMEdYZk1RLS0zTk5JNmZqalJ3/view?usp=sharing)
+    3.  Case Study: Lori Byrd-McDevitt, [Reimagining Social Influencers through an Invitation Culture](https://drive.google.com/file/d/0B39uP3qR1tSJUzhsVk42ejNMMEdYZk1RLS0zTk5JNmZqalJ3/view?usp=sharing)
 
-    4.  Andrew Mandinach, [[Humanizing the Video: A Reflection on MCN's Media Production Process]{.underline}](https://drive.google.com/file/d/0B4JWtOnzyALDT0YycFNMMWlrTnl3NF9yVW1fMGpqbFFXVG9V/view?usp=sharing)
+    4.  Andrew Mandinach, [Humanizing the Video: A Reflection on MCN's Media Production Process](https://drive.google.com/file/d/0B4JWtOnzyALDT0YycFNMMWlrTnl3NF9yVW1fMGpqbFFXVG9V/view?usp=sharing)
 
-    5.  Meagan Estep and Marty Spellerberg, [[Cultural Spaces After the Internet]{.underline}](https://drive.google.com/file/d/0B4JWtOnzyALDZ3luc2FGTVZreFFSNlcyMUktdUNvTmNzLUVR/view?usp=sharing)
+    5.  Meagan Estep and Marty Spellerberg, [Cultural Spaces After the Internet](https://drive.google.com/file/d/0B4JWtOnzyALDZ3luc2FGTVZreFFSNlcyMUktdUNvTmNzLUVR/view?usp=sharing)
 
-    6.  Case Study: Megan DiRienzo, Andrea Montiel de Shuman, and Alicia Viera, [[Lumin: Humanizing Augmented Reality]{.underline}](https://drive.google.com/file/d/0B4JWtOnzyALDNmQzOFZ4bDJGTU4zZkk1YWhYc25TbTdDRnpj/view?usp=sharing)
+    6.  Case Study: Megan DiRienzo, Andrea Montiel de Shuman, and Alicia Viera, [Lumin: Humanizing Augmented Reality](https://drive.google.com/file/d/0B4JWtOnzyALDNmQzOFZ4bDJGTU4zZkk1YWhYc25TbTdDRnpj/view?usp=sharing)
 
-    7.  Seema Rao, Jim Fishwick and Alli Burness, [[Performing the Museum: How to apply a visitor-centered approach through communications, interpretation and programming]{.underline}](https://drive.google.com/drive/folders/1HWmjQtnBxjjSwyUx5ErRGrZCCUWFJZHv?usp=sharing)
+    7.  Seema Rao, Jim Fishwick and Alli Burness, [Performing the Museum: How to apply a visitor-centered approach through communications, interpretation and programming](https://drive.google.com/drive/folders/1HWmjQtnBxjjSwyUx5ErRGrZCCUWFJZHv?usp=sharing)
 
-    8.  Rachel Ropeik, [[Abandon Your Recipes: Three Keys to Building Experience Sessions and Why You Should Try It]{.underline}](https://drive.google.com/file/d/16DRVM1YKbtwm1PRJfkMtHcncb7dHDtDd/view?usp=sharing)
+    8.  Rachel Ropeik, [Abandon Your Recipes: Three Keys to Building Experience Sessions and Why You Should Try It](https://drive.google.com/file/d/16DRVM1YKbtwm1PRJfkMtHcncb7dHDtDd/view?usp=sharing)
 
-    9.  Case Study: Jessica BrodeFrank, [[Talking Inclusion with the 2018 MCN Scholars]{.underline}](https://drive.google.com/file/d/12Kw4iGVW70XjAqZThe9d2Ox_sd1LCv7f/view?usp=sharing)
+    9.  Case Study: Jessica BrodeFrank, [Talking Inclusion with the 2018 MCN Scholars](https://drive.google.com/file/d/12Kw4iGVW70XjAqZThe9d2Ox_sd1LCv7f/view?usp=sharing)
 
-    10. Max Evjen and David McKenzie, [[Closer than They Appear: Drawing Lessons from Development Processes for Museum Technology, Exhibitions, and Theatrical Productions]{.underline}](https://drive.google.com/file/d/1IK6mOZ-6lJdhWuTK2kSXHbNMhwroq7jp/view?usp=sharing)
+    10. Max Evjen and David McKenzie, [Closer than They Appear: Drawing Lessons from Development Processes for Museum Technology, Exhibitions, and Theatrical Productions](https://drive.google.com/file/d/1IK6mOZ-6lJdhWuTK2kSXHbNMhwroq7jp/view?usp=sharing)
 
-    11. Isabella Bruno and Clare Brown, [[Slow Change]{.underline}](https://drive.google.com/file/d/1bATUA4ZVxAuhYZL8iRSd8_gZSHl8jH_b/view?usp=sharing)
+    11. Isabella Bruno and Clare Brown, [Slow Change](https://drive.google.com/file/d/1bATUA4ZVxAuhYZL8iRSd8_gZSHl8jH_b/view?usp=sharing)
 
-    12. Case Study: Amy Hetherington, [[“Virtual Accessibility” – a case study]{.underline}](https://drive.google.com/drive/folders/1J9EBagMzsQIwSAK1fTqJZNjO0MU29qdC?usp=sharing)
+    12. Case Study: Amy Hetherington, [“Virtual Accessibility” – a case study](https://drive.google.com/drive/folders/1J9EBagMzsQIwSAK1fTqJZNjO0MU29qdC?usp=sharing)
 
-    13. Ariana French and Elena Villaespesa, [[The Role of Artificial Intelligence in Museum Practice]{.underline}](https://drive.google.com/drive/folders/166agwCzWzZMOG8qu678HBKrfjTy1q1Yj?usp=sharing)
+    13. Ariana French and Elena Villaespesa, [The Role of Artificial Intelligence in Museum Practice](https://drive.google.com/drive/folders/166agwCzWzZMOG8qu678HBKrfjTy1q1Yj?usp=sharing)
 
-    14. Darren Milligan, [[Teachers Gonna Teach Teach Teach Teach Teach: Capturing the now-visible meaning making of users of digital museum collections]{.underline}](https://drive.google.com/drive/folders/1C980wYL5rgVBTuGNfS7RpZWUmVlEKT0v?usp=sharing)
+    14. Darren Milligan, [Teachers Gonna Teach Teach Teach Teach Teach: Capturing the now-visible meaning making of users of digital museum collections](https://drive.google.com/drive/folders/1C980wYL5rgVBTuGNfS7RpZWUmVlEKT0v?usp=sharing)
 
-    15. Case Study: Castle U. Kim, [[When a Summer Camp, Innovation Hub and an Herbarium Meet: How STEAM Collaboration can Build a Humanized Experience with Technology]{.underline}](https://drive.google.com/file/d/0B4JWtOnzyALDX1ROTGh0T2xsT2pyYjdJaDI5V2o1MHZESmdr/view?usp=sharing)
+    15. Case Study: Castle U. Kim, [When a Summer Camp, Innovation Hub and an Herbarium Meet: How STEAM Collaboration can Build a Humanized Experience with Technology](https://drive.google.com/file/d/0B4JWtOnzyALDX1ROTGh0T2xsT2pyYjdJaDI5V2o1MHZESmdr/view?usp=sharing)
 
-    16. Matt Popke and Sarah Wambold, [[We’ve Been Bought by the Digital Revolution]{.underline}](https://drive.google.com/file/d/1GFpZb4Sj9VnuY_L5AvwLgUiXaHH3S3w0/view?usp=sharing)
+    16. Matt Popke and Sarah Wambold, [We’ve Been Bought by the Digital Revolution](https://drive.google.com/file/d/1GFpZb4Sj9VnuY_L5AvwLgUiXaHH3S3w0/view?usp=sharing)
 
-    17. Jason Alderman, Elizabeth Bouton, Rachel Ropeik, Mimosa Shah, and Beck Tench, [[Exquisite Empathy]{.underline}](https://drive.google.com/drive/folders/1rA6oV5KpozNvFV0FiMa7FgZKIUAioykR?usp=sharing)
+    17. Jason Alderman, Elizabeth Bouton, Rachel Ropeik, Mimosa Shah, and Beck Tench, [Exquisite Empathy](https://drive.google.com/drive/folders/1rA6oV5KpozNvFV0FiMa7FgZKIUAioykR?usp=sharing)
 
-7.  [[Contributor]{.underline} [bios]{.underline}](https://docs.google.com/document/d/1N_hllLIrwm0ij14hVkf8rxhq15lmd9l_2EVKVajvVmQ/edit)
+7.  [Contributor] [bios](https://docs.google.com/document/d/1N_hllLIrwm0ij14hVkf8rxhq15lmd9l_2EVKVajvVmQ/edit)
 
 BOOK NAME IDEAS:
 

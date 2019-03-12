@@ -80,67 +80,67 @@ Alexander, Victoria D., Grant Blank, and Scott A. Hale. “TripAdvisor Reviews o
 
 Approach to Understanding Visitors.” *Museum International* 70, no. 1–2 (January 11, 2018):
 
-154–65. [[https://doi.org/10.1111/muse.12200]{.underline}](https://doi.org/10.1111/muse.12200).
+154–65. [https://doi.org/10.1111/muse.12200](https://doi.org/10.1111/muse.12200).
 
-Angwin, Julia, Jeff Larson, Surya Mattu, and Lauren Kirchner. “Machine Bias.” *ProPublica*, May 2016. [[https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing]{.underline}](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing).
+Angwin, Julia, Jeff Larson, Surya Mattu, and Lauren Kirchner. “Machine Bias.” *ProPublica*, May 2016. [https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing).
 
-“Artificial Intelligence: How Knowledge Is Created, Transference, and Used,” Report. Elsevier. 2018. [[https://iatranshumanisme.com/wp-content/uploads/2018/12/ACAD\_RL\_RE\_AI-Report\_WEB.pdf]{.underline}](https://iatranshumanisme.com/wp-content/uploads/2018/12/ACAD_RL_RE_AI-Report_WEB.pdf).
+“Artificial Intelligence: How Knowledge Is Created, Transference, and Used,” Report. Elsevier. 2018. [https://iatranshumanisme.com/wp-content/uploads/2018/12/ACAD\_RL\_RE\_AI-Report\_WEB.pdf](https://iatranshumanisme.com/wp-content/uploads/2018/12/ACAD_RL_RE_AI-Report_WEB.pdf).
 
-Barnes Foundation. “Barnes Collection Online.” Accessed March 1, 2019. [[https://collection.barnesfoundation.org/]{.underline}](https://collection.barnesfoundation.org/).
+Barnes Foundation. “Barnes Collection Online.” Accessed March 1, 2019. [https://collection.barnesfoundation.org/](https://collection.barnesfoundation.org/).
 
-Berger, Bennat. “AI-Enabled Technologies Could Help Museums Survive the Digital Age.” *VentureBeat*, November 2017. [[https://venturebeat.com/2017/11/06/ai-enabled-technologies-could-help-museums-survive-the-digital-age/]{.underline}](https://venturebeat.com/2017/11/06/ai-enabled-technologies-could-help-museums-survive-the-digital-age/).
+Berger, Bennat. “AI-Enabled Technologies Could Help Museums Survive the Digital Age.” *VentureBeat*, November 2017. [https://venturebeat.com/2017/11/06/ai-enabled-technologies-could-help-museums-survive-the-digital-age/](https://venturebeat.com/2017/11/06/ai-enabled-technologies-could-help-museums-survive-the-digital-age/).
 
-Bernstein, Shelley. “Using Computer Vision to Tag the Collection.” *Barnes Foundation Medium*, October 2017. [[https://medium.com/barnes-foundation/using-computer-vision-to-tag-the-collection-f467c4541034]{.underline}](https://medium.com/barnes-foundation/using-computer-vision-to-tag-the-collection-f467c4541034).
+Bernstein, Shelley. “Using Computer Vision to Tag the Collection.” *Barnes Foundation Medium*, October 2017. [https://medium.com/barnes-foundation/using-computer-vision-to-tag-the-collection-f467c4541034](https://medium.com/barnes-foundation/using-computer-vision-to-tag-the-collection-f467c4541034).
 
-Cooper-Hewitt Smithsonian Design Museum. “The Collection \| Collection of Cooper Hewitt, Smithsonian Design Museum.” Accessed March 1, 2019. [[https://collection.cooperhewitt.org/]{.underline}](https://collection.cooperhewitt.org/).
+Cooper-Hewitt Smithsonian Design Museum. “The Collection | Collection of Cooper Hewitt, Smithsonian Design Museum.” Accessed March 1, 2019. [https://collection.cooperhewitt.org/](https://collection.cooperhewitt.org/).
 
-Corea, Franceso. “AI Knowledge Map: How To Classify AI Technologies.” *Forbes*, August 2018. [[https://www.forbes.com/sites/cognitiveworld/2018/08/22/ai-knowledge-map-how-to-classify-ai-technologies/\#c605fa47773f]{.underline}](https://www.forbes.com/sites/cognitiveworld/2018/08/22/ai-knowledge-map-how-to-classify-ai-technologies/#c605fa47773f).
+Corea, Franceso. “AI Knowledge Map: How To Classify AI Technologies.” *Forbes*, August 2018. [https://www.forbes.com/sites/cognitiveworld/2018/08/22/ai-knowledge-map-how-to-classify-ai-technologies/\#c605fa47773f](https://www.forbes.com/sites/cognitiveworld/2018/08/22/ai-knowledge-map-how-to-classify-ai-technologies/#c605fa47773f).
 
 Dallas Museum of Art. “DMA Collection Online.” Accessed March 1, 2019. https://collections.dma.org/.
 
-Davenport, James. “The Dimensions of Art.” *If We Assume*, November 2013. [[https://www.ifweassume.com/2013/11/the-dimensions-of-art.html]{.underline}](https://www.ifweassume.com/2013/11/the-dimensions-of-art.html).
+Davenport, James. “The Dimensions of Art.” *If We Assume*, November 2013. [https://www.ifweassume.com/2013/11/the-dimensions-of-art.html](https://www.ifweassume.com/2013/11/the-dimensions-of-art.html).
 
-DeMers, Jayson. “Why You Need To Prepare For A Voice Search Revolution.” *Forbes*, January 2018. [[https://www.forbes.com/sites/jaysondemers/2018/01/09/why-you-need-to-prepare-for-a-voice-search-revolution/\#3322221134af]{.underline}](https://www.forbes.com/sites/jaysondemers/2018/01/09/why-you-need-to-prepare-for-a-voice-search-revolution/#3322221134af).
+DeMers, Jayson. “Why You Need To Prepare For A Voice Search Revolution.” *Forbes*, January 2018. [https://www.forbes.com/sites/jaysondemers/2018/01/09/why-you-need-to-prepare-for-a-voice-search-revolution/\#3322221134af](https://www.forbes.com/sites/jaysondemers/2018/01/09/why-you-need-to-prepare-for-a-voice-search-revolution/#3322221134af).
 
-Filippini Fantoni, Silvia, Rob Stein, and Gray Bowman. “Exploring the Relationship between Visitor Motivation and Engagement in Online Museum Audiences.” In *MW12: Museums and the Web 2012*, 2012. [[https://www.museumsandtheweb.com/mw2012/papers/exploring\_the\_relationship\_between\_visitor\_mot]{.underline}](https://www.museumsandtheweb.com/mw2012/papers/exploring_the_relationship_between_visitor_mot).
+Filippini Fantoni, Silvia, Rob Stein, and Gray Bowman. “Exploring the Relationship between Visitor Motivation and Engagement in Online Museum Audiences.” In *MW12: Museums and the Web 2012*, 2012. [https://www.museumsandtheweb.com/mw2012/papers/exploring\_the\_relationship\_between\_visitor\_mot](https://www.museumsandtheweb.com/mw2012/papers/exploring_the_relationship_between_visitor_mot).
 
-French, Ariana. “On Artificial Intelligence, Museums, and Feelings,” 2018. [[https://medium.com/\@CuriousThirst/on-artificial-intelligence-museums-and-feelings-598b7ba8beb6]{.underline}](https://medium.com/@CuriousThirst/on-artificial-intelligence-museums-and-feelings-598b7ba8beb6).
+French, Ariana. “On Artificial Intelligence, Museums, and Feelings,” 2018. [https://medium.com/@CuriousThirst/on-artificial-intelligence-museums-and-feelings-598b7ba8beb6](https://medium.com/@CuriousThirst/on-artificial-intelligence-museums-and-feelings-598b7ba8beb6).
 
-———. “On Artificial Intelligence, Museums, and Spaghetti,” 2018. [[https://medium.com/\@CuriousThirst/on-artificial-intelligence-museums-and-spaghetti-b107cf1b4dc9]{.underline}](https://medium.com/@CuriousThirst/on-artificial-intelligence-museums-and-spaghetti-b107cf1b4dc9).
+———. “On Artificial Intelligence, Museums, and Spaghetti,” 2018. [https://medium.com/@CuriousThirst/on-artificial-intelligence-museums-and-spaghetti-b107cf1b4dc9](https://medium.com/@CuriousThirst/on-artificial-intelligence-museums-and-spaghetti-b107cf1b4dc9).
 
-Harvard Art Museums. “IIIF Explorer \| Harvard Art Museums.” Accessed March 1, 2019. [[http://iiif-explorer.herokuapp.com/]{.underline}](http://iiif-explorer.herokuapp.com/).
+Harvard Art Museums. “IIIF Explorer | Harvard Art Museums.” Accessed March 1, 2019. [http://iiif-explorer.herokuapp.com/](http://iiif-explorer.herokuapp.com/).
 
-Hindle, Adrian. “Automated Image Analysis with IIIF. Using Artificial Intelligence for Bulk Image Analysis.” *Cogapp Medium* , June 2017. [[https://blog.cogapp.com/automated-image-analysis-with-iiif-6594ff5b2b32]{.underline}](https://blog.cogapp.com/automated-image-analysis-with-iiif-6594ff5b2b32).
+Hindle, Adrian. “Automated Image Analysis with IIIF. Using Artificial Intelligence for Bulk Image Analysis.” *Cogapp Medium* , June 2017. [https://blog.cogapp.com/automated-image-analysis-with-iiif-6594ff5b2b32](https://blog.cogapp.com/automated-image-analysis-with-iiif-6594ff5b2b32).
 
-Hsu, Jeremy. “Can a Crowdsourced AI Medical Diagnosis App Outperform Your Doctor?” *Scientific American*, August 2017. [[https://www.scientificamerican.com/article/can-a-crowdsourced-ai-medical-diagnosis-app-outperform-your-doctor/]{.underline}](https://www.scientificamerican.com/article/can-a-crowdsourced-ai-medical-diagnosis-app-outperform-your-doctor/).
+Hsu, Jeremy. “Can a Crowdsourced AI Medical Diagnosis App Outperform Your Doctor?” *Scientific American*, August 2017. [https://www.scientificamerican.com/article/can-a-crowdsourced-ai-medical-diagnosis-app-outperform-your-doctor/](https://www.scientificamerican.com/article/can-a-crowdsourced-ai-medical-diagnosis-app-outperform-your-doctor/).
 
-Kuang, Cliff. “Can A.I. Be Taught to Explain Itself?” *The New York Times*, November 2017. [[https://www.nytimes.com/2017/11/21/magazine/can-ai-be-taught-to-explain-itself.html]{.underline}](https://www.nytimes.com/2017/11/21/magazine/can-ai-be-taught-to-explain-itself.html).
+Kuang, Cliff. “Can A.I. Be Taught to Explain Itself?” *The New York Times*, November 2017. [https://www.nytimes.com/2017/11/21/magazine/can-ai-be-taught-to-explain-itself.html](https://www.nytimes.com/2017/11/21/magazine/can-ai-be-taught-to-explain-itself.html).
 
-Levere, Jane L. “Artificial Intelligence, Like a Robot, Enhances Museum Experiences.” *The New York Times*, October 2018. [[https://www.nytimes.com/2018/10/25/arts/artificial-intelligence-museums.html]{.underline}](https://www.nytimes.com/2018/10/25/arts/artificial-intelligence-museums.html).
+Levere, Jane L. “Artificial Intelligence, Like a Robot, Enhances Museum Experiences.” *The New York Times*, October 2018. [https://www.nytimes.com/2018/10/25/arts/artificial-intelligence-museums.html](https://www.nytimes.com/2018/10/25/arts/artificial-intelligence-museums.html).
 
-McCarthy, John, Marvin L. Minsky, and Claude E. Shannon. “A Proposal for the Dartmouth Summer Research Project on Artificial Intelligence - August 31, 1955.” *AI MAGAZINE*, December 15, 2006. [[https://doi.org/10.1609/AIMAG.V27I4.1904]{.underline}](https://doi.org/10.1609/AIMAG.V27I4.1904).
+McCarthy, John, Marvin L. Minsky, and Claude E. Shannon. “A Proposal for the Dartmouth Summer Research Project on Artificial Intelligence - August 31, 1955.” *AI MAGAZINE*, December 15, 2006. [https://doi.org/10.1609/AIMAG.V27I4.1904](https://doi.org/10.1609/AIMAG.V27I4.1904).
 
-McLeod, Kate. “The Role Museums Play in Social Activism.” Americans for the Arts, 2017. [[https://www.americansforthearts.org/2017/08/02/the-role-museums-play-in-social-activism]{.underline}](https://www.americansforthearts.org/2017/08/02/the-role-museums-play-in-social-activism).
+McLeod, Kate. “The Role Museums Play in Social Activism.” Americans for the Arts, 2017. [https://www.americansforthearts.org/2017/08/02/the-role-museums-play-in-social-activism](https://www.americansforthearts.org/2017/08/02/the-role-museums-play-in-social-activism).
 
-Montti, Roger. “Google Answers How to Optimize Content for Voice Search.” *Search Engine Journal*, January 2018. [[https://www.searchenginejournal.com/voice-search-optimization/231319/]{.underline}](https://www.searchenginejournal.com/voice-search-optimization/231319/).
+Montti, Roger. “Google Answers How to Optimize Content for Voice Search.” *Search Engine Journal*, January 2018. [https://www.searchenginejournal.com/voice-search-optimization/231319/](https://www.searchenginejournal.com/voice-search-optimization/231319/).
 
-Olson, Christi. “Voice Search Isn’t the next Big Disrupter, Conversational AI Is.” *MarTech Today*, October 2018. [[https://martechtoday.com/voice-search-isnt-the-next-big-disrupter-conversational-ai-is-226537]{.underline}](https://martechtoday.com/voice-search-isnt-the-next-big-disrupter-conversational-ai-is-226537).
+Olson, Christi. “Voice Search Isn’t the next Big Disrupter, Conversational AI Is.” *MarTech Today*, October 2018. [https://martechtoday.com/voice-search-isnt-the-next-big-disrupter-conversational-ai-is-226537](https://martechtoday.com/voice-search-isnt-the-next-big-disrupter-conversational-ai-is-226537).
 
-Robinson, Sara. “When Art Meets Big Data: Analyzing 200,000 Items from The Met Collection in BigQuery.” *Google Cloud Blog*, August 2017. [[https://cloud.google.com/blog/products/gcp/when-art-meets-big-data-analyzing-200000-items-from-the-met-collection-in-bigquery]{.underline}](https://cloud.google.com/blog/products/gcp/when-art-meets-big-data-analyzing-200000-items-from-the-met-collection-in-bigquery).
+Robinson, Sara. “When Art Meets Big Data: Analyzing 200,000 Items from The Met Collection in BigQuery.” *Google Cloud Blog*, August 2017. [https://cloud.google.com/blog/products/gcp/when-art-meets-big-data-analyzing-200000-items-from-the-met-collection-in-bigquery](https://cloud.google.com/blog/products/gcp/when-art-meets-big-data-analyzing-200000-items-from-the-met-collection-in-bigquery).
 
-Salim, Saima. “Voice-Assisted Search: The Future of Internet Queries (Infographic).” *Digital Information World*, October 2018. [[https://www.digitalinformationworld.com/2018/10/infographic-the-state-of-mobile-voice-search.html]{.underline}](https://www.digitalinformationworld.com/2018/10/infographic-the-state-of-mobile-voice-search.html).
+Salim, Saima. “Voice-Assisted Search: The Future of Internet Queries (Infographic).” *Digital Information World*, October 2018. [https://www.digitalinformationworld.com/2018/10/infographic-the-state-of-mobile-voice-search.html](https://www.digitalinformationworld.com/2018/10/infographic-the-state-of-mobile-voice-search.html).
 
-Sentance, Rebecca. “The Future of Voice Search: 2020 and Beyond.” *Econsultancy*, July 2018. [[https://econsultancy.com/the-future-of-voice-search-2020-and-beyond/]{.underline}](https://econsultancy.com/the-future-of-voice-search-2020-and-beyond/).
+Sentance, Rebecca. “The Future of Voice Search: 2020 and Beyond.” *Econsultancy*, July 2018. [https://econsultancy.com/the-future-of-voice-search-2020-and-beyond/](https://econsultancy.com/the-future-of-voice-search-2020-and-beyond/).
 
-Smith, Yves. “Data Scientist Cathy O’Neil: ‘Algorithms Are Opinions Embedded in Code’;” *Naked Capitalism*, August 2017. [[https://www.nakedcapitalism.com/2017/08/data-scientist-cathy-oneil-algorithms-opinions-embedded-code.html]{.underline}](https://www.nakedcapitalism.com/2017/08/data-scientist-cathy-oneil-algorithms-opinions-embedded-code.html).
+Smith, Yves. “Data Scientist Cathy O’Neil: ‘Algorithms Are Opinions Embedded in Code’;” *Naked Capitalism*, August 2017. [https://www.nakedcapitalism.com/2017/08/data-scientist-cathy-oneil-algorithms-opinions-embedded-code.html](https://www.nakedcapitalism.com/2017/08/data-scientist-cathy-oneil-algorithms-opinions-embedded-code.html).
 
-Stone, Peter, Rodney Brooks, Erik Brynjolfsson, Ryan Calo, Oren Etzioni, Greg Hager, Julia Hirschberg, et al. “Artificial Intelligence and Life in 2030: One Hundred Year Study on Artificial Intelligence.” *Stanford University. Retrieved July* 2 (2016). [[https://ai100.stanford.edu/2016-report]{.underline}](https://ai100.stanford.edu/2016-report).
+Stone, Peter, Rodney Brooks, Erik Brynjolfsson, Ryan Calo, Oren Etzioni, Greg Hager, Julia Hirschberg, et al. “Artificial Intelligence and Life in 2030: One Hundred Year Study on Artificial Intelligence.” *Stanford University. Retrieved July* 2 (2016). [https://ai100.stanford.edu/2016-report](https://ai100.stanford.edu/2016-report).
 
-Sullivan, Therese. “Appreciating How Metadata Makes AI Possible.” *Building Context*, January 2017. [[https://buildingcontext.me/2017/01/12/appreciating-how-metadata-makes-ai-possible/]{.underline}](https://buildingcontext.me/2017/01/12/appreciating-how-metadata-makes-ai-possible/).
+Sullivan, Therese. “Appreciating How Metadata Makes AI Possible.” *Building Context*, January 2017. [https://buildingcontext.me/2017/01/12/appreciating-how-metadata-makes-ai-possible/](https://buildingcontext.me/2017/01/12/appreciating-how-metadata-makes-ai-possible/).
 
-Tashea, Jason. “Courts Are Using AI to Sentence Criminals. That Must Stop Now.” *WIRED*, April 2017. [[https://www.wired.com/2017/04/courts-using-ai-sentence-criminals-must-stop-now/]{.underline}](https://www.wired.com/2017/04/courts-using-ai-sentence-criminals-must-stop-now/).
+Tashea, Jason. “Courts Are Using AI to Sentence Criminals. That Must Stop Now.” *WIRED*, April 2017. [https://www.wired.com/2017/04/courts-using-ai-sentence-criminals-must-stop-now/](https://www.wired.com/2017/04/courts-using-ai-sentence-criminals-must-stop-now/).
 
-Villaespesa, Elena, and John Stack. “Finding the Motivation behind a Click: Definition and Implementation of a Website Audience Segmentation.” In *MW2015: Museums and the Web 2015, 2015*. [[https://mw2015.museumsandtheweb.com/paper/finding-the-motivation-behind-a-click-definition-and-implementation-of-a-website-audience-segmentation/]{.underline}](https://mw2015.museumsandtheweb.com/paper/finding-the-motivation-behind-a-click-definition-and-implementation-of-a-website-audience-segmentation/)
+Villaespesa, Elena, and John Stack. “Finding the Motivation behind a Click: Definition and Implementation of a Website Audience Segmentation.” In *MW2015: Museums and the Web 2015, 2015*. [https://mw2015.museumsandtheweb.com/paper/finding-the-motivation-behind-a-click-definition-and-implementation-of-a-website-audience-segmentation/](https://mw2015.museumsandtheweb.com/paper/finding-the-motivation-behind-a-click-definition-and-implementation-of-a-website-audience-segmentation/)
 
 [^1]: John McCarthy et al., “A Proposal for the Dartmouth Summer Research Project on Artificial Intelligence, August 31, 1955,” *AI Magazine* 27, no. 4 (December 15, 2006): 12–12, https://doi.org/10.1609/AIMAG.V27I4.1904.
 
@@ -162,11 +162,11 @@ Villaespesa, Elena, and John Stack. “Finding the Motivation behind a Click: De
 
 [^10]: Adrian Hindle, “Automated Image Analysis with IIIF. Using Artificial Intelligence for Bulk Image Analysis,” *Cogapp Medium*, June 2017, https://blog.cogapp.com/automated-image-analysis-with-iiif-6594ff5b2b32; Shelley Bernstein, “Using Computer Vision to Tag the Collection,” *Barnes Foundation Medium*, October 2017, https://medium.com/barnes-foundation/using-computer-vision-to-tag-the-collection-f467c4541034.
 
-[^11]: Ariana French, “On Artificial Intelligence, Museums, and Feelings,” 2018, https://medium.com/\@CuriousThirst/on-artificial-intelligence-museums-and-feelings-598b7ba8beb6; Victoria D. Alexander, Grant Blank, and Scott A. Hale, “TripAdvisor Reviews of London Museums: A New Approach to Understanding Visitors,” *Museum International* 70, no. 1–2 (January 11, 2018): 154–65, https://doi.org/10.1111/muse.12200.
+[^11]: Ariana French, “On Artificial Intelligence, Museums, and Feelings,” 2018, https://medium.com/@CuriousThirst/on-artificial-intelligence-museums-and-feelings-598b7ba8beb6; Victoria D. Alexander, Grant Blank, and Scott A. Hale, “TripAdvisor Reviews of London Museums: A New Approach to Understanding Visitors,” *Museum International* 70, no. 1–2 (January 11, 2018): 154–65, https://doi.org/10.1111/muse.12200.
 
 [^12]: Bennat Berger, “AI-Enabled Technologies Could Help Museums Survive the Digital Age,” *VentureBeat*, November 2017, https://venturebeat.com/2017/11/06/ai-enabled-technologies-could-help-museums-survive-the-digital-age/.
 
-[^13]: Ariana French, “On Artificial Intelligence, Museums, and Spaghetti,” 2018, https://medium.com/\@CuriousThirst/on-artificial-intelligence-museums-and-spaghetti-b107cf1b4dc9.
+[^13]: Ariana French, “On Artificial Intelligence, Museums, and Spaghetti,” 2018, https://medium.com/@CuriousThirst/on-artificial-intelligence-museums-and-spaghetti-b107cf1b4dc9.
 
 [^14]: Jayson DeMers, “Why You Need To Prepare For A Voice Search Revolution,” *Forbes*, January 2018, https://www.forbes.com/sites/jaysondemers/2018/01/09/why-you-need-to-prepare-for-a-voice-search-revolution/\#3322221134af.
 

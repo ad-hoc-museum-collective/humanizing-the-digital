@@ -41,52 +41,52 @@ In 2014, McGrath predicted that people will look to organizations to “create c
 
 Catterall, Lisa. “A Brief History of STEM and STEAM from an Inadvertent Insider.” *The STEAM Journal.* 3, no. 1 (2017). DOI: 10.5642/steam.20170301.05
 
-Choney, Suzanne. “Why do girls lose interest in STEM? New research has some answers - and what we can do about it.” *Microsoft.* [[https://news.microsoft.com/features/why-do-girls-lose-interest-in-stem-new-research-has-some-answers-and-what-we-can-do-about-it/]{.underline}](https://news.microsoft.com/features/why-do-girls-lose-interest-in-stem-new-research-has-some-answers-and-what-we-can-do-about-it/) (accessed February 10, 2019).
+Choney, Suzanne. “Why do girls lose interest in STEM? New research has some answers - and what we can do about it.” *Microsoft.* [https://news.microsoft.com/features/why-do-girls-lose-interest-in-stem-new-research-has-some-answers-and-what-we-can-do-about-it/](https://news.microsoft.com/features/why-do-girls-lose-interest-in-stem-new-research-has-some-answers-and-what-we-can-do-about-it/) (accessed February 10, 2019).
 
-Lalli Hills, Adrienne, Rob Weisberg, and Catherine Devine, “MCN2018: Humanizing the Digital.” *Museum Computer Network* (blog), March 6, 2018. [[http://mcn.edu/mcn-2018-humanizing-the-digital/]{.underline}](http://mcn.edu/mcn-2018-humanizing-the-digital/) (accessed February 10, 2019).
+Lalli Hills, Adrienne, Rob Weisberg, and Catherine Devine, “MCN2018: Humanizing the Digital.” *Museum Computer Network* (blog), March 6, 2018. [http://mcn.edu/mcn-2018-humanizing-the-digital/](http://mcn.edu/mcn-2018-humanizing-the-digital/) (accessed February 10, 2019).
 
 Maeda, John. “STEM + Art = STEAM.” *The STEAM Journal* 1, no. 1 (2013). DOI: 10.5642/steam.201301.34 
 
-“MakerSPACE at Newwark Museum.” *Newark Museum.* [[https://www.newarkmuseum.org/makerspace]{.underline}](https://www.newarkmuseum.org/makerspace) (accessed February 10, 2019).
+“MakerSPACE at Newwark Museum.” *Newark Museum.* [https://www.newarkmuseum.org/makerspace](https://www.newarkmuseum.org/makerspace) (accessed February 10, 2019).
 
-“Maker Space.” *New York Hall of Science.* [[https://nysci.org/make/maker-space/]{.underline}](https://nysci.org/make/maker-space/) (accessed February 10, 2019).
+“Maker Space.” *New York Hall of Science.* [https://nysci.org/make/maker-space/](https://nysci.org/make/maker-space/) (accessed February 10, 2019).
 
-“Making.” *Institute of Museum and Library Services.* [[https://www.imls.gov/issues/national-issues/making]{.underline}](https://www.imls.gov/issues/national-issues/making) (accessed February 10, 2019).
+“Making.” *Institute of Museum and Library Services.* [https://www.imls.gov/issues/national-issues/making](https://www.imls.gov/issues/national-issues/making) (accessed February 10, 2019).
 
 Radiziwill, Nicole, Morgan Benton, and Cassidy Moellers. “From STEM to STEAM: Reframing What it Means to Learn.” *The STEAM Journal* 2, no. 1 (2015). DOI: 10.5642/steam.20150201.3
 
-“Rhode Island School of Design Launches STEAM Map to Demonstrate Global Activity and Support for the Movement.” *Rhode Island School of Design.* [[https://www.risd.edu/news/for-press/press-releases/rhode-island-school-of-design-launches-steam-map-to-demonstrate-global-activity-and-support-for-the-movement/]{.underline}](https://www.risd.edu/news/for-press/press-releases/rhode-island-school-of-design-launches-steam-map-to-demonstrate-global-activity-and-support-for-the-movement/) (accessed February 10, 2019).
+“Rhode Island School of Design Launches STEAM Map to Demonstrate Global Activity and Support for the Movement.” *Rhode Island School of Design.* [https://www.risd.edu/news/for-press/press-releases/rhode-island-school-of-design-launches-steam-map-to-demonstrate-global-activity-and-support-for-the-movement/](https://www.risd.edu/news/for-press/press-releases/rhode-island-school-of-design-launches-steam-map-to-demonstrate-global-activity-and-support-for-the-movement/) (accessed February 10, 2019).
 
-“Robert K. Godfrey Herbarium.” *Robert K. Godfrey Herbarium.* [[http://herbarium.bio.fsu.edu]{.underline}](http://herbarium.bio.fsu.edu) (accessed February 10, 2019).
+“Robert K. Godfrey Herbarium.” *Robert K. Godfrey Herbarium.* [http://herbarium.bio.fsu.edu](http://herbarium.bio.fsu.edu) (accessed February 10, 2019).
 
-“Welcome to the Hub!” *Innovation Hub.* [[https://innovation.fsu.edu/\#about]{.underline}](https://innovation.fsu.edu/#about) (accessed February 10, 2019).
+“Welcome to the Hub!” *Innovation Hub.* [https://innovation.fsu.edu/\#about](https://innovation.fsu.edu/#about) (accessed February 10, 2019).
 
-McGrath, Rita. “Management’s Three Eras: A brief History.” *Harvard Business Review*. [[https://hbr.org/2014/07/managements-three-eras-a-brief-history]{.underline}](https://hbr.org/2014/07/managements-three-eras-a-brief-history). (accessed February 10, 2019).
+McGrath, Rita. “Management’s Three Eras: A brief History.” *Harvard Business Review*. [https://hbr.org/2014/07/managements-three-eras-a-brief-history](https://hbr.org/2014/07/managements-three-eras-a-brief-history). (accessed February 10, 2019).
 
-[^1]: AdrienneLalli Hills, Rob Weisberg, and Catherine Devine, “MCN2018: Humanizing the Digital,” *Museum Computer Network* (blog), March 6, 2018. [[http://mcn.edu/mcn-2018-humanizing-the-digital/]{.underline}](http://mcn.edu/mcn-2018-humanizing-the-digital/) (accessed February 25, 2019).
+[^1]: AdrienneLalli Hills, Rob Weisberg, and Catherine Devine, “MCN2018: Humanizing the Digital,” *Museum Computer Network* (blog), March 6, 2018. [http://mcn.edu/mcn-2018-humanizing-the-digital/](http://mcn.edu/mcn-2018-humanizing-the-digital/) (accessed February 25, 2019).
 
 [^2]: Ibid
 
-[^3]: “Maker Space.” *New York Hall of Science*. [[https://nysci.org/make/maker-space/]{.underline}](https://nysci.org/make/maker-space/) (accessed February 25, 2019).
+[^3]: “Maker Space.” *New York Hall of Science*. [https://nysci.org/make/maker-space/](https://nysci.org/make/maker-space/) (accessed February 25, 2019).
 
-[^4]: “MakerSPACE at Newark Museum,” *Newark Museum* [[https://www.newarkmuseum.org/makerspace]{.underline}](https://www.newarkmuseum.org/makerspace) (accessed February 25, 2019).
+[^4]: “MakerSPACE at Newark Museum,” *Newark Museum* [https://www.newarkmuseum.org/makerspace](https://www.newarkmuseum.org/makerspace) (accessed February 25, 2019).
 
-[^5]: “Making,” *Institute of Museum and Library Services,* [[https://www.imls.gov/issues/national-issues/making]{.underline}](https://www.imls.gov/issues/national-issues/making) (accessed February 25, 2019).
+[^5]: “Making,” *Institute of Museum and Library Services,* [https://www.imls.gov/issues/national-issues/making](https://www.imls.gov/issues/national-issues/making) (accessed February 25, 2019).
 
 [^6]: Lisa Catterall, “A Brief History of STEM and STEAM from an Inadvertent Insider,” *The STEAM Journa*l, 3, no. 1 (2017). DOI: 10.5642/steam.20170301.05
 
 [^7]: Ibid.
 
-[^8]:  “Rhode Island School of Design Launches STEAM Map to Demonstrate Global Activity and Support for the Movement,” *Rhode Island School of Design.* [[https://www.risd.edu/news/for-press/press-releases/rhode-island-school-of-design-launches-steam-map-to-demonstrate-global-activity-and-support-for-the-movement/]{.underline}](https://www.risd.edu/news/for-press/press-releases/rhode-island-school-of-design-launches-steam-map-to-demonstrate-global-activity-and-support-for-the-movement/) (accessed February 10, 2019).
+[^8]:  “Rhode Island School of Design Launches STEAM Map to Demonstrate Global Activity and Support for the Movement,” *Rhode Island School of Design.* [https://www.risd.edu/news/for-press/press-releases/rhode-island-school-of-design-launches-steam-map-to-demonstrate-global-activity-and-support-for-the-movement/](https://www.risd.edu/news/for-press/press-releases/rhode-island-school-of-design-launches-steam-map-to-demonstrate-global-activity-and-support-for-the-movement/) (accessed February 10, 2019).
 
 [^9]: John Maeda, “STEM + Art = STEAM.” The STEAM Journal 1, no. 1 (2013). DOI: 10.5642/steam.201301.34
 
 [^10]: Nicole Radiziwil, Morgan Benton, and Cassidy Moellers. “From STEM to STEAM: Reframing What it Means to Learn,” *The STEAM Journa*l, 2, no. 1 (2015). DOI: 10.5642/steam.20150201.3
 
-[^11]: Choney, Suzanne. “Why do girls lose interest in STEM? New research has some answers - and what we can do about it.” *Microsoft* [[https://news.microsoft.com/features/why-do-girls-lose-interest-in-stem-new-research-has-some-answers-and-what-we-can-do-about-it/]{.underline}](https://news.microsoft.com/features/why-do-girls-lose-interest-in-stem-new-research-has-some-answers-and-what-we-can-do-about-it/) (accessed February 10, 2019).
+[^11]: Choney, Suzanne. “Why do girls lose interest in STEM? New research has some answers - and what we can do about it.” *Microsoft* [https://news.microsoft.com/features/why-do-girls-lose-interest-in-stem-new-research-has-some-answers-and-what-we-can-do-about-it/](https://news.microsoft.com/features/why-do-girls-lose-interest-in-stem-new-research-has-some-answers-and-what-we-can-do-about-it/) (accessed February 10, 2019).
 
-[^12]: “Welcome to the Hub!,” *Innovation Hub.* [[https://innovation.fsu.edu/\#about]{.underline}](https://innovation.fsu.edu/#about) (accessed February 10, 2019).
+[^12]: “Welcome to the Hub!,” *Innovation Hub.* [https://innovation.fsu.edu/\#about](https://innovation.fsu.edu/#about) (accessed February 10, 2019).
 
-[^13]:  “Robert K. Godfrey Herbarium,” *Robert K. Godfrey Herbarium*, [[http://herbarium.bio.fsu.edu/]{.underline}](http://herbarium.bio.fsu.edu/) (accessed February 10, 2019).
+[^13]:  “Robert K. Godfrey Herbarium,” *Robert K. Godfrey Herbarium*, [http://herbarium.bio.fsu.edu/](http://herbarium.bio.fsu.edu/) (accessed February 10, 2019).
 
-[^14]: Rita McGrath, “Management’s Three Eras: A brief History,” *Harvard Business Review* [[https://hbr.org/2014/07/managements-three-eras-a-brief-history]{.underline}](https://hbr.org/2014/07/managements-three-eras-a-brief-history) (accessed February 10, 2019).
+[^14]: Rita McGrath, “Management’s Three Eras: A brief History,” *Harvard Business Review* [https://hbr.org/2014/07/managements-three-eras-a-brief-history](https://hbr.org/2014/07/managements-three-eras-a-brief-history) (accessed February 10, 2019).

@@ -1,6 +1,6 @@
 **Lumin: Humanizing Augmented Reality**
 
-**[Bios]{.underline}**
+**[Bios]**
 
 **Megan DiRienzo**
 

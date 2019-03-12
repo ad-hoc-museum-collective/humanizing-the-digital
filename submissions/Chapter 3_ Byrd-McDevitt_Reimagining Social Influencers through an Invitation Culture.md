@@ -30,30 +30,30 @@ When you take the time to put your heart into a social influencer strategy, the 
 
 Burnett, Jim. “Creating a Culture of Invitation.” *Facts and Trends*. LifeWay, April 6, 2017.
 
-[[https://factsandtrends.net/2017/04/06/creating-a-culture-of-invitation/]{.underline}](https://factsandtrends.net/2017/04/06/creating-a-culture-of-invitation/) (accessed January 18,
+[https://factsandtrends.net/2017/04/06/creating-a-culture-of-invitation/](https://factsandtrends.net/2017/04/06/creating-a-culture-of-invitation/) (accessed January 18,
 
 2019).
 
 Farmiloe, Brett. “The Power of Micro-Influencers on Instagram.” *SocialMediaToday.* IndustryDive,
 
-August 23, 2018, [[www.socialmediatoday.com/news/ the-power-of-micro-influencers-on-]{.underline}](http://www.socialmediatoday.com/news/%20the-power-of-micro-influencers-on-%09instagram/530743/)
+August 23, 2018, [www.socialmediatoday.com/news/ the-power-of-micro-influencers-on-](http://www.socialmediatoday.com/news/%20the-power-of-micro-influencers-on-%09instagram/530743/)
 
-> [[instagram/530743/]{.underline}](http://www.socialmediatoday.com/news/%20the-power-of-micro-influencers-on-%09instagram/530743/) (accessed January 18, 2019).
+> [instagram/530743/](http://www.socialmediatoday.com/news/%20the-power-of-micro-influencers-on-%09instagram/530743/) (accessed January 18, 2019).
 
 Maheshwari, Sapna. “Are You Ready for the Nanoinfluencers?” *The New York Times,* November 11, 2018
 
-[[www.nytimes.com/2018/11/11/business/media/nanoinfluencers-instagram-influencers.html]{.underline}](http://www.nytimes.com/2018/11/11/business/media/nanoinfluencers-instagram-influencers.html)
+[www.nytimes.com/2018/11/11/business/media/nanoinfluencers-instagram-influencers.html](http://www.nytimes.com/2018/11/11/business/media/nanoinfluencers-instagram-influencers.html)
 
 (accessed January 18, 2019).
 
 Wilson, Mitzi. “How Influencers are Turning the Business of Travel on Its Head.” *Social Pro Daily*.
 
-> Adweek, May 11, 2018 [[www.adweek.com/digital/how-influencers-are-turning-the-business-of- travel-on-its-head]{.underline}](http://www.adweek.com/digital/how-influencers-are-turning-the-business-of-%09travel-on-its-head) (accessed January 18, 2019).
+> Adweek, May 11, 2018 [www.adweek.com/digital/how-influencers-are-turning-the-business-of- travel-on-its-head](http://www.adweek.com/digital/how-influencers-are-turning-the-business-of-%09travel-on-its-head) (accessed January 18, 2019).
 
-[^1]: Jim Burnett, “Creating a Culture of Invitation,” *Facts and Trends*. LifeWay*,* April 6, 2017 [[https://factsandtrends.net/2017/04/06/creating-a-culture-of-invitation]{.underline}](https://factsandtrends.net/2017/04/06/creating-a-culture-of-invitation) (accessed February 9, 2019).
+[^1]: Jim Burnett, “Creating a Culture of Invitation,” *Facts and Trends*. LifeWay*,* April 6, 2017 [https://factsandtrends.net/2017/04/06/creating-a-culture-of-invitation](https://factsandtrends.net/2017/04/06/creating-a-culture-of-invitation) (accessed February 9, 2019).
 
 [^2]: *Follow Me,* directed by Asri Bendacha (2018; *Netflix*).
 
-[^3]: Brett Farmiloe, “The Power of Micro-Influencers on Instagram,” *SocialMediaToday*. Industry DIve, August 23, 2018, [[https://www.socialmediatoday.com/news/the-power-of-micro-influencers-on-instagram/530743/]{.underline}](https://www.socialmediatoday.com/news/the-power-of-micro-influencers-on-instagram/530743/) (accessed Feburary 10, 2019).
+[^3]: Brett Farmiloe, “The Power of Micro-Influencers on Instagram,” *SocialMediaToday*. Industry DIve, August 23, 2018, [https://www.socialmediatoday.com/news/the-power-of-micro-influencers-on-instagram/530743/](https://www.socialmediatoday.com/news/the-power-of-micro-influencers-on-instagram/530743/) (accessed Feburary 10, 2019).
 
-[^4]: Sapna Maheshwari, “Are You Ready for the Nanoinfluencers?,” *The New York Times*, November 11, 2018, [[https://www.nytimes.com/2018/11/11/business/media/nanoinfluencers-instagram-influencers.html]{.underline}](https://www.nytimes.com/2018/11/11/business/media/nanoinfluencers-instagram-influencers.html) (accessed February 10, 2019).
+[^4]: Sapna Maheshwari, “Are You Ready for the Nanoinfluencers?,” *The New York Times*, November 11, 2018, [https://www.nytimes.com/2018/11/11/business/media/nanoinfluencers-instagram-influencers.html](https://www.nytimes.com/2018/11/11/business/media/nanoinfluencers-instagram-influencers.html) (accessed February 10, 2019).

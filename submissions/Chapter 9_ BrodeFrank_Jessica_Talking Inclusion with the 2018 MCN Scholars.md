@@ -54,43 +54,43 @@ As the MCN Scholars program looks at the future of museum professionals, the MCN
 
 "2018 Scholars." Conference Proposal. *Museum Computer Network*, Denver, CO, 2018
 
-[[http://conference.mcn.edu/2018/scholars.cfm]{.underline}](http://conference.mcn.edu/2018/scholars.cfm) (accessed January 18, 2019).
+[http://conference.mcn.edu/2018/scholars.cfm](http://conference.mcn.edu/2018/scholars.cfm) (accessed January 18, 2019).
 
-"Edris Eckhardt, Pioneer in Glass Sculpture, 1905-1998." *Cleveland Art Prize.* [[http://www.clevelandartsprize.org/awardees/Edris\_Eckhardt.html]{.underline}](http://www.clevelandartsprize.org/awardees/Edris_Eckhardt.html) (accessed January 25, 2019).
+"Edris Eckhardt, Pioneer in Glass Sculpture, 1905-1998." *Cleveland Art Prize.* [http://www.clevelandartsprize.org/awardees/Edris\_Eckhardt.html](http://www.clevelandartsprize.org/awardees/Edris_Eckhardt.html) (accessed January 25, 2019).
 
-"Meet Our Team." *Museum Detox.* [[http://museumdetox.com/\#team-5]{.underline}](http://museumdetox.com/#team-5) (accessed January 25, 2019).
+"Meet Our Team." *Museum Detox.* [http://museumdetox.com/\#team-5](http://museumdetox.com/#team-5) (accessed January 25, 2019).
 
-Brügger, Niels. "Digital Humanities in the 21st Century: Digital Material as a Driving Force." *Digital Humanities Quarterly* 10, no. 2 (2016). [[http://digitalhumanities.org/dhq/vol/10/3/000256/000256.html]{.underline}](http://digitalhumanities.org/dhq/vol/10/3/000256/000256.html) (accessed January 25, 2019).
+Brügger, Niels. "Digital Humanities in the 21st Century: Digital Material as a Driving Force." *Digital Humanities Quarterly* 10, no. 2 (2016). [http://digitalhumanities.org/dhq/vol/10/3/000256/000256.html](http://digitalhumanities.org/dhq/vol/10/3/000256/000256.html) (accessed January 25, 2019).
 
-Holteroff, Kate. "From Disclaimer to Critique: Race and the Digital Image Archivist." *Digital Humanities Quarterly* 11, no. 3 (2017). [[http://www.digitalhumanities.org/dhq/vol/11/3/000324/000324.html]{.underline}](http://www.digitalhumanities.org/dhq/vol/11/3/000324/000324.html).
+Holteroff, Kate. "From Disclaimer to Critique: Race and the Digital Image Archivist." *Digital Humanities Quarterly* 11, no. 3 (2017). [http://www.digitalhumanities.org/dhq/vol/11/3/000324/000324.html](http://www.digitalhumanities.org/dhq/vol/11/3/000324/000324.html).
 
-Hussain, Shaz. "The White Privilege Clinic \| An Open Letter to My White Colleagues." Medium. February 20, 2018. [[https://medium.com/mcnx-london/the-white-privilege-clinic-an-open-letter-to-my-white-colleagues-d336e0a4206d]{.underline}](https://medium.com/mcnx-london/the-white-privilege-clinic-an-open-letter-to-my-white-colleagues-d336e0a4206d) (accessed January 25, 2019).
+Hussain, Shaz. "The White Privilege Clinic | An Open Letter to My White Colleagues." Medium. February 20, 2018. [https://medium.com/mcnx-london/the-white-privilege-clinic-an-open-letter-to-my-white-colleagues-d336e0a4206d](https://medium.com/mcnx-london/the-white-privilege-clinic-an-open-letter-to-my-white-colleagues-d336e0a4206d) (accessed January 25, 2019).
 
-Nguyen, Ashley. "These Two Women Are Building an African American History Museum. *The Lily.* August 1, 2018. [[https://www.thelily.com/these-two-women-are-building-an-african-american-history-museum-online/]{.underline}](https://www.thelily.com/these-two-women-are-building-an-african-american-history-museum-online/) (accessed January 25, 2019).
+Nguyen, Ashley. "These Two Women Are Building an African American History Museum. *The Lily.* August 1, 2018. [https://www.thelily.com/these-two-women-are-building-an-african-american-history-museum-online/](https://www.thelily.com/these-two-women-are-building-an-african-american-history-museum-online/) (accessed January 25, 2019).
 
-Pogrebin, Robin. "With New Urgency, Museums Cultivate Creators of Color." *The New York Times*, August 8, 2018 [[https://www.nytimes.com/2018/08/08/arts/design/museums-curators-diversity-employment.html]{.underline}](https://www.nytimes.com/2018/08/08/arts/design/museums-curators-diversity-employment.html) (accessed January 25, 2019).
+Pogrebin, Robin. "With New Urgency, Museums Cultivate Creators of Color." *The New York Times*, August 8, 2018 [https://www.nytimes.com/2018/08/08/arts/design/museums-curators-diversity-employment.html](https://www.nytimes.com/2018/08/08/arts/design/museums-curators-diversity-employment.html) (accessed January 25, 2019).
 
-Williams, Vanessa. "\#BlackMenSmiling: Why a Small Gesture Caused a Big Reaction on Twitter." *The Washington Post*, February 3, 2018 [[https://www.washingtonpost.com/news/post-nation/wp/2018/02/03/blackmensmiling-why-a-small-gesture-caused-a-big-reaction-twitter]{.underline}](https://www.washingtonpost.com/news/post-nation/wp/2018/02/03/blackmensmiling-why-a-small-gesture-caused-a-big-reaction-twitter) (accessed January 25, 2019).
+Williams, Vanessa. "\#BlackMenSmiling: Why a Small Gesture Caused a Big Reaction on Twitter." *The Washington Post*, February 3, 2018 [https://www.washingtonpost.com/news/post-nation/wp/2018/02/03/blackmensmiling-why-a-small-gesture-caused-a-big-reaction-twitter](https://www.washingtonpost.com/news/post-nation/wp/2018/02/03/blackmensmiling-why-a-small-gesture-caused-a-big-reaction-twitter) (accessed January 25, 2019).
 
 [^1]: Niels Brugger, “Digital Humanities in the 21st Century: Digital Material as a Driving Force,” *Digital Humanities Quarterly,* Volume 10, no. 2 (2016).
 
-[^2]: “2018 Scholars,” Conference presentation, *Museum Computer Network,* Denver, CO, 2018 [[http://conference.mcn.edu/2018/scholars.cfm]{.underline}](http://conference.mcn.edu/2018/scholars.cfm) (accessed January 18, 2019).
+[^2]: “2018 Scholars,” Conference presentation, *Museum Computer Network,* Denver, CO, 2018 [http://conference.mcn.edu/2018/scholars.cfm](http://conference.mcn.edu/2018/scholars.cfm) (accessed January 18, 2019).
 
-[^3]: “Meet Our Team.” *Museum Detox*. [[http://museumdetox.com/\#team-5]{.underline}](http://museumdetox.com/#team-5) (accessed January 18, 2019).
+[^3]: “Meet Our Team.” *Museum Detox*. [http://museumdetox.com/\#team-5](http://museumdetox.com/#team-5) (accessed January 18, 2019).
 
-[^4]: Robin Pogrebin, “With New Urgency, Museums Cultivate Creators of Color,” *New York Times*, August 8, 2018 [[https://www.nytimes.com/2018/08/08/arts/design/museums-curators-diversity-employment.html]{.underline}](https://www.nytimes.com/2018/08/08/arts/design/museums-curators-diversity-employment.html) (accessed February 8, 2019).
+[^4]: Robin Pogrebin, “With New Urgency, Museums Cultivate Creators of Color,” *New York Times*, August 8, 2018 [https://www.nytimes.com/2018/08/08/arts/design/museums-curators-diversity-employment.html](https://www.nytimes.com/2018/08/08/arts/design/museums-curators-diversity-employment.html) (accessed February 8, 2019).
 
 [^5]: Pogrebin, 2018.
 
-[^6]: Hussain, Shaz.“The White Privilege Clinic \| An Open Letter to my white colleagues.” *Medium*, February 20, 2018. [[https://medium.com/mcnx-london/the-white-privilege-clinic-an-open-letter-to-my-white-colleagues-d336e0a4206d]{.underline}](https://medium.com/mcnx-london/the-white-privilege-clinic-an-open-letter-to-my-white-colleagues-d336e0a4206d) (accessed February 8, 2019).
+[^6]: Hussain, Shaz.“The White Privilege Clinic | An Open Letter to my white colleagues.” *Medium*, February 20, 2018. [https://medium.com/mcnx-london/the-white-privilege-clinic-an-open-letter-to-my-white-colleagues-d336e0a4206d](https://medium.com/mcnx-london/the-white-privilege-clinic-an-open-letter-to-my-white-colleagues-d336e0a4206d) (accessed February 8, 2019).
 
 [^7]: Kate Holterhoff, “From Disclaimer to Critique: Race and the Digital Image Archivist,” *Digital Humanities Quarterly,* Volume 11, no. 3 (2017).
 
-[^8]: “Edris Eckhardt, Pioneer in Glass Sculpture, 1905-1998.” *Cleveland Art Prize.* [[http://www.clevelandartsprize.org/awardees/Edris\_Eckhardt.html]{.underline}](http://www.clevelandartsprize.org/awardees/Edris_Eckhardt.html) (accessed January 25, 2019).
+[^8]: “Edris Eckhardt, Pioneer in Glass Sculpture, 1905-1998.” *Cleveland Art Prize.* [http://www.clevelandartsprize.org/awardees/Edris\_Eckhardt.html](http://www.clevelandartsprize.org/awardees/Edris_Eckhardt.html) (accessed January 25, 2019).
 
 [^9]: Holterhoff, 2017.
 
-[^10]: Ashley Nguyen, “These Two Women are Building an African American History Museum Online,” *The Lily* [[https://www.thelily.com/these-two-women-are-building-an-african-american-history-museum-online/]{.underline}](https://www.thelily.com/these-two-women-are-building-an-african-american-history-museum-online/) (accessed January 16, 2019).
+[^10]: Ashley Nguyen, “These Two Women are Building an African American History Museum Online,” *The Lily* [https://www.thelily.com/these-two-women-are-building-an-african-american-history-museum-online/](https://www.thelily.com/these-two-women-are-building-an-african-american-history-museum-online/) (accessed January 16, 2019).
 
 [^11]: Nguyen, *The Lily.*
 
@@ -98,4 +98,4 @@ Williams, Vanessa. "\#BlackMenSmiling: Why a Small Gesture Caused a Big Reaction
 
 [^13]: ibid.
 
-[^14]: Vanessa Williams, “\#BlackMenSmiling: Why a small gesture caused a big reaction on Twitter,” *The Washington Post*, February 3, 2018. [[https://www.washingtonpost.com/news/post-nation/wp/2018/02/03/blackmensmiling-why-a-small-gesture-caused-a-big-reaction-twitter/?noredirect=on&utm\_term=.7f6a2125ca04]{.underline}](https://www.washingtonpost.com/news/post-nation/wp/2018/02/03/blackmensmiling-why-a-small-gesture-caused-a-big-reaction-twitter/?noredirect=on&utm_term=.7f6a2125ca04) (accessed January 17, 2019).
+[^14]: Vanessa Williams, “\#BlackMenSmiling: Why a small gesture caused a big reaction on Twitter,” *The Washington Post*, February 3, 2018. [https://www.washingtonpost.com/news/post-nation/wp/2018/02/03/blackmensmiling-why-a-small-gesture-caused-a-big-reaction-twitter/?noredirect=on&utm\_term=.7f6a2125ca04](https://www.washingtonpost.com/news/post-nation/wp/2018/02/03/blackmensmiling-why-a-small-gesture-caused-a-big-reaction-twitter/?noredirect=on&utm_term=.7f6a2125ca04) (accessed January 17, 2019).
