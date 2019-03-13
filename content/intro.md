@@ -2,6 +2,7 @@
 title: Introduction
 weight: 7
 type: page
+class: page-one
 ---
 
 [The Museum Computer Network (MCN) 2018 conference, “Humanizing the Digital”](http://mcn.edu/mcn-2018-humanizing-the-digital/), explored how museums can use digital technologies to foster human connection and dialogue, advance accessibility and inclusion, and champion inquiry and knowledge. Over the course of three days and more than one hundred and forty presentations, participants were barraged with examples of how the field continues to rely on the very human qualities of collaboration, creativity, and empathy to do our work, even in the digital work we do. If anything, “humanizing” seemed an even larger presence than “digital”.
@@ -16,16 +17,10 @@ It is also worth noting that our editorial process followed (or, at least, tried
 
 So that’s how you hold this book, “Humanizing the Digital Museum” in your hand. It is necessarily a fragmentary reflection on a large event, but even in this small, kaleidoscopic view, we think you will find some of the energy and exciting thinking that was happening in Denver. And we look forward to seeing what you do with it to carry the work forward.
 
-The [TITLE TK] Editorial Team
-
-Suse Anderson
-
-Isabella Bruno
-
-Hannah Hethmon
-
-Seema Rao
-
-Ed Rodley, and
-
-Rachel Ropeik
+The Ad Hoc Museum Collective Editorial Team, <br />
+*Suse Anderson* <br />
+*Isabella Bruno* <br />
+*Hannah Hethmon* <br />
+*Seema Rao* <br />
+*Ed Rodley* <br />
+*Rachel Ropeik*
