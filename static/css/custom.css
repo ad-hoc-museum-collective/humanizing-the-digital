@@ -11,3 +11,18 @@
 .quire-page__content__references ul li:before {
   content: none;
 }
+
+/* Adjust heading and content area of the dedication page */
+#dedication .section.quire-page__content {
+  height: 50vh;
+  text-align: center;
+}
+#dedication .quire-page__content .container .content {
+  background-color: transparent;
+}
+#dedication .quire-page--frontmatter {
+  page: no-footer;
+}
+#dedication .quire-page__header__title {
+  display: none;
+}
