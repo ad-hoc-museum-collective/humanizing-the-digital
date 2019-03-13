@@ -1,0 +1,13 @@
+/* Style bibliographic lists when short form is not displayed */
+.quire-page__content .container .content .quire-page__content__references ul {
+  list-style-type: none;
+  margin-left: 0;
+}
+.quire-page__content .container .content
+.quire-page__content__references ul li {
+  margin-left: 0;
+}
+.quire-page__content .container .content
+.quire-page__content__references ul li:before {
+  content: none;
+}
