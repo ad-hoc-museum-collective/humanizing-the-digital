@@ -26,3 +26,11 @@
 #dedication .quire-page__header__title {
   display: none;
 }
+
+/* Add special highlight style for bold text as design element
+   currently uses the standard $quire-hover-color */
+.quire-page__content .container .content strong {
+  background-color: #F9F9A3;
+  text-transform: capitalize;
+  padding: .1em .5em;
+}
