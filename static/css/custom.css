@@ -34,3 +34,11 @@
   text-transform: capitalize;
   padding: .1em .5em;
 }
+
+/* Adjust the display of authors and titles in contributors list */
+.quire-contributors-list .title, .content ul.quire-contributors-list .title {
+  font-weight: 400;
+}
+.title span.quire-contributor__name {
+  font-weight: 700;
+}
