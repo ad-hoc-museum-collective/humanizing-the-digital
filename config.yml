@@ -33,7 +33,7 @@ blackfriday:
 params:
   searchEnabled: true
   licenseIcons: true
-  pageLabelDivider: ": "
+  pageLabelDivider: ". "
   citationPageLocationDivider: ", "
   displayBiblioShort: false
   imageDir: "img"
