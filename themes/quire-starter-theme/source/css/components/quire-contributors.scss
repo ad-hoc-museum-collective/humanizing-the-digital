@@ -18,6 +18,10 @@
       color: $print-text-color;
     }
   }
+  li.quire-contributor {
+    margin-left: 0;
+    page-break-inside: avoid;
+  }
 }
 
 // .quire-contributor

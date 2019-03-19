@@ -19,7 +19,7 @@ Edition © 2019 Ad Hoc Museum Collective<br />
 Text © The Authors<br />
 Cover © Ad Hoc Museum Collective/Isabella Bruno<br />
 
-{{< q-class "cc-icon" >}}
+{{< q-class "cc-icon is-screen-only" >}}
 <svg class="quire-copyright__icon">
 <switch>
   <use xlink:href="#cc"></use>
