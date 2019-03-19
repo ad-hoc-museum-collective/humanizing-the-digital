@@ -1,9 +1,0 @@
-{{/*
-
-  Concatenates the page title and subtitle, using a colon, or if the title ends with a ! or ?, no colon is included.
-
-  See also site-title.html
-
-*/}}
-{{- $endPunctuation := findRE "[!|?]$" .Page.Params.title -}}
-<span class="page-title">{{ .Page.Params.title }}</span>{{ with .Page.Params.subtitle }}{{ if $endPunctuation }} {{ else }}: {{ end }}<span class="page-subtitle">{{ . }}</span>{{ end }}

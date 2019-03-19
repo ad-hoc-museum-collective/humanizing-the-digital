@@ -1,1 +1,0 @@
-To Adrienne, with love

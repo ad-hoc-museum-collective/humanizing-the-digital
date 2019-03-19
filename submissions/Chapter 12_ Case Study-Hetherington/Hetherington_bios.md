@@ -1,3 +1,0 @@
-Peter Pavement is the director of Surface Impression, a digital design and development agency that specialises in work for the cultural sector. Peter has been working with museums and heritage organisations for over 17 years, helping them to create engaging digital interfaces and has a PhD from the University of Leicester. [www.surfaceimpression.digital](http://www.surfaceimpression.digital/)
-
-Amy Hetherington holds an MA and a PhD in museum studies from the University of Leicester. She has worked in the museum sector for 10 years and is currently the managing director of North American operations for Surface Impression.
