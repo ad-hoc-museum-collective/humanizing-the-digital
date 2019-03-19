@@ -31,9 +31,16 @@
 /* Adjust the display of authors and titles in contributors list */
 .quire-contributors-list .title, .content ul.quire-contributors-list .title {
   font-weight: 400;
+  font-family: 'IBM Plex Sans Condensed', sans-serif;
 }
 .title span.quire-contributor__name {
   font-weight: 700;
+}
+.content ul.quire-contributors-list .title {
+  margin-bottom: .5rem;
+}
+.quire-contributor__details p {
+  margin-bottom: .25rem !important;
 }
 
 /* Custom styling for zine page */
