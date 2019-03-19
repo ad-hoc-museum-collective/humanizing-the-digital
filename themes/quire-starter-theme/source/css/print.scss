@@ -12,8 +12,8 @@ $print-base-text-column-width: 4.75in;
 
 $print-bottom-margin: 0.875in;
 $print-top-margin: 0.75in;
-$print-outer-margin: 0.75in;
-$print-inner-margin: 1in;
+$print-outer-margin: 0.5in;
+$print-inner-margin: .75in;
 
 @if $print-width <= 7 {
   $print-inner-margin: $print-width - $print-base-text-column-width - $print-outer-margin;
@@ -51,7 +51,7 @@ $print-trim: $print-bleed * 2;
     margin-right: $print-inner-margin;
 
     @bottom-right {
-      content: string(sectiontitle);
+      content: string(pagelabel);
       text-transform: uppercase;
       letter-spacing: 1pt;
       font-size: 7.5pt;
@@ -171,6 +171,10 @@ $print-trim: $print-bleed * 2;
 
   .pdf-page-section {
     string-set: sectiontitle content();
+  }
+  
+  .label {
+    string-set: pagelabel content();
   }
 
   .quire-contents-list {
@@ -434,6 +438,7 @@ $print-trim: $print-bleed * 2;
   }
   
   $title-page-margin: $print-outer-margin + .5;
+  
 
   .title-page {
     margin: 0 $print-bleed;

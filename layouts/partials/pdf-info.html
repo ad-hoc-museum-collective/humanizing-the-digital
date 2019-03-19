@@ -1,0 +1,6 @@
+{{/* Adds info to use in PrinceXML running page footers ------ */}}
+<div style="display: none">
+  <span class="pdf-page-title-block">
+    {{ with .Params.label }}{{ . }}{{ $.Site.Params.pageLabelDivider }}{{ end }}<span class="pdf-page-title">{{ if .Params.short_title }}{{ .Params.short_title | markdownify }}{{ else }}{{ .Title | markdownify | truncate 35 }}{{ end }}</span></span>
+  <span class="pdf-page-section">{{ with .Section }}{{ . | humanize }}{{ end }}</span>
+</div>
