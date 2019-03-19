@@ -436,14 +436,18 @@ $print-trim: $print-bleed * 2;
   $title-page-margin: $print-outer-margin + .5;
 
   .title-page {
-    margin-right: $title-page-margin;
+    margin: 0 $print-bleed;
+    padding-right: $title-page-margin;
+    padding-left: $print-inner-margin;
     height: $print-height;
     @if $print-width <= 7 {
-      margin-right: 0;
-      max-width: $print-base-text-column-width;
+      padding-right: $print-outer-margin;
     }
     text-align: right;
     padding-top: 3.25in;
+    @if $print-height <= 9 {
+      padding-top: 2.25in;
+    }
     font-family: $quire-headings-font;
 
     span {
@@ -479,7 +483,7 @@ $print-trim: $print-bleed * 2;
       bottom: 1.5in;
       right: $title-page-margin;
       @if $print-width <= 7 {
-        right: 0;
+        right: $print-outer-margin;
       }
     }
     
@@ -489,17 +493,21 @@ $print-trim: $print-bleed * 2;
   }
 
   .half-title-page {
-    margin-right: $title-page-margin;
+    margin: 0 $print-bleed;
+    padding-right: $title-page-margin;
+    padding-left: $print-inner-margin;
     height: $print-height;
     @if $print-width <= 7 {
-      margin-right: 0;
-      max-width: $print-base-text-column-width;
+      padding-right: $print-outer-margin;
     }
     font-family: $quire-headings-font;
     font-size: 1.5em;
     color: $accent-color;
     text-align: right;
     padding-top: 3.5in;
+    @if $print-height <= 9 {
+      padding-top: 2.5in;
+    }
 
     span {
       display: block; 
