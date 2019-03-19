@@ -1,3 +1,32 @@
+/* Cover customization */
+.hero.is-fullheight .quire-cover__hero-body.hero-body {
+  z-index: 1;
+  align-items: flex-end;
+}
+.quire-cover__hero-body.hero-body .container.is-fluid {
+  position: inherit;
+  background-color: transparent;
+}
+.quire-cover__hero-body.hero-body .container.is-fluid * {
+  color: black;
+  text-align: center;
+  font-weight: 700;
+  background-color: white;
+  width: fit-content;
+  padding: .5rem 1rem;
+  margin: 0 auto;
+}
+.quire-cover__hero-body.hero-body .container.is-fluid .title-text {
+  /* .visually-hidden */
+  clip: rect(1px, 1px, 1px, 1px);
+  height: 1px;
+  overflow: hidden;
+  position: absolute;
+  width: 1px;
+}
+.quire-cover__more-body.hero-more {
+  background-color: MediumVioletRed;
+}
 
 /* Adjust heading and content area of the dedication page */
 #dedication .section.quire-page__content {
