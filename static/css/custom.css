@@ -57,6 +57,12 @@
   padding: 0 .2em;
 }
 
+/* Make labels black */
+.quire-page__header .hero-body .label {
+  background-color: #000;
+  padding: .35rem .65rem;
+}
+
 /* Adjust the display of authors and titles in contributors list */
 .quire-contributors-list .title, .content ul.quire-contributors-list .title {
   font-weight: 400;
