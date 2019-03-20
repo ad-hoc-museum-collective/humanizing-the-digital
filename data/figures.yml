@@ -36,7 +36,7 @@ figure_list:
   - id: "7-1"
     src: figures/Burness-et-al_Figure.1.jpg
     label: "Figure 1"
-    caption: "The Museum Social Photo Journey, a conceptual framework outlining how a social media photograph posted by a visitor might impact and inform a response from a museum (Alli Burness, 2016)"
+    caption: "The Museum Social Photo Journey, a conceptual framework outlining how a social media photograph posted by a visitor might impact and inform a response from a museum."
   - id: "7-2"
     src: figures/Burness-et-al_Figure.2.jpg
     label: "Figure 2"
