@@ -100,25 +100,25 @@ figure_list:
     label: "Figure 3"
     caption: "The “Social Collection Connector” concept from the Balboa Park Online Collaborative showing how an easy-to-use browser plugin, coupled with integrated archiving tools and connections to the museum CMS could enable social media managers to quickly collect social behavior and other user-generated content. Design by Chad Weinard, used with permission. https://libp.bpoc.org/prototypes/social-collection-connector"
   - id: "17-1"
-    src: figures/Empathy_Page_01.jpg
+    src: figures/exquisite-empathy-0.png
   - id: "17-2"
-    src: figures/Empathy_Page_02.jpg
+    src: figures/exquisite-empathy-1.png
   - id: "17-3"
-    src: figures/Empathy_Page_03.jpg
+    src: figures/exquisite-empathy-2.png
   - id: "17-4"
-    src: figures/Empathy_Page_04.jpg
+    src: figures/exquisite-empathy-3.png
   - id: "17-5"
-    src: figures/Empathy_Page_05.jpg
+    src: figures/exquisite-empathy-4.png
   - id: "17-6"
-    src: figures/Empathy_Page_06.jpg
+    src: figures/exquisite-empathy-5.png
   - id: "17-7"
-    src: figures/Empathy_Page_07.jpg
+    src: figures/exquisite-empathy-6.png
   - id: "17-8"
-    src: figures/Empathy_Page_08.jpg
+    src: figures/exquisite-empathy-7.png
   - id: "17-9"
-    src: figures/Empathy_Page_09.jpg
+    src: figures/exquisite-empathy-8.png
   - id: "17-10"
-    src: figures/Empathy_Page_10.jpg
+    src: figures/exquisite-empathy-9.png
 
 
       
