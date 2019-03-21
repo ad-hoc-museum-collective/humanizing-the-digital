@@ -96,3 +96,21 @@
 #chapters-17 .quire-page__content {
   text-align: center;
 }
+
+.experience {
+  color: #333;
+  background-color: #EEF2F3;
+  border-radius: 6px;
+  padding: 2rem;
+  line-height: 2;
+  margin-bottom: 1rem;
+  font-style: italic;
+}
+.experience em {
+  font-style: normal;
+}
+@media print {
+  .experience {
+    line-height: 1.7;
+  }
+}
