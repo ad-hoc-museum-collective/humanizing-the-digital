@@ -173,15 +173,17 @@ $print-trim: $print-bleed * 2;
     string-set: sectiontitle content();
   }
   
-  .label {
+  .pdf-page-label {
     string-set: pagelabel content();
   }
 
   .quire-contents-list {
     .page-item {
+      max-width: 90%;
       a::after {
         content: leader(dotted) ' 'target-counter(attr(href, url), page);
         margin-left: 6pt; 
+        margin-right: -10%;
         // This border is a hack for PrinceXML which doesn't
         // otherwise recognize the box sizing for some reason
         border: 1pt solid transparent;
@@ -190,6 +192,7 @@ $print-trim: $print-bleed * 2;
         content: leader(dotted) ' 'target-counter(attr(href, url), page, lower-roman);
         font-style: italic;
         margin-left: 6pt; 
+        margin-right: -10%;
         // This border is a hack for PrinceXML which doesn't
         // otherwise recognize the box sizing for some reason
         border: 1pt solid transparent;
