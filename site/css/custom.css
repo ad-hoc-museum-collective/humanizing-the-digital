@@ -89,6 +89,15 @@
   color: #eef2f3;
   margin: 0 auto 1.7em;
 }
+@media print {
+  #chapters-17 .entry-page-label {
+    margin-top: 2.5in;
+    page: no-footer;
+  }
+  #chapters-17 .quire-entry__content {
+    display: none;
+  }
+}
 #chapters-17 .page-title {
   display: none;
 }
@@ -96,3 +105,94 @@
 #chapters-17 .quire-page__content {
   text-align: center;
 }
+
+/* Colophone page, hide heading, use PNG CC-BY logo */
+#colophon .quire-page__header__title {
+  display: none;
+}
+#colophon img {
+  height: .2125in;
+}
+#colophon .backmatter p:nth-child(6) {
+  margin-bottom: 0;
+}
+
+/* Special styling for Rachel’s Slow Cnage callouts */
+.experience {
+  color: #333;
+  background-color: #EEF2F3;
+  border-radius: 6px;
+  padding: 2rem;
+  line-height: 2;
+  margin-bottom: 1rem;
+  font-style: italic;
+}
+.experience em {
+  font-style: normal;
+}
+@media print {
+  .experience {
+    line-height: 1.7;
+  }
+}
+
+/* Print customizations */
+@media print {
+  p {
+    orphans: 2;
+    widows: 2;
+  }
+  .title-page span br {
+    display: block;
+  }
+  
+  .quire-entry__image figure .quire-figure__media-fallback .quire-figure__wrapper {
+    width: 6.25in;
+    height: 8.59375in;
+    margin-top: .5in;
+  }
+  
+  .experience {
+    padding: 1.5rem;
+  }
+  
+  .quire-page__content__references ul li {
+    page-break-inside: avoid;
+  }
+  
+  #chapters-10 figure.quire-figure {
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+  }
+  #chapters-6 figure.quire-figure,
+  #chapters-11 figure.quire-figure:first-of-type,
+  #chapters-12 figure.quire-figure,
+  #chapters-14 figure.quire-figure {
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+  }
+  #chapters-7 figure.quire-figure:nth-of-type(3) {
+    width: 70%;
+    margin-left: 15%;
+    margin-right: 15%;
+  }
+  #chapters-10 table {
+    page-break-before: always;
+  }
+  
+  #colophon {
+    page: no-footer;
+  }
+  
+  .quire-entry__image .quire-entry__image__group-container figure {
+    page: splash-image;
+    width: 6.25in;
+    height: 9.25in;
+    margin-left: -.125in;
+    margin-top: -.125in;
+  }  
+  
+}
+
