@@ -43,15 +43,15 @@ publisher:
 # ------------------------------------------------------------------------------
 
 copyright: |
-  Edition © 2019 Ad Hoc Museum Collective
-  Text © The Authors
+  Edition © 2019 Ad Hoc Museum Collective <br />
+  Text © The Authors <br />
   Cover © Ad Hoc Museum Collective/Isabella Bruno
 
 license:
   name: Creative Commons Attribution 4.0 International License
   abbreviation: CC BY
   url: http://creativecommons.org/licenses/by/4.0/
-  scope: full # full | text-only | some-exceptions
+  scope: some-exceptions # full | text-only | some-exceptions
 
 # ------------------------------------------------------------------------------
 # Formats, Resources & Links
@@ -74,9 +74,9 @@ resource_link:
     link_relation: alternate
     url: /downloads/output.mobi
   - type: footer-link
-    name: About
+    name: Colophon
     link_relation: about
-    url: /about/
+    url: /colophon/
 
 # ------------------------------------------------------------------------------
 # Subjects
@@ -115,7 +115,7 @@ contributor:
     first_name: Greg
     last_name: Albers
     title: Production Editor
-    bio: "Greg Albers is a technologist and digital literarcy advocate. He interested in the intersection of the websites and books, the development of open source software and open culture, and tugboats as a metaphor for museum work. He is currently the digital publications manager at the J. Paul Getty Trust, and serves on the MCN Board of Directors."
+    bio: "Greg Albers is a technologist and digital literacy advocate. He is interested in the intersection of websites and books, the development of open source software and open, digital culture, and tugboats as a metaphor for museum work. He is currently the digital publications manager at the J. Paul Getty Trust, and serves on the MCN Board of Directors."
   - id: jalderman
     first_name: Jason
     last_name: Alderman
