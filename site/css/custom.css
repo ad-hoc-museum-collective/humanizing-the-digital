@@ -28,6 +28,16 @@
   background-color: MediumVioletRed;
 }
 
+.quire-cover__hero .contributor {
+  display: block;
+}
+@media screen and (max-width: 580px) {
+  .quire-cover__hero .contributor {
+    display: none;
+  }
+}
+
+
 /* Adjust heading and content area of the dedication page */
 #dedication .section.quire-page__content {
   height: 50vh;
@@ -134,6 +144,24 @@
   .experience {
     line-height: 1.7;
   }
+}
+
+/* Special styling for Darren’s Smithsonian embed */
+@media screen {
+  #chapters-14 figure:nth-of-type(2) {
+    display: none;
+  }
+}
+.quire-page__content .container .content .q-figure__wrapper.embed figcaption strong {
+  background-color: transparent;
+  color: #000;
+}
+.q-figure__wrapper.embed .sll-embed #embed-results .collection-widget-outer-container {
+  padding: 0;
+}
+.q-figure__wrapper.embed [class*='sll-'] {
+  margin-left: 0;
+  padding: 0;
 }
 
 /* Print customizations */
