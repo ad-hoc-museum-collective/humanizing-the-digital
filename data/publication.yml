@@ -25,7 +25,7 @@ description:
 # Publication Details
 # ------------------------------------------------------------------------------
 
-pub_date:
+pub_date: 2019-04-01
 language: en
 pub_type: book # book | journal-periodical | other
 
@@ -59,20 +59,25 @@ license:
 
 resource_link:
   - type: other-format
-    name: PDF
+    name: PDF (2.3MB)
     media_type: application/pdf
     link_relation: alternate
-    url: /downloads/output.pdf
+    url: /downloads/humanizing-the-digital.pdf
   - type: other-format
-    name: EPUB
+    name: EPUB (13.1MB)
     media_type: application/epub+zip
     link_relation: alternate
-    url: /downloads/output.epub
+    url: /downloads/humanizing-the-digital.epub
   - type: other-format
-    name: Kindle/MOBI
+    name: Kindle/MOBI (30.1MB)
     media_type: vnd.amazon.mobi8-ebook
     link_relation: alternate
-    url: /downloads/output.mobi
+    url: /downloads/humanizing-the-digital.mobi
+  - type: other-format
+    name: Paperback ($13.99) ↗
+    media_type: print
+    link_relation: alternate
+    url: https://www.amazon.com/dp/1091360332
   - type: footer-link
     name: Colophon
     link_relation: about
