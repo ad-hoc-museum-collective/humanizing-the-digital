@@ -28,6 +28,16 @@
   background-color: MediumVioletRed;
 }
 
+.quire-cover__hero .contributor {
+  display: block;
+}
+@media screen and (max-width: 580px) {
+  .quire-cover__hero .contributor {
+    display: none;
+  }
+}
+
+
 /* Adjust heading and content area of the dedication page */
 #dedication .section.quire-page__content {
   height: 50vh;
